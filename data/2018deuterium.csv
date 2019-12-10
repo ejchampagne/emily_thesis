@@ -1,0 +1,606 @@
+old sampleid,sampleid,sitename,sitecode,species,role,delta2h,ampl,p_h
+AC-S18-212-1,AC-S18-212-1,Archie Coulter,AC,creek chub,cc,-109.66,14243,7
+AC-S18-212-2,AC-S18-212-2,Archie Coulter,AC,creek chub,cc,-109.52,16880,6.7
+AC-S18-212-3,AC-S18-212-3,Archie Coulter,AC,creek chub,cc,-111.37,17331,6.8
+AC-S18-212-4,AC-S18-212-4,Archie Coulter,AC,creek chub,cc,-103.94,12847,5.9
+AC-S18-212-5,AC-S18-212-5,Archie Coulter,AC,creek chub,cc,-112.74,14208,6.4
+AC-S18-212-MT1,AC-S18-212-MT1,Archie Coulter,AC,creek chub,cc,-110.49,17029,7
+AC-S18-341-9,AC-S18-341-9,Archie Coulter,AC,johnny darter,invertivore,-115.08,5136,6.6
+AC-S18-ALGAE-1,AC-S18-ALGAE-1,Archie Coulter,AC,algae,algae,-155.67,22769,2.3
+AC-S18-ALGAE-2,AC-S18-ALGAE-2,Archie Coulter,AC,algae,algae,-155.87,20990,1.9
+AC-S18-ALGAE-3,AC-S18-ALGAE-3,Archie Coulter,AC,algae,algae,-155.56,17121,1.7
+AC-S18-AQB-1,AC-S18-AQB-1,Archie Coulter,AC,mayfly/caddisfly,aqbase,-152.1,18707,6.5
+AC-S18-AQB-2,AC-S18-AQB-2,Archie Coulter,AC,mayfly/caddisfly,aqbase,-99.76,4408,1.8
+AC-S18-DETRITUS-1,AC-S18-DETRITUS-1,Archie Coulter,AC,detritus,det,-101.02,28165,6
+AC-S18-DETRITUS-2,AC-S18-DETRITUS-2,Archie Coulter,AC,detritus,det,-102.4,22978,5.8
+AC-S18-DETRITUS-3,AC-S18-DETRITUS-3,Archie Coulter,AC,detritus,det,-142.27,17435,3.6
+AC-S18-GROD-1,AC-S18-GOLDENROD-1,Archie Coulter,AC,goldenrod,terpp,-143.95,18050,7.4
+AC-S18-GROD-2,AC-S18-GOLDENROD-2,Archie Coulter,AC,goldenrod,terpp,-137.75,15357,6.2
+AC-S18-GROD-3,AC-S18-GOLDENROD-3,Archie Coulter,AC,goldenrod,terpp,-140.55,15331,6.1
+AC-S18-SNAILS-1,AC-S18-SNAILS-1,Archie Coulter,AC,european garden snail,terbase,-79.77,19209,6.6
+AC-S18-SNAILS-2,AC-S18-SNAILS-2,Archie Coulter,AC,european garden snail,terbase,-80.02,18952,6.7
+AT2-18-AL-01,AT2-18-AL-01,Taylor,AT,algae,algae,-159.86,,
+AT2-18-AL-02,AT2-18-AL-02,Taylor,AT,algae,algae,-159.52,,
+AT2-18-AL-03,AT2-18-AL-03,Taylor,AT,algae,algae,-160.37,,
+AT2-18-CC-01,AT2-18-CC-01,Taylor,AT,creek chub,cc,-110.61,,
+AT2-18-CC-02,AT2-18-CC-02,Taylor,AT,creek chub,cc,-126,,
+AT2-18-CC-34,AT2-18-CC-34,Taylor,AT,creek chub,cc,-128.64,,
+AT2-18-CC-36,AT2-18-CC-36,Taylor,AT,creek chub,cc,-141.04,,
+AT2-18-CC-38,AT2-18-CC-38,Taylor,AT,creek chub,cc,-116.75,,
+AT2-18-CC-39,AT2-18-CC-39,Taylor,AT,creek chub,cc,-141.79,,
+AT2-18-DT-01,AT2-18-DT-01,Taylor,AT,detritus,det,-114.28,,
+AT2-18-DT-02,AT2-18-DT-02,Taylor,AT,detritus,det,-116.53,,
+AT2-18-DT-03,AT2-18-DT-03,Taylor,AT,detritus,det,-109.37,,
+AT2-18-GH-01,AT2-18-GH-01,Taylor,AT,grasshopper,terbase,-110.82,,
+AT2-18-GH-02,AT2-18-GH-02,Taylor,AT,grasshopper,terbase,-110.87,,
+AT2-18-GH-03,AT2-18-GH-03,Taylor,AT,grasshopper,terbase,-116.91,,
+AT2-18-SC-01,AT2-18-SC-01,Taylor,AT,goldenrod,terpp,-164.34,,
+AT2-18-SC-02,AT2-18-SC-02,Taylor,AT,goldenrod,terpp,-165.47,,
+AT2-18-SC-03,AT2-18-SC-03,Taylor,AT,goldenrod,terpp,-170.09,,
+AT2-18-SN-01,AT2-18-SN-01,Taylor,AT,aquatic snail,aqbase,-134.51,,
+AT2-18-SN-02,AT2-18-SN-02,Taylor,AT,aquatic snail,aqbase,-142.77,,
+AT2-18-SN-03,AT2-18-SN-03,Taylor,AT,aquatic snail,aqbase,-141.61,,
+BG-S18-ALGAE-1,BG-S18-ALGAE-1,Gilvesy,BG,algae,algae,-109.72,9447,1.1
+BG-S18-ALGAE-2,BG-S18-ALGAE-2,Gilvesy,BG,algae,algae,-107.45,12273,1.3
+BG-S18-ALGAE-3,BG-S18-ALGAE-3,Gilvesy,BG,algae,algae,-108.35,11076,1.1
+BG-S18-CAT-1,BG-S18-CAT-1,Gilvesy,BG,caterpillar,terbase,-138.5,18108,7.7
+BG-S18-CAT-2,BG-S18-CAT-2,Gilvesy,BG,caterpillar,terbase,-137.03,17457,7.6
+BG-S18-CAT-3,BG-S18-CAT-3,Gilvesy,BG,caterpillar,terbase,-136.93,16769,7.7
+BG-S18-DETRITUS-1,BG-S18-DETRITUS-1,Gilvesy,BG,detritus,det,-115.39,10211,2.8
+BG-S18-DETRITUS-2,BG-S18-DETRITUS-2,Gilvesy,BG,detritus,det,-115.19,10643,2.7
+BG-S18-DETRITUS-3,BG-S18-DETRITUS-3,Gilvesy,BG,detritus,det,-114.61,9625,3
+BG-S18-GOL-1,BG-S18-GOL-1,Gilvesy,BG,goldenrod,terpp,-145,14157,6.1
+BG-S18-GOL-2,BG-S18-GOL-2,Gilvesy,BG,goldenrod,terpp,-142.83,14328,6.1
+BG-S18-GOL-3,BG-S18-GOL-3,Gilvesy,BG,goldenrod,terpp,-141.42,14941,6
+BG-S18-MAYFLY,BG-S18-MAYFLY,Gilvesy,BG,mayfly,aqbase,-82.35,1188,5.7
+BS-S18-076-2,BS-S18-076-2,Stewart Farm,BS,rainbow trout,invertivore,-92.93,6225,7.1
+BS-S18-076-3,BS-S18-076-3,Stewart Farm,BS,rainbow trout,invertivore,-97.08,5655,6.7
+BS-S18-076-4,BS-S18-076-4,Stewart Farm,BS,rainbow trout,invertivore,-89.5,7063,6.8
+BS-S18-ALGAE-1,BS-S18-ALGAE-1,Stewart Farm,BS,algae,algae,-119.17,9609,2.4
+BS-S18-ALGAE-2,BS-S18-ALGAE-2,Stewart Farm,BS,algae,algae,-119.41,8551,2
+BS-S18-ALGAE-3,BS-S18-ALGAE-3,Stewart Farm,BS,algae,algae,-121.98,8648,2.4
+BS-S18-CADDIS-1,BS-S18-CADDIS-1,Stewart Farm,BS,caddisfly,aqbase,-113.25,4873,6.5
+BS-S18-CADDIS-2,BS-S18-CADDIS-2,Stewart Farm,BS,caddisfly,aqbase,-98.74,4872,6.3
+BS-S18-DET-1,BS-S18-DET-1,Stewart Farm,BS,detritus,det,-117.9,3768,2.6
+BS-S18-DET-2,BS-S18-DET-2,Stewart Farm,BS,detritus,det,-115.32,3610,2.9
+BS-S18-DET-3,BS-S18-DET-3,Stewart Farm,BS,detritus,det,-115.52,3637,2.8
+BS-S18-GOL-1,BS-S18-GOL-1,Stewart Farm,BS,goldenrod,terpp,-95.61,4183,5.6
+BS-S18-GOL-2,BS-S18-GOL-2,Stewart Farm,BS,goldenrod,terpp,-97.84,5069,5.7
+BS-S18-GOL-3,BS-S18-GOL-3,Stewart Farm,BS,goldenrod,terpp,-97.47,5206,5.7
+BS-S18-TRB-1,BS-S18-TRB-1,Stewart Farm,BS,caterpillar,terbase,-104.1,6384,6.6
+BS-S18-TRB-2,BS-S18-TRB-2,Stewart Farm,BS,caterpillar,terbase,-106.92,5378,6.5
+BS-S18-TRB-3,BS-S18-TRB-3,Stewart Farm,BS,caterpillar,terbase,-105.31,5782,7
+BW-S18-163-3,BW-S18-163-3,Backus Woods,BW,white sucker,detritivore,-110.43,14687,6.9
+BW-S18-212-1,BW-S18-212-1,Backus Woods,BW,creek chub,cc,-91.04,14581,6.7
+BW-S18-212-2,BW-S18-212-2,Backus Woods,BW,creek chub,cc,-92.81,16641,6.8
+BW-S18-341-2,BW-S18-341-2,Backus Woods,BW,johnny darter,invertivore,-107.66,16273,7
+BW-S18-ALG-1,BW-S18-ALG-1,Backus Woods,BW,algae,algae,-187.63,28224,5.1
+BW-S18-ALG-2,BW-S18-ALG-2,Backus Woods,BW,algae,algae,-182.68,6896,5.2
+BW-S18-ALG-3,BW-S18-ALG-3,Backus Woods,BW,algae,algae,-169.18,22254,5
+BW-S18-CATERPILLAR-1,BW-S18-CATERPILLAR-1,Backus Woods,BW,caterpillar,terbase,-108.67,16055,7
+BW-S18-CATERPILLAR-2,BW-S18-CATERPILLAR-2,Backus Woods,BW,caterpillar,terbase,-114.63,19446,7.6
+BW-S18-DET-1,BW-S18-DET-1,Backus Woods,BW,detritus,det,-80.02,18351,4.3
+BW-S18-DET-2,BW-S18-DET-2,Backus Woods,BW,detritus,det,-103.58,23791,4.8
+BW-S18-DET-3,BW-S18-DET-3,Backus Woods,BW,detritus,det,-105.18,19942,4.4
+BW-S18-GOL-1,BW-S18-GOL-1,Backus Woods,BW,goldenrod,terpp,-115.43,15287,5.7
+BW-S18-GOL-2,BW-S18-GOL-2,Backus Woods,BW,goldenrod,terpp,-115.62,15100,5.5
+BW-S18-MAYFLY-1,BW-S18-MAYFLY-1,Backus Woods,BW,mayfly,aqbase,-107.72,17493,5.9
+BW-S18-MAYFLY-2,BW-S18-MAYFLY-2,Backus Woods,BW,mayfly,aqbase,-95.71,721,5.6
+BW-S18-SNAIL,BW-S18-SNAIL,Backus Woods,BW,european garden snail,terbase,-78.62,19892,6.6
+DE-S18-163-4,DE-S18-163-4,Dedrick's Creek,DE,white sucker,detritivore,-109.57,26638,6.8
+DE-S18-212-1,DE-S18-212-1,Dedrick's Creek,DE,creek chub,cc,-99.11,22025,5.8
+DE-S18-212-11,DE-S18-212-11,Dedrick's Creek,DE,creek chub,cc,-105.25,24643,6.4
+DE-S18-212-12,DE-S18-212-12,Dedrick's Creek,DE,creek chub,cc,-101.48,26571,6.8
+DE-S18-212-15,DE-S18-212-15,Dedrick's Creek,DE,creek chub,cc,-108.09,23776,6.8
+DE-S18-212-2,DE-S18-212-2,Dedrick's Creek,DE,creek chub,cc,-104.76,24821,6.7
+DE-S18-212-3,DE-S18-212-3,Dedrick's Creek,DE,creek chub,cc,-120.08,21978,6.6
+DE-S18-212-4,DE-S18-212-4,Dedrick's Creek,DE,creek chub,cc,-111.97,24394,7
+DE-S18-212-5,DE-S18-212-5,Dedrick's Creek,DE,creek chub,cc,-99.59,25584,6.7
+DE-S18-212-6,DE-S18-212-6,Dedrick's Creek,DE,creek chub,cc,-105.46,25377,6.6
+DE-S18-212-7,DE-S18-212-7,Dedrick's Creek,DE,creek chub,cc,-97.93,22749,6.5
+DE-S18-341-19,DE-S18-341-19,Dedrick's Creek,DE,johnny darter,invertivore,-115.07,23218,6.2
+DE-S18-ALG-1,DE-S18-ALG-1,Dedrick's Creek,DE,algae,algae,-142.48,26385,1.8
+DE-S18-ALG-2,DE-S18-ALG-2,Dedrick's Creek,DE,algae,algae,-132.38,12679,0.8
+DE-S18-CAT-1,DE-S18-CAT-1,Dedrick's Creek,DE,caterpillar,terbase,-101.71,23773,6.7
+DE-S18-CAT-2,DE-S18-CAT-2,Dedrick's Creek,DE,caterpillar,terbase,-103.19,20777,6.6
+DE-S18-CAT-3,DE-S18-CAT-3,Dedrick's Creek,DE,caterpillar,terbase,-98.52,25848,6.7
+DE-S18-DET-1,DE-S18-DET-1,Dedrick's Creek,DE,detritus,det,-107.86,27180,3.7
+DE-S18-DET-2,DE-S18-DET-2,Dedrick's Creek,DE,detritus,det,-108.49,29612,3.9
+DE-S18-DET-3,DE-S18-DET-3,Dedrick's Creek,DE,detritus,det,-108.08,27348,4
+DE-S18-GOL-1,DE-S18-GOL-1,Dedrick's Creek,DE,goldenrod,terpp,-143.13,21131,5.7
+DE-S18-GOL-2,DE-S18-GOL-2,Dedrick's Creek,DE,goldenrod,terpp,-144.1,23295,5.7
+DE-S18-GOL-3,DE-S18-GOL-3,Dedrick's Creek,DE,goldenrod,terpp,-146.56,22542,6
+EP1-S18-163-4,EP1-S18-163-4,Perl 1,EP1,white sucker,detritivore,-119.27,16270,6.6
+EP1-S18-165-3,EP1-S18-165-3,Perl 1,EP1,northern hog sucker,herbivore,-115.43,17341,6.8
+EP1-S18-212-13,EP1-S18-212-13,Perl 1,EP1,creek chub,cc,-96.42,16374,6.8
+EP1-S18-212-14,EP1-S18-212-14,Perl 1,EP1,creek chub,cc,-90.69,16366,6.6
+EP1-S18-212-19,EP1-S18-212-19,Perl 1,EP1,creek chub,cc,-96.73,13556,6.7
+EP1-S18-212-20,EP1-S18-212-20,Perl 1,EP1,creek chub,cc,-96.97,16180,6.7
+EP1-S18-212-22,EP1-S18-212-22,Perl 1,EP1,creek chub,cc,-95.65,17164,7
+EP1-S18-212-25,EP1-S18-212-25,Perl 1,EP1,creek chub,cc,-103.05,14127,6.7
+EP1-S18-212-27,EP1-S18-212-27,Perl 1,EP1,creek chub,cc,-91.77,14426,6.5
+EP1-S18-212-29,EP1-S18-212-29,Perl 1,EP1,creek chub,cc,-104.89,15496,7
+EP1-S18-212-31,EP1-S18-212-31,Perl 1,EP1,creek chub,cc,-98.12,17286,6.7
+EP1-S18-212-32,EP1-S18-212-32,Perl 1,EP1,creek chub,cc,-106.34,15580,6.5
+EP1-S18-341-11,EP1-S18-341-11,Perl 1,EP1,johnny darter,invertivore,-108.73,16122,6.7
+EP1-S18-ALG-1,EP1-S18-ALG-1,Perl 1,EP1,algae,algae,-107,9546,2.4
+EP1-S18-ALG-2,EP1-S18-ALG-2,Perl 1,EP1,algae,algae,-107.4,8939,2.2
+EP1-S18-ALG-3,EP1-S18-ALG-3,Perl 1,EP1,algae,algae,-106.2,9937,2.2
+EP1-S18-CADDISFLY-1,EP1-S18-CADDISFLY-1,Perl 1,EP1,caddisfly,aqbase,-177.39,24210,7.2
+EP1-S18-CADDISFLY-2,EP1-S18-CADDISFLY-2,Perl 1,EP1,caddisfly,aqbase,-176.37,23608,7.1
+EP1-S18-DET-1,EP1-S18-DET-1,Perl 1,EP1,detritus,det,-99.99,26292,5.1
+EP1-S18-DET-2,EP1-S18-DET-2,Perl 1,EP1,detritus,det,-97.66,27820,5.2
+EP1-S18-DET-3,EP1-S18-DET-3,Perl 1,EP1,detritus,det,-100.34,21825,4.9
+EP1-S18-GOL-1,EP1-S18-GOL-1,Perl 1,EP1,goldenrod,terpp,-108.26,16273,6
+EP1-S18-GOL-2,EP1-S18-GOL-2,Perl 1,EP1,goldenrod,terpp,-99.74,16286,6
+EP1-S18-GOL-3,EP1-S18-GOL-3,Perl 1,EP1,goldenrod,terpp,-107.22,15395,5.9
+EP1-S18-MAYFLY,EP1-S18-MAYFLY,Perl 1,EP1,mayfly,aqbase,-111.11,14826,5.6
+EP1-S18-snail-1,EP1-S18-SNAIL-1,Perl 1,EP1,european garden snail,terbase,-84.85,6585,6.6
+EP1-S18-snail-2,EP1-S18-SNAIL-2,Perl 1,EP1,european garden snail,terbase,-80.44,5193,6.1
+EP1-S18-snail-3,EP1-S18-SNAIL-3,Perl 1,EP1,european garden snail,terbase,-83.86,5714,6.5
+EP2-S18-163-10,EP2-S18-163-10,Perl 2,EP2,white sucker,detritivore,-127.99,15700,6.7
+EP2-S18-212-10,EP2-S18-212-10,Perl 2,EP2,creek chub,cc,-92.9,15925,6.7
+EP2-S18-212-12,EP2-S18-212-12,Perl 2,EP2,creek chub,cc,-112.56,15025,6.9
+EP2-S18-212-13,EP2-S18-212-13,Perl 2,EP2,creek chub,cc,-99.21,15072,6.7
+EP2-S18-212-15,EP2-S18-212-15,Perl 2,EP2,creek chub,cc,-98.9,16983,6.6
+EP2-S18-212-16,EP2-S18-212-16,Perl 2,EP2,creek chub,cc,-106.74,14878,6.8
+EP2-S18-212-2,EP2-S18-212-2,Perl 2,EP2,creek chub,cc,-109.6,14973,6.6
+EP2-S18-212-3,EP2-S18-212-3,Perl 2,EP2,creek chub,cc,-108.45,15553,6.7
+EP2-S18-212-4,EP2-S18-212-4,Perl 2,EP2,creek chub,cc,-109.54,15233,6.8
+EP2-S18-212-6,EP2-S18-212-6,Perl 2,EP2,creek chub,cc,-94.63,15468,6.6
+EP2-S18-212-7,EP2-S18-212-7,Perl 2,EP2,creek chub,cc,-105.8,14659,6.6
+EP2-S18-281-1,EP2-S18-281-1,Perl 2,EP2,brook stickleback,planktivore,-127.54,15576,7
+EP2-S18-630-3,EP2-S18-630-3,Perl 2,EP2,blacknose dace,invertivore,-125.27,14734,6.9
+EP2-S18-ALGAE-1,EP2-S18-ALGAE-1,Perl 2,EP2,algae,algae,-113.22,6106,1.9
+EP2-S18-ALGAE-2,EP2-S18-ALGAE-2,Perl 2,EP2,algae,algae,-115.54,8156,2.3
+EP2-S18-ALGAE-3,EP2-S18-ALGAE-3,Perl 2,EP2,algae,algae,-111.64,7821,2
+EP2-S18-DET-1,EP2-S18-DET-1,Perl 2,EP2,detritus,terbase,-91.71,23871,4.5
+EP2-S18-DET-2,EP2-S18-DET-2,Perl 2,EP2,detritus,terbase,-106.25,20682,4.5
+EP2-S18-DET-3,EP2-S18-DET-3,Perl 2,EP2,detritus,terbase,-107.28,19671,4.1
+EP2-S18-GOL-1,EP2-S18-GOL-1,Perl 2,EP2,goldenrod,terpp,-127.64,17155,5.9
+EP2-S18-GOL-2,EP2-S18-GOL-2,Perl 2,EP2,goldenrod,terpp,-128.72,14143,5.9
+EP2-S18-GOL-3,EP2-S18-GOL-3,Perl 2,EP2,goldenrod,terpp,-131.3,17049,6
+EP3-S18-212-1,EP3-S18-212-1,Perl 3,EP3,creek chub,cc,-96.88,16886,6.7
+EP3-S18-212-10,EP3-S18-212-10,Perl 3,EP3,creek chub,cc,-106,15261,6.7
+EP3-S18-212-12,EP3-S18-212-12,Perl 3,EP3,creek chub,cc,-107.28,13504,6.4
+EP3-S18-212-16,EP3-S18-212-16,Perl 3,EP3,creek chub,cc,-103.17,16000,6.7
+EP3-S18-212-2,EP3-S18-212-2,Perl 3,EP3,creek chub,cc,-101.63,15097,7
+EP3-S18-212-26,EP3-S18-212-26,Perl 3,EP3,creek chub,cc,-111.3,11682,5.8
+EP3-S18-212-3,EP3-S18-212-3,Perl 3,EP3,creek chub,cc,-107.71,14157,6.5
+EP3-S18-212-4,EP3-S18-212-4,Perl 3,EP3,creek chub,cc,-104.04,16119,6.5
+EP3-S18-212-6,EP3-S18-212-6,Perl 3,EP3,creek chub,cc,-115.06,13087,6.4
+EP3-S18-212-7,EP3-S18-212-7,Perl 3,EP3,creek chub,cc,-107.42,13378,6.3
+EP3-S18-281-1,EP3-S18-281-1,Perl 3,EP3,brook stickleback,planktivore,-114.35,14704,6.5
+EP3-S18-630-7,EP3-S18-630-7,Perl 3,EP3,blacknose dace,invertivore,-128.96,16728,7
+EP3-S18-ALG-1,EP3-S18-ALG-1,Perl 3,EP3,algae,algae,-142.16,17058,4
+EP3-S18-ALG-2,EP3-S18-ALG-2,Perl 3,EP3,algae,algae,-125.47,834,4.2
+EP3-S18-ALG-3,EP3-S18-ALG-3,Perl 3,EP3,algae,algae,-100.26,12561,2.7
+EP3-S18-DET-1,EP3-S18-DET-1,Perl 3,EP3,detritus,terbase,-103.16,12249,2.6
+EP3-S18-DET-2,EP3-S18-DET-2,Perl 3,EP3,detritus,terbase,-99.56,8333,2.2
+EP3-S18-DET-3,EP3-S18-DET-3,Perl 3,EP3,detritus,terbase,-105.25,16266,6.6
+EP42-18-AL-02,EP42-18-AL-2,Perl 4,EP4,algae,algae,-131.3,,
+EP42-18-AL-03,EP42-18-AL-3,Perl 4,EP4,algae,algae,-126.03,,
+EP42-18-ALGAE-01,EP42-18-AL-1,Perl 4,EP4,algae,algae,-147.78,,
+EP42-18-CC-01,EP42-18-CC-1,Perl 4,EP4,creek chub,cc,-101.15,,
+EP42-18-CC-03,EP42-18-CC-3,Perl 4,EP4,creek chub,cc,-100.83,,
+EP42-18-CC-07,EP42-18-CC-7,Perl 4,EP4,creek chub,cc,-98.38,,
+EP42-18-CC-08,EP42-18-CC-8,Perl 4,EP4,creek chub,cc,-94.6,,
+EP42-18-CC-09,EP42-18-CC-9,Perl 4,EP4,creek chub,cc,-107.18,,
+EP42-18-CC-10,EP42-18-CC-10,Perl 4,EP4,creek chub,cc,-105.43,,
+EP42-18-CC-11,EP42-18-CC-11,Perl 4,EP4,creek chub,cc,-96.11,,
+EP42-18-CC-12,EP42-18-CC-12,Perl 4,EP4,creek chub,cc,-104.19,,
+EP42-18-CC-13,EP42-18-CC-13,Perl 4,EP4,creek chub,cc,-100.72,,
+EP42-18-DET-01,EP42-18-DET-1,Perl 4,EP4,detritus,det,-108.57,,
+EP42-18-DT-02,EP42-18-DT-2,Perl 4,EP4,detritus,det,-107.58,,
+EP42-18-DT-03,EP42-18-DT-3,Perl 4,EP4,detritus,det,-106.92,,
+EP42-18-SC-01,EP42-18-SC-1,Perl 4,EP4,goldenrod,terpp,-161.41,,
+EP42-18-SC-02,EP42-18-SC-2,Perl 4,EP4,goldenrod,terpp,-157.76,,
+EP42-18-SC-03,EP42-18-SC-3,Perl 4,EP4,goldenrod,terpp,-158.48,,
+EP42-18-SNAILS-01,EP42-18-SNAILS-1,Perl 4,EP4,european garden snail,terbase,-93.05,,
+EP42-18-SNAILS-02,EP42-18-SNAILS-2,Perl 4,EP4,european garden snail,terbase,89.98,,
+EP42-18-SNAILS-03,EP42-18-SNAILS-3,Perl 4,EP4,european garden snail,terbase,-83.7,,
+FP-S18-163-1,FP-S18-163-1,Five Points,FP,white sucker,detritivore,-120.71,20912,6.2
+FP-S18-281-2,FP-S18-281-2,Five Points,FP,brook stickleback,planktivore,-102.63,20082,6.2
+FP-S18-281-5,FP-S18-281-5,Five Points,FP,brook stickleback,planktivore,-115.61,20061,6.2
+FP-S18-281-6,FP-S18-281-6,Five Points,FP,brook stickleback,planktivore,-115.1,24248,6.3
+FP-S18-630-1,FP-S18-630-1,Five Points,FP,blacknose dace,invertivore,-107.19,23517,7
+FP-S18-630-3,FP-S18-630-3,Five Points,FP,blacknose dace,invertivore,-116.07,25750,6.6
+FP-S18-630-7,FP-S18-630-7,Five Points,FP,blacknose dace,invertivore,-111.22,25367,7
+FP-S18-DETRITUS-1,FP-S18-DETRITUS-1,Five Points,FP,detritus,det,-104.88,1842,4.9
+FP-S18-DETRITUS-2,FP-S18-DETRITUS-2,Five Points,FP,detritus,det,-106.28,1736,4.5
+FP-S18-DETRITUS-3,FP-S18-DETRITUS-3,Five Points,FP,detritus,det,-99.73,1556,4.3
+FP-S18-EM-1,FP-S18-EM-1,Five Points,FP,emergent macrophyte,algae,-104.61,24930,5.6
+FP-S18-EM-2,FP-S18-EM-2,Five Points,FP,emergent macrophyte,algae,-110.7,22850,5.5
+FP-S18-GOLDENROD-1,FP-S18-GOLDENROD-1,Five Points,FP,goldenrod,terpp,-125.96,23532,5.6
+FP-S18-GOLDENROD-2,FP-S18-GOLDENROD-2,Five Points,FP,goldenrod,terpp,-124.89,22686,5.7
+FP-S18-GOLDENROD-3,FP-S18-GOLDENROD-3,Five Points,FP,goldenrod,terpp,-120.97,21985,5.6
+FP-S18-SNAIL-1,FP-S18-SNAIL-1,Five Points,FP,european garden snail,terbase,-84.22,28240,6
+FP-S18-SNAIL-2,FP-S18-SNAIL-2,Five Points,FP,european garden snail,terbase,-85.24,31288,6.3
+FP-S18-SNAIL-3,FP-S18-SNAIL-3,Five Points,FP,european garden snail,terbase,-85,29850,6.3
+GF-S18-208-1,GF-S18-208-1,Garrod Farm,GF,bluntnose minnow,detritivore,-129.39,25331,7
+GF-S18-341-1,GF-S18-341-1,Garrod Farm,GF,johnny darter,invertivore,-107.36,22047,6.6
+GF-S18-341-2,GF-S18-341-2,Garrod Farm,GF,johnny darter,invertivore,-131.18,14047,6.9
+GF-S18-341-3,GF-S18-341-3,Garrod Farm,GF,johnny darter,invertivore,-133.68,14401,7
+GF-S18-ALG-1,GF-S18-ALG-1,Garrod Farm,GF,algae,algae,-171.59,31915,1.9
+GF-S18-ALG-2,GF-S18-ALG-2,Garrod Farm,GF,algae,algae,-172.88,27704,1.8
+GF-S18-ALG-3,GF-S18-ALG-3,Garrod Farm,GF,algae,algae,-175.19,30690,1.9
+GF-S18-CADDIS-1,GF-S18-CADDIS-1,Garrod Farm,GF,caddisfly,aqbase,-151.43,10652,2.8
+GF-S18-CADDIS-2,GF-S18-CADDIS-2,Garrod Farm,GF,caddisfly,aqbase,-151.81,12027,2.8
+GF-S18-CAT-1,GF-S18-CAT-1,Garrod Farm,GF,caterpillar,terbase,-98.72,25499,7.2
+GF-S18-CAT-2,GF-S18-CAT-2,Garrod Farm,GF,caterpillar,terbase,-97.76,24230,6.4
+GF-S18-CAT-3,GF-S18-CAT-3,Garrod Farm,GF,caterpillar,terbase,-97.97,25536,6.4
+GF-S18-DET-1,GF-S18-DET-1,Garrod Farm,GF,detritus,det,-115.59,29785,4.3
+GF-S18-DET-2,GF-S18-DET-2,Garrod Farm,GF,detritus,det,-108.61,31155,4.5
+GF-S18-DET-3,GF-S18-DET-3,Garrod Farm,GF,detritus,det,-116.2,29365,4.2
+GF-S18-GOL-1,GF-S18-GOL-1,Garrod Farm,GF,goldenrod,terpp,-128.82,21822,5.8
+GF-S18-GOL-2,GF-S18-GOL-2,Garrod Farm,GF,goldenrod,terpp,-122.88,24393,5.7
+GF-S18-GOL-3,GF-S18-GOL-3,Garrod Farm,GF,goldenrod,terpp,-126.34,24249,5.7
+GF-S18-MAYFLY,GF-S18-MAYFLY,Garrod Farm,GF,mayfly,aqbase,-113.53,613,5.1
+HC2-18-AL-01,HC2-18-AL-1,Hawkcliff,HC,algae,algae,-149.74,,
+HC2-18-AL-02,HC2-18-AL-2,Hawkcliff,HC,algae,algae,-163.23,,
+HC2-18-AL-03,HC2-18-AL-3,Hawkcliff,HC,algae,algae,-170.5,,
+HC2-18-CATA-01,HC2-18-CATA-1,Hawkcliff,HC,caterpillar,terbase,-120.76,,
+HC2-18-CATA-02,HC2-18-CATA-2,Hawkcliff,HC,caterpillar,terbase,-104.91,,
+HC2-18-CATA-03,HC2-18-CATA-3,Hawkcliff,HC,caterpillar,terbase,-99.61,,
+HC2-18-CC-06,HC2-18-CC-6,Hawkcliff,HC,creek chub,cc,-103.75,,
+HC2-18-CC-13,HC2-18-CC-13,Hawkcliff,HC,creek chub,cc,-101.76,,
+HC2-18-CC-18,HC2-18-CC-18,Hawkcliff,HC,creek chub,cc,-108.46,,
+HC2-18-CC-19,HC2-18-CC-19,Hawkcliff,HC,creek chub,cc,-100.92,,
+HC2-18-CC-20,HC2-18-CC-20,Hawkcliff,HC,creek chub,cc,-96.87,,
+HC2-18-CC-35,HC2-18-CC-35,Hawkcliff,HC,creek chub,cc,-109.38,,
+HC2-18-CC-43,HC2-18-CC-43,Hawkcliff,HC,creek chub,cc,-106.19,,
+HC2-18-CC-44,HC2-18-CC-44,Hawkcliff,HC,creek chub,cc,-109.94,,
+HC2-18-CC-49,HC2-18-CC-49,Hawkcliff,HC,creek chub,cc,-107.93,,
+HC2-18-DET-01,HC2-18-DET-1,Hawkcliff,HC,detritus,det,-120.37,,
+HC2-18-DET-02,HC2-18-DET-2,Hawkcliff,HC,detritus,det,-119.37,,
+HC2-18-DET-03,HC2-18-DET-3,Hawkcliff,HC,detritus,det,-105.26,,
+HC2-18-SC-01,HC2-18-SC-1,Hawkcliff,HC,goldenrod,terpp,-165.45,,
+HC2-18-SC-02,HC2-18-SC-2,Hawkcliff,HC,goldenrod,terpp,-164.5,,
+HC2-18-SC-03,HC2-18-SC-3,Hawkcliff,HC,goldenrod,terpp,-162.45,,
+HC2-18-TR-01,HC2-18-TR-1,Hawkcliff,HC,caddisfly,aqbase,-122.59,,
+HC2-18-TR-02,HC2-18-TR-2,Hawkcliff,HC,caddisfly,aqbase,-129.19,,
+HC2-18-CC-41,HC2-18-CC-41,Hawkcliff,HC,creek chub,cc,-102.46,,
+HT-S18-163-4,HT-S18-163-4,Hawkins Tract,HT,white sucker,detritivore,-131.04,12435,6.5
+HT-S18-212-m1-1,HT-S18-212-MT1,Hawkins Tract,HT,creek chub,cc,-124.78,14709,7
+HT-S18-212-m1-2,HT-S18-212-MT2,Hawkins Tract,HT,creek chub,cc,-111.32,14421,6.8
+HT-S18-212-m4-3,HT-S18-212-MT3,Hawkins Tract,HT,creek chub,cc,-118.09,14982,6.8
+HT-S18-212-m4-4,HT-S18-212-MT4,Hawkins Tract,HT,creek chub,cc,-113.42,14790,6.8
+HT-S18-212-m4-5,HT-S18-212-MT5,Hawkins Tract,HT,creek chub,cc,-112.78,12927,6.7
+HT-S18-212-m4-7,HT-S18-212-MT7,Hawkins Tract,HT,creek chub,cc,-119.88,13796,6.8
+HT-S18-281-36,HT-S18-281-36,Hawkins Tract,HT,brook stickleback,planktivore,-138.86,15025,6.7
+HT-S18-341-23,HT-S18-341-23,Hawkins Tract,HT,johnny darter,invertivore,-133.78,12413,6.6
+HT-S18-ALGAE-1,HT-S18-ALGAE-1,Hawkins Tract,HT,algae,algae,-143.2,29892,2.6
+HT-S18-ALGAE-2,HT-S18-ALGAE-2,Hawkins Tract,HT,algae,algae,-149.74,22799,2.4
+HT-S18-ALGAE-3,HT-S18-ALGAE-3,Hawkins Tract,HT,algae,algae,-145.04,25081,2.3
+HT-S18-AQU-1,HT-S18-AQU-1,Hawkins Tract,HT,mayfly/caddisfly,aqbase,-134.17,19794,6.8
+HT-S18-AQU-2,HT-S18-AQU-2,Hawkins Tract,HT,mayfly/caddisfly,aqbase,-137.96,17675,6.9
+HT-S18-DET-1,HT-S18-DET-1,Hawkins Tract,HT,detritus,det,-100.47,15529,4
+HT-S18-DET-2,HT-S18-DET-2,Hawkins Tract,HT,detritus,det,-101.86,17929,3.9
+HT-S18-DET-3,HT-S18-DET-3,Hawkins Tract,HT,detritus,det,-107.32,21201,5.2
+HT-S18-GOL-1,HT-S18-GOL-1,Hawkins Tract,HT,goldenrod,terpp,-115.39,13023,6
+HT-S18-GOL-2,HT-S18-GOL-2,Hawkins Tract,HT,goldenrod,terpp,-118.14,14159,5.7
+HT-S18-GOL-3,HT-S18-GOL-3,Hawkins Tract,HT,goldenrod,terpp,-116.16,13172,5.7
+HT-S18-SNAIL-1,HT-S18-SNAIL-1,Hawkins Tract,HT,european garden snail,terbase,-82.75,16452,6.4
+HT-S18-SNAIL-2,HT-S18-SNAIL-2,Hawkins Tract,HT,european garden snail,terbase,-83.47,17287,6.4
+HT-S18-SNAIL-3,HT-S18-SNAIL-3,Hawkins Tract,HT,european garden snail,terbase,-82.52,18524,6.1
+JC-S18-163-1,JC-S18-163-1,Csoff,JC,white sucker,detritivore,-107.44,26975,6.8
+JC-S18-212-1,JC-S18-212-1,Csoff,JC,creek chub,cc,-131.92,25708,6.7
+JC-S18-212-2,JC-S18-212-2,Csoff,JC,creek chub,cc,-100.62,25603,6.7
+JC-S18-212-3,JC-S18-212-3,Csoff,JC,creek chub,cc,-99.18,22328,6.7
+JC-S18-212-4,JC-S18-212-4,Csoff,JC,creek chub,cc,-99.76,23337,6.5
+JC-S18-212-5,JC-S18-212-5,Csoff,JC,creek chub,cc,-99.06,23362,6.5
+JC-S18-212-6,JC-S18-212-6,Csoff,JC,creek chub,cc,-107.21,25827,6.6
+JC-S18-212-7,JC-S18-212-7,Csoff,JC,creek chub,cc,-103.48,25195,6.7
+JC-S18-381-7,JC-S18-381-7,Csoff,JC,mottled sculpin,invertivore,-109.95,23845,7
+JC-S18-ALG-1,JC-S18-ALG-1,Csoff,JC,algae,algae,-111.61,22571,2.3
+JC-S18-ALG-2,JC-S18-ALG-2,Csoff,JC,algae,algae,-110.94,26463,2.4
+JC-S18-ALG-3,JC-S18-ALG-3,Csoff,JC,algae,algae,-111.04,19663,2
+JC-S18-AQU-1,JC-S18-AQU-1,Csoff,JC,mayfly/caddisfly,aqbase,-117.18,19332,5.9
+JC-S18-AQU-2,JC-S18-AQU-2,Csoff,JC,mayfly/caddisfly,aqbase,-121.05,16469,5.9
+JC-S18-AQU-3,JC-S18-AQU-3,Csoff,JC,mayfly/caddisfly,aqbase,-118.22,17789,5.8
+JC-S18-DET-1,JC-S18-DET-1,Csoff,JC,detritus,det,-102.45,17173,3.8
+JC-S18-DET-2,JC-S18-DET-2,Csoff,JC,detritus,det,-102.36,16050,3.4
+JC-S18-DET-3,JC-S18-DET-3,Csoff,JC,detritus,det,-100.85,14789,3.5
+JC-S18-GOL-1,JC-S18-GOL-1,Csoff,JC,goldenrod,terpp,-124.82,16908,6
+JC-S18-GOL-2,JC-S18-GOL-2,Csoff,JC,goldenrod,terpp,-138.59,25933,6.1
+JC-S18-GOL-3,JC-S18-GOL-3,Csoff,JC,goldenrod,terpp,-138.73,26774,6.1
+JC-S18-TER-1,JC-S18-TER-1,Csoff,JC,snails/caterpillars,terbase,-142.47,28643,7
+JC-S18-TER-2,JC-S18-TER-2,Csoff,JC,snails/caterpillars,terbase,-135.86,27475,7.1
+JC-S18-TER-3,JC-S18-TER-3,Csoff,JC,snails/caterpillars,terbase,-142.92,28903,7.2
+JW-S18-163-8,JW-S18-163-8,White Farm,JW,white sucker,detritivore,-129.44,5751,6.8
+JW-S18-212-11,JW-S18-212-11,White Farm,JW,creek chub,cc,-115.22,5622,7
+JW-S18-212-14,JW-S18-212-14,White Farm,JW,creek chub,cc,-111.91,5463,6.6
+JW-S18-212-15,JW-S18-212-15,White Farm,JW,creek chub,cc,-114.48,4787,6.5
+JW-S18-212-16,JW-S18-212-16,White Farm,JW,creek chub,cc,-114.46,4330,6.7
+JW-S18-212-17,JW-S18-212-17,White Farm,JW,creek chub,cc,-110.09,5804,6.6
+JW-S18-212-18,JW-S18-212-18,White Farm,JW,creek chub,cc,-109.96,6589,6.7
+JW-S18-212-26,JW-S18-212-26,White Farm,JW,creek chub,cc,-104.47,4540,5.8
+JW-S18-212-27,JW-S18-212-27,White Farm,JW,creek chub,cc,-107.14,5540,7.2
+JW-S18-212-27,JW-S18-212-27,White Farm,JW,creek chub,cc,-104.6,5139,6.7
+JW-S18-212-6,JW-S18-212-6,White Farm,JW,creek chub,cc,-133.25,5302,6.9
+JW-S18-212-7,JW-S18-212-7,White Farm,JW,creek chub,cc,-110.95,4864,6.5
+JW-S18-341-26,JW-S18-341-26,White Farm,JW,johnny darter,invertivore,-127.26,5406,6.7
+JW-S18-ALGAE-1,JW-S18-ALGAE-1,White Farm,JW,algae,algae,-157.85,4212,1.2
+JW-S18-ALGAE-2,JW-S18-ALGAE-2,White Farm,JW,algae,algae,-160.14,4155,1.4
+JW-S18-ALGAE-3,JW-S18-ALGAE-3,White Farm,JW,algae,algae,-158.43,5808,1.7
+JW-S18-CADDIS-1,JW-S18-CADDIS-1,White Farm,JW,caddisfly,aqbase,-133.49,5032,5.2
+JW-S18-CADDIS-2,JW-S18-CADDIS-2,White Farm,JW,caddisfly,aqbase,-132.02,4718,5.2
+JW-S18-CAT-1,JW-S18-CAT-1,White Farm,JW,caterpillar,terbase,-109.98,4864,6.4
+JW-S18-CAT-2,JW-S18-CAT-2,White Farm,JW,caterpillar,terbase,-110.51,4399,6.4
+JW-S18-DETRITUS-1,JW-S18-DET-1,White Farm,JW,detritus,det,-111.65,5845,4.7
+JW-S18-DETRITUS-2,JW-S18-DET-2,White Farm,JW,detritus,det,-109.38,6201,5
+JW-S18-DETRITUS-3,JW-S18-DET-3,White Farm,JW,detritus,det,-113.69,6931,4.9
+JW-S18-GOL-1,JW-S18-GOL-1,White Farm,JW,goldenrod,terpp,-125.91,5293,5.8
+JW-S18-GOL-2,JW-S18-GOL-2,White Farm,JW,goldenrod,terpp,-120.73,4323,5.8
+JW-S18-GOL-3,JW-S18-GOL-3,White Farm,JW,goldenrod,terpp,-120.29,5120,5.8
+KC-S18-163-1,KC-S18-163-1,Kettle Creek,KC,white sucker,detritivore,-134.61,15121,6.6
+KC-S18-165-1,KC-S18-165-1,Kettle Creek,KC,northern hog sucker,herbivore,-123.27,15025,7
+KC-S18-212-1,KC-S18-212-1,Kettle Creek,KC,creek chub,cc,-115.21,12016,6.5
+KC-S18-212-11,KC-S18-212-11,Kettle Creek,KC,creek chub,cc,-106.76,14442,6.5
+KC-S18-212-12,KC-S18-212-12,Kettle Creek,KC,creek chub,cc,-111.5,13223,6.8
+KC-S18-212-13,KC-S18-212-13,Kettle Creek,KC,creek chub,cc,-101.59,13754,6.7
+KC-S18-212-14,KC-S18-212-14,Kettle Creek,KC,creek chub,cc,-106.36,13613,6.7
+KC-S18-212-2,KC-S18-212-2,Kettle Creek,KC,creek chub,cc,-110.36,12580,6.4
+KC-S18-212-3,KC-S18-212-3,Kettle Creek,KC,creek chub,cc,-114.24,12857,6.8
+KC-S18-212-4,KC-S18-212-4,Kettle Creek,KC,creek chub,cc,-112.74,13458,6.7
+KC-S18-212-6,KC-S18-212-6,Kettle Creek,KC,creek chub,cc,-105.65,12336,6.2
+KC-S18-212-8,KC-S18-212-8,Kettle Creek,KC,creek chub,cc,-120.62,13559,6.7
+KC-S18-341-3,KC-S18-341-3,Kettle Creek,KC,johnny darter,invertivore,-124.26,13910,7
+KC-S18-ALG-1,KC-S18-ALG-1,Kettle Creek,KC,algae,algae,-165.27,10535,1.2
+KC-S18-ALG-2,KC-S18-ALG-2,Kettle Creek,KC,algae,algae,-115.36,13341,1.4
+KC-S18-ALG-3,KC-S18-ALG-3,Kettle Creek,KC,algae,algae,-113.71,15757,2
+KC-S18-DET-1,KC-S18-DET-1,Kettle Creek,KC,detritus,det,-100.54,18943,4.5
+KC-S18-DET-2,KC-S18-DET-2,Kettle Creek,KC,detritus,det,-99.17,20382,4.5
+KC-S18-DET-3,KC-S18-DET-3,Kettle Creek,KC,detritus,det,-101.08,18859,4.3
+KC-S18-GOL-1,KC-S18-GOL-1,Kettle Creek,KC,goldenrod,terpp,-120.7,13080,5.9
+KC-S18-GOL-2,KC-S18-GOL-2,Kettle Creek,KC,goldenrod,terpp,-116.83,13138,5.8
+KC-S18-GOL-3,KC-S18-GOL-3,Kettle Creek,KC,goldenrod,terpp,-116.44,13448,5.8
+KC-S18-TER-3-1,KC-S18-TER-3-1,Kettle Creek,KC,european garden snail,terbase,-85.73,16013,6.4
+KC-S18-TER-3-1,KC-S18-TER-3-2,Kettle Creek,KC,european garden snail,terbase,-85.73,16013,6.4
+KC-S18-TER-4-1,KC-S18-TER-4-1,Kettle Creek,KC,caterpillar,terbase,-100.31,11830,6.4
+KC-S18-TER-4-2,KC-S18-TER-4-2,Kettle Creek,KC,caterpillar,terbase,-100.03,13908,6.5
+LE-S18-331-1,LE-S18-331-1,Lake Erie Farms,LEF,yellow perch,invertivore,-89.43,15802,6.7
+LE-S18-630-4,LE-S18-630-4,Lake Erie Farms,LEF,blacknose dace,invertivore,-113,15485,6.8
+LE-S18-630-6,LE-S18-630-6,Lake Erie Farms,LEF,blacknose dace,invertivore,-115.06,15061,6.6
+LE-S18-630-7,LE-S18-630-7,Lake Erie Farms,LEF,blacknose dace,invertivore,-114.5,14109,6.7
+LE-S18-AQU-1,LE-S18-AQU-1,Lake Erie Farms,LEF,algae,algae,-167.05,3430,3.6
+LE-S18-AQU-2,LE-S18-AQU-2,Lake Erie Farms,LEF,algae,algae,-171.65,3097,3.6
+LE-S18-AQU-3,LE-S18-AQU-3,Lake Erie Farms,LEF,algae,algae,-168.75,3375,3.6
+LE-S18-GOL-1,LE-S18-GOL-1,Lake Erie Farms,LEF,goldenrod,terpp,-148.19,15230,6.2
+LE-S18-GOL-2,LE-S18-GOL-2,Lake Erie Farms,LEF,goldenrod,terpp,-147.82,13580,6.1
+LE-S18-GOL-3,LE-S18-GOL-3,Lake Erie Farms,LEF,goldenrod,terpp,-147.66,15374,6.2
+LE-S18-TER-1,LE-S18-TER-1,Lake Erie Farms,LEF,caterpillar,terbase,-127.04,14031,7
+LE-S18-TER-2,LE-S18-TER-2,Lake Erie Farms,LEF,caterpillar,terbase,-119.42,16332,7
+LE-S18-TER-3,LE-S18-TER-3,Lake Erie Farms,LEF,caterpillar,terbase,-119.72,16660,7
+LEST-S18-212-10-MT,LEST-S18-212-MT10,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-96.56,16800,6.9
+LEST-S18-212-12,LEST-S18-212-12,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-99.18,13664,6.5
+LEST-S18-212-12-MT,LEST-S18-212-MT12,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-92.23,14583,6.7
+LEST-S18-212-15-MT,LEST-S18-212-MT15,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-102.74,15909,6.8
+LEST-S18-212-17,LEST-S18-212-17,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-101.2,12886,6.4
+LEST-S18-212-6-MT,LEST-S18-212-MT6,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-94.77,16013,6.8
+LEST-S18-212-7-MT,LEST-S18-212-MT7,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-94.97,14938,6.8
+LEST-S18-212-8-MT,LEST-S18-212-MT8,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-96.43,14875,6.7
+LEST-S18-212-9-MT,LEST-S18-212-MT9,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-90.66,5676,6.7
+LEST-S18-212-MT-17,LEST-S18-212-MT17,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-88.27,5281,6.6
+LEST-S18-630-16,LEST-S18-630-16,Lake Erie Salmon Trout Club,LEST,blacknose dace,invertivore,-117.57,14290,7
+LEST-S18-ALG-1,LEST-S18-ALG-1,Lake Erie Salmon Trout Club,LEST,algae,algae,-105.06,5289,1.3
+LEST-S18-ALG-2,LEST-S18-ALG-2,Lake Erie Salmon Trout Club,LEST,algae,algae,-104.66,3621,1.3
+LEST-S18-ALG-3,LEST-S18-ALG-3,Lake Erie Salmon Trout Club,LEST,algae,algae,-102.5,3672,1.1
+LEST-S18-CADDIS-1,LEST-S18-CADDIS-1,Lake Erie Salmon Trout Club,LEST,caddisfly,aqbase,-101.68,13513,5
+LEST-S18-CADDIS-2,LEST-S18-CADDIS-2,Lake Erie Salmon Trout Club,LEST,caddisfly,aqbase,-105.19,14056,5
+LEST-S18-CAT-1,LEST-S18-CAT-1,Lake Erie Salmon Trout Club,LEST,caterpillar,terbase,-86.32,14953,6.5
+LEST-S18-CAT-2,LEST-S18-CAT-2,Lake Erie Salmon Trout Club,LEST,caterpillar,terbase,-85.73,15759,6.5
+LEST-S18-DET-1,LEST-S18-DET-1,Lake Erie Salmon Trout Club,LEST,detritus,det,-100.2,10436,2.5
+LEST-S18-DET-2,LEST-S18-DET-2,Lake Erie Salmon Trout Club,LEST,detritus,det,-97.93,12233,3
+LEST-S18-DET-3,LEST-S18-DET-3,Lake Erie Salmon Trout Club,LEST,detritus,det,-95.39,9384,2.3
+LEST-S18-GOL-1,LEST-S18-GOL-1,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-134.43,15639,6.1
+LEST-S18-GOL-2,LEST-S18-GOL-2,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-135.25,15784,6.1
+LEST-S18-GOL-3,LEST-S18-GOL-3,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-128.34,15064,6
+LEST-S18-SNAIL-1,LEST-S18-SNAIL-1,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-83.04,19472,6.3
+LEST-S18-SNAIL-2,LEST-S18-SNAIL-2,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-82.2,17133,6.3
+LEST-S18-SNAIL-3,LEST-S18-SNAIL-3,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-81.97,17837,6.4
+MT-S18-281-10,MT-S18-281-10,McTavish Tract,MT,brook Stickleback,planktivore,-117.34,13866,6.5
+MT-S18-281-12,MT-S18-281-12,McTavish Tract,MT,brook Stickleback,planktivore,-127.54,15150,6.6
+MT-S18-281-2,MT-S18-281-2,McTavish Tract,MT,brook Stickleback,planktivore,-117.22,14591,6
+MT-S18-ALG-1,MT-S18-ALG-1,McTavish Tract,MT,algae,algae,-100.14,14487,4.3
+MT-S18-ALG-2,MT-S18-ALG-2,McTavish Tract,MT,algae,algae,-98.43,14339,4.5
+MT-S18-ALG-3,MT-S18-ALG-3,McTavish Tract,MT,algae,algae,-100.5,15514,4.4
+MT-S18-AQU-1,MT-S18-AQU-1,McTavish Tract,MT,mayfly/caddisfly,aqbase,-117.87,16664,6.4
+MT-S18-AQU-2,MT-S18-AQU-2,McTavish Tract,MT,mayfly/caddisfly,aqbase,-122.33,20444,6.4
+MT-S18-AQU-3,MT-S18-AQU-3,McTavish Tract,MT,mayfly/caddisfly,aqbase,-123.66,20253,6.5
+MT-S18-DET-1,MT-S18-DET-1,McTavish Tract,MT,detritus,det,-147.59,9483,2.1
+MT-S18-DET-2,MT-S18-DET-2,McTavish Tract,MT,detritus,det,-149.07,8586,2.1
+MT-S18-DET-3,MT-S18-DET-3,McTavish Tract,MT,detritus,det,-150.45,9344,2.1
+MT-S18-GOL-1,MT-S18-GOL-1,McTavish Tract,MT,goldenrod,terpp,-134.08,14445,6
+MT-S18-GOL-2,MT-S18-GOL-2,McTavish Tract,MT,goldenrod,terpp,-134.07,14842,5.9
+MT-S18-GOL-3,MT-S18-GOL-3,McTavish Tract,MT,goldenrod,terpp,-136.14,13514,5.9
+MT-S18-TER-1,MT-S18-TER-1,McTavish Tract,MT,snails/caterpillars,terbase,-115.59,17730,6.9
+MT-S18-TER-2,MT-S18-TER-2,McTavish Tract,MT,snails/caterpillars,terbase,-113.09,18473,6.9
+MT-S18-TER-3,MT-S18-TER-3,McTavish Tract,MT,snails/caterpillars,terbase,-111.38,17679,6.9
+PF-S18-163-18,PF-S18-163-18,Parrish Farm,PF,white sucker,detritivore,-117.58,14820,6
+PF-S18-212-1,PF-S18-212-1,Parrish Farm,PF,creek chub,cc,-99.13,15046,6.6
+PF-S18-212-10,PF-S18-212-10,Parrish Farm,PF,creek chub,cc,-89.91,14700,6.8
+PF-S18-212-11,PF-S18-212-11,Parrish Farm,PF,creek chub,cc,-92.56,15704,6.8
+PF-S18-212-13,PF-S18-212-13,Parrish Farm,PF,creek chub,cc,-103.76,15004,6.6
+PF-S18-212-15,PF-S18-212-15,Parrish Farm,PF,creek chub,cc,-103.18,13518,6.5
+PF-S18-212-2,PF-S18-212-2,Parrish Farm,PF,creek chub,cc,-95.29,16064,6.7
+PF-S18-212-29,PF-S18-212-29,Parrish Farm,PF,creek chub,cc,-99.03,14288,6.7
+PF-S18-212-3,PF-S18-212-3,Parrish Farm,PF,creek chub,cc,-101.48,16002,6.6
+PF-S18-212-5,PF-S18-212-5,Parrish Farm,PF,creek chub,cc,-85.9,13503,6.6
+PF-S18-212-9,PF-S18-212-9,Parrish Farm,PF,creek chub,cc,-92.28,16253,6.8
+PF-S18-341-6,PF-S18-341-6,Parrish Farm,PF,johnny darter,invertivore,-116.2,16729,7
+PF-S18-ALG-1,PF-S18-ALG-1,Parrish Farm,PF,algae,algae,-129.89,22918,6
+PF-S18-ALG-2,PF-S18-ALG-2,Parrish Farm,PF,algae,algae,-126.78,21553,5.9
+PF-S18-ALG-3,PF-S18-ALG-3,Parrish Farm,PF,algae,algae,-125.8,21241,6
+PF-S18-CADDIS-1,PF-S18-CADDIS-1,Parrish Farm,PF,caddisfly,aqbase,-121.07,18353,5.7
+PF-S18-CADDIS-1,PF-S18-CADDIS-2,Parrish Farm,PF,caddisfly,aqbase,-121.07,18353,5.7
+PF-S18-DET-1,PF-S18-DET-1,Parrish Farm,PF,detritus,det,-96.22,17105,3.5
+PF-S18-DET-2,PF-S18-DET-2,Parrish Farm,PF,detritus,det,-96.51,14259,3.5
+PF-S18-DET-3,PF-S18-DET-3,Parrish Farm,PF,detritus,det,-93.64,15115,3.6
+PF-S18-MAYFLY-1,PF-S18-MAYFLY-1,Parrish Farm,PF,mayfly,aqbase,-139.4,15795,6.2
+PF-S18-MAYFLY-2,PF-S18-MAYFLY-2,Parrish Farm,PF,mayfly,aqbase,-143.74,18400,6.4
+PF-S18-SNAIL-1,PF-S18-SNAIL-1,Parrish Farm,PF,european garden snail,terbase,-80.26,19085,6.5
+PF-S18-SNAIL-2,PF-S18-SNAIL-2,Parrish Farm,PF,european garden snail,terbase,-81.27,18688,6.5
+PF-S18-SNAIL-3,PF-S18-SNAIL-3,Parrish Farm,PF,european garden snail,terbase,-78.67,17722,6.4
+PVTF-S18-163-1,PVTF-S18-163-1,Pleasant Valley Trout Farm,PVTF,white sucker,detritivore,-126.66,5530,6.6
+PVTF-S18-212-12,PVTF-S18-212-12,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-115.56,6533,6.7
+PVTF-S18-212-14,PVTF-S18-212-14,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-113.26,5794,6.5
+PVTF-S18-212-15,PVTF-S18-212-15,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-123.33,6402,6.5
+PVTF-S18-212-16,PVTF-S18-212-16,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-114.41,6732,6.7
+PVTF-S18-212-17,PVTF-S18-212-17,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-126.48,5760,6.8
+PVTF-S18-212-18,PVTF-S18-212-18,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-132.36,5368,6.6
+PVTF-S18-212-19,PVTF-S18-212-19,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-103.53,5453,6.6
+PVTF-S18-212-20,PVTF-S18-212-20,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-128.65,6519,6.7
+PVTF-S18-341-4,PVTF-S18-341-4,Pleasant Valley Trout Farm,PVTF,johnny darter,invertivore,-124.35,5829,7.1
+PVTF-S18-ALG-1,PVTF-S18-ALG-1,Pleasant Valley Trout Farm,PVTF,algae,algae,-124.92,15772,3.4
+PVTF-S18-ALG-2,PVTF-S18-ALG-2,Pleasant Valley Trout Farm,PVTF,algae,algae,-125.75,17532,3.8
+PVTF-S18-ALG-3,PVTF-S18-ALG-3,Pleasant Valley Trout Farm,PVTF,algae,algae,-123.04,16006,4.2
+PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-1,Pleasant Valley Trout Farm,PVTF,caddisfly,aqbase,-136.59,5552,5.8
+PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-2,Pleasant Valley Trout Farm,PVTF,caddisfly,aqbase,-136.59,5552,5.8
+PVTF-S18-CATERPILLAR,PVTF-S18-CATERPILLAR,Pleasant Valley Trout Farm,PVTF,caterpillar,terbase,-116.78,6310,6.9
+PVTF-S18-DET-1,PVTF-S18-DET-1,Pleasant Valley Trout Farm,PVTF,detritus,det,-94.33,3216,2.5
+PVTF-S18-DET-2,PVTF-S18-DET-2,Pleasant Valley Trout Farm,PVTF,detritus,det,-102.3,2952,2.4
+PVTF-S18-DET-3,PVTF-S18-DET-3,Pleasant Valley Trout Farm,PVTF,detritus,det,-104.03,2984,2.5
+PVTF-S18-Gol-1,PVTF-S18-GOL-1,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-162.5,6279,6.4
+PVTF-S18-Gol-2,PVTF-S18-GOL-2,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-155.4,5568,6.6
+PVTF-S18-Gol-3,PVTF-S18-GOL-3,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-155.86,5144,6.5
+PVTF-S18-SNAILS-1,PVTF-S18-SNAIL-1,Pleasant Valley Trout Farm,PVTF,european garden snail,terbase,-81.9,6148,6.6
+PVTF-S18-SNAILS-2,PVTF-S18-SNAIL-2,Pleasant Valley Trout Farm,PVTF,european garden snail,terbase,-79.94,6500,7
+SC-S18-163-4,SC-S18-163-4,Caughell,SC,white sucker,detritivore,-122.35,14857,7
+SC-S18-212-1,SC-S18-212-1,Caughell,SC,creek chub,cc,-104.68,16756,6.7
+SC-S18-212-10,SC-S18-212-10,Caughell,SC,creek chub,cc,-117.51,14703,6.4
+SC-S18-212-12,SC-S18-212-12,Caughell,SC,creek chub,cc,-116.45,13919,6.2
+SC-S18-212-14,SC-S18-212-14,Caughell,SC,creek chub,cc,-109.7,16473,6.7
+SC-S18-212-17,SC-S18-212-17,Caughell,SC,creek chub,cc,-101.35,15235,6.8
+SC-S18-212-2,SC-S18-212-2,Caughell,SC,creek chub,cc,-108.3,14932,6.5
+SC-S18-212-3,SC-S18-212-3,Caughell,SC,creek chub,cc,-102.11,16416,6.7
+SC-S18-212-7,SC-S18-212-7,Caughell,SC,creek chub,cc,-101.72,15322,6.7
+SC-S18-212-MT1,SC-S18-212-MT1,Caughell,SC,creek chub,cc,-121.06,13430,6.5
+SC-S18-212-MT2,SC-S18-212-MT2,Caughell,SC,creek chub,cc,-112.62,14293,6.3
+SC-S18-341-41,SC-S18-341-41,Caughell,SC,johnny darter,invertivore,-119.27,14702,6.9
+SC-S18-ALG-1,SC-S18-ALG-1,Caughell,SC,algae,algae,-123.65,15980,1.5
+SC-S18-ALG-2,SC-S18-ALG-2,Caughell,SC,algae,algae,-124.27,17140,1.5
+SC-S18-ALG-3,SC-S18-ALG-3,Caughell,SC,algae,algae,-123.7,16038,1.6
+SC-S18-DET-1,SC-S18-DET-1,Caughell,SC,detritus,det,-97.83,26559,5.5
+SC-S18-DET-2,SC-S18-DET-2,Caughell,SC,detritus,det,-93.62,26820,5.8
+SC-S18-DET-3,SC-S18-DET-3,Caughell,SC,detritus,det,-98.84,27542,5.8
+SC-S18-GOL-1,SC-S18-GOL-1,Caughell,SC,goldenrod,terpp,-99.81,14730,5.9
+SC-S18-GOL-2,SC-S18-GOL-2,Caughell,SC,goldenrod,terpp,-100.48,14979,6
+SC-S18-GOL-3,SC-S18-GOL-3,Caughell,SC,goldenrod,terpp,-103.44,15727,5.9
+SC-S18-MAYFLY,SC-S18-MAYFLY,Caughell,SC,mayfly,aqbase,-116.1,16072,5.6
+SC-S18-SNAIL-1,SC-S18-SNAIL-1,Caughell,SC,european garden snail,terbase,-89.64,18865,6.5
+SC-S18-SNAIL-2,SC-S18-SNAIL-2,Caughell,SC,european garden snail,terbase,-89.55,21373,6.6
+SC-S18-SNAIL-3,SC-S18-SNAIL-3,Caughell,SC,european garden snail,terbase,-88.88,19936,6.6
+UH-S18-212-12,UH-S18-212-12,Underhill Farm,UH,creek chub,cc,-100.83,6747,6.6
+UH-S18-212-13,UH-S18-212-13,Underhill Farm,UH,creek chub,cc,-109.53,6555,6.6
+UH-S18-212-16,UH-S18-212-16,Underhill Farm,UH,creek chub,cc,-101.44,6199,7
+UH-S18-212-18,UH-S18-212-18,Underhill Farm,UH,creek chub,cc,-110.95,6530,6.7
+UH-S18-212-19,UH-S18-212-19,Underhill Farm,UH,creek chub,cc,-101.36,5625,6.7
+UH-S18-212-24,UH-S18-212-24,Underhill Farm,UH,creek chub,cc,-107.86,5247,6.6
+UH-S18-212-26,UH-S18-212-26,Underhill Farm,UH,creek chub,cc,-105.99,5717,6.8
+UH-S18-212-30,UH-S18-212-30,Underhill Farm,UH,creek chub,cc,-108.23,5393,6.6
+UH-S18-212-32,UH-S18-212-32,Underhill Farm,UH,creek chub,cc,-118.13,6014,6.7
+UH-S18-212-7,UH-S18-212-7,Underhill Farm,UH,creek chub,cc,-98.91,5867,6.6
+UH-S18-630-5,UH-S18-630-5,Underhill Farm,UH,blacknose dace,invertivore,-129.95,5498,7.2
+UH-S18-ALG-1,UH-S18-ALG-1,Underhill Farm,UH,algae,algae,-114.61,13308,3.4
+UH-S18-ALG-2,UH-S18-ALG-2,Underhill Farm,UH,algae,algae,-114.27,13749,3.8
+UH-S18-AQU-1,UH-S18-AQU-1,Underhill Farm,UH,caddisfly,aqbase,-188.39,4776,6
+UH-S18-AQU-2,UH-S18-AQU-2,Underhill Farm,UH,caddisfly,aqbase,-187.05,4594,5.7
+UH-S18-DET-1,UH-S18-DET-1,Underhill Farm,UH,detritus,det,-113.15,2612,2.2
+UH-S18-DET-2,UH-S18-DET-2,Underhill Farm,UH,detritus,det,-107.07,2519,2.3
+UH-S18-DET-3,UH-S18-DET-3,Underhill Farm,UH,detritus,det,-109.13,3422,2.5
+UH-S18-GOL-1,UH-S18-GOL-1,Underhill Farm,UH,goldenrod,terpp,-161.83,5222,6.1
+UH-S18-GOL-2,UH-S18-GOL-2,Underhill Farm,UH,goldenrod,terpp,-161.77,5909,6.1
+UH-S18-GOL-3,UH-S18-GOL-3,Underhill Farm,UH,goldenrod,terpp,-169.39,4862,6
+UH-S18-TER-1-1,UH-S18-TER-1-1,Underhill Farm,UH,european garden snail,terbase,-85.43,6583,6.5
+UH-S18-TER-1-1,UH-S18-TER-1-2,Underhill Farm,UH,european garden snail,terbase,-85.43,6583,6.5
+UH-S18-TER-2-1,UH-S18-TER-2-1,Underhill Farm,UH,caterpillar,terbase,-147.97,7228,6.9
+UH-S18-TER-2-2,UH-S18-TER-2-2,Underhill Farm,UH,caterpillar,terbase,-148.53,5631,6.9
+VN-S18-212-1,VN-S18-212-1,VanDenNest,VN,creek chub,cc,-106.85,5761,6.8
+VN-S18-212-2,VN-S18-212-2,VanDenNest,VN,creek chub,cc,-103.93,5438,6.6
+VN-S18-630-18,VN-S18-630-18,VanDenNest,VN,blacknose dace,invertivore,-102.74,6501,6.6
+VN-S18-ALG-1,VN-S18-ALG-1,VanDenNest,VN,algae,algae,-170.69,14590,4
+VN-S18-ALG-2,VN-S18-ALG-2,VanDenNest,VN,algae,algae,-156.83,11685,2.8
+VN-S18-ALG-3,VN-S18-ALG-3,VanDenNest,VN,algae,algae,-173.63,15007,3.6
+VN-S18-DET-1,VN-S18-DET-1,VanDenNest,VN,detritus,det,-115.11,5843,4.1
+VN-S18-DET-2,VN-S18-DET-2,VanDenNest,VN,detritus,det,-115.28,5637,4.1
+VN-S18-DET-3,VN-S18-DET-3,VanDenNest,VN,detritus,det,-101.3,5630,4.6
+VN-S18-GOL-1,VN-S18-GOL-1,VanDenNest,VN,goldenrod,terpp,-103.72,3774,5.7
+VN-S18-GOL-2,VN-S18-GOL-2,VanDenNest,VN,goldenrod,terpp,-103.22,4465,5.7
+VN-S18-GOL-3,VN-S18-GOL-3,VanDenNest,VN,goldenrod,terpp,-99.27,4765,6
+VN-S18-TER-1-1,VN-S18-TER-1-1,VanDenNest,VN,european garden snail,terbase,-86.94,6565,6.3
+VN-S18-TER-1-1,VN-S18-TER-1-2,VanDenNest,VN,european garden snail,terbase,-86.94,6565,6.3
+VN-S18-TER-2-1,VN-S18-TER-2-1,VanDenNest,VN,caterpillar,terbase,-105.49,6003,6.9
+VN-S18-TER-2-2,VN-S18-TER-2-2,VanDenNest,VN,caterpillar,terbase,-107.46,5443,7
+WA-S18-163-2,WA-S18-163-2,Watson,WA,white sucker,detritivore,-125.62,6440,6.5
+WA-S18-212-11,WA-S18-212-11,Watson,WA,creek chub,cc,-103.56,6139,6.6
+WA-S18-212-17,WA-S18-212-17,Watson,WA,creek chub,cc,-101.56,5328,6.5
+WA-S18-212-20,WA-S18-212-20,Watson,WA,creek chub,cc,-97.44,5911,6.6
+WA-S18-212-24,WA-S18-212-24,Watson,WA,creek chub,cc,-103.08,5609,6.6
+WA-S18-212-25,WA-S18-212-25,Watson,WA,creek chub,cc,-99.39,5557,6.5
+WA-S18-212-26,WA-S18-212-26,Watson,WA,creek chub,cc,-101.7,5475,6.5
+WA-S18-212-29,WA-S18-212-29,Watson,WA,creek chub,cc,-104.32,5575,7
+WA-S18-212-4,WA-S18-212-4,Watson,WA,creek chub,cc,-102.2,6919,6.7
+WA-S18-212-5,WA-S18-212-5,Watson,WA,creek chub,cc,-94.99,4924,6.5
+WA-S18-212-8,WA-S18-212-8,Watson,WA,creek chub,cc,-99.18,5264,6.7
+WA-S18-341-9,WA-S18-341-9,Watson,WA,johnny darter,invertivore,-125.19,5721,6.8
+WA-S18-630-26,WA-S18-630-26,Watson,WA,blacknose dace,invertivore,-119.56,5247,6.8
+WA-S18-ALGAE-1,WA-S18-ALGAE-1,Watson,WA,algae,algae,-175.72,2209,0.7
+WA-S18-ALGAE-2,WA-S18-ALGAE-2,Watson,WA,algae,algae,-186.04,1729,0.6
+WA-S18-ALGAE-3,WA-S18-ALGAE-3,Watson,WA,algae,algae,-201.05,5189,1.5
+WA-S18-AQU-1,WA-S18-AQU-1,Watson,WA,mayfly/caddisfly,aqbase,-111.26,4317,5.1
+WA-S18-AQU-2,WA-S18-AQU-2,Watson,WA,mayfly/caddisfly,aqbase,-114.45,5871,5.7
+WA-S18-DET-1,WA-S18-DET-1,Watson,WA,detritus,det,-117.35,771,0.9
+WA-S18-DET-2,WA-S18-DET-2,Watson,WA,detritus,det,-100.35,1128,1.1
+WA-S18-DET-3,WA-S18-DET-3,Watson,WA,detritus,det,-100.6,1333,1.3
+WA-S18-GOL-1,WA-S18-GOL-1,Watson,WA,goldenrod,terpp,-127.75,4563,5.9
+WA-S18-GOL-2,WA-S18-GOL-2,Watson,WA,goldenrod,terpp,-132.85,4044,5.9
+WA-S18-GOL-3,WA-S18-GOL-3,Watson,WA,goldenrod,terpp,-124.67,5631,5.9
+WA-S18-TER-1,WA-S18-TER-1,Watson,WA,snails/caterpillars,terbase,-105.74,5097,6.2
+WA-S18-TER-2,WA-S18-TER-2,Watson,WA,snails/caterpillars,terbase,-103.48,4542,6
+WA-S18-TER-3,WA-S18-TER-3,Watson,WA,snails/caterpillars,terbase,-103.9,4829,6
+WH-S18-163-3,WH-S18-163-3,Washington,WH,white sucker,detritivore,-133.01,5514,6
+WH-S18-212-11,WH-S18-212-11,Washington,WH,creek chub,cc,-115.52,10209,9.9
+WH-S18-212-2,WH-S18-212-2,Washington,WH,creek chub,cc,-92.48,5759,6.5
+WH-S18-212-21,WH-S18-212-21,Washington,WH,creek chub,cc,-96.97,4886,6.6
+WH-S18-212-22,WH-S18-212-22,Washington,WH,creek chub,cc,-95.96,6595,6.6
+WH-S18-212-24,WH-S18-212-24,Washington,WH,creek chub,cc,-99.58,5400,6.5
+WH-S18-212-25,WH-S18-212-25,Washington,WH,creek chub,cc,-101.26,6595,6.5
+WH-S18-212-26,WH-S18-212-26,Washington,WH,creek chub,cc,-105.25,5552,6.6
+WH-S18-212-27,WH-S18-212-27,Washington,WH,creek chub,cc,-100.26,5927,6.5
+WH-S18-212-5,WH-S18-212-5,Washington,WH,creek chub,cc,-112.18,4715,6.6
+WH-S18-212-6,WH-S18-212-6,Washington,WH,creek chub,cc,-119.75,6235,6.3
+WH-S18-341-6,WH-S18-341-6,Washington,WH,johnny darter,invertivore,-126.26,5890,6
+WH-S18-AQU-1,WH-S18-AQU-1,Washington,WH,caddisfly,aqbase,-134.83,5424,6.1
+WH-S18-AQU-2,WH-S18-AQU-2,Washington,WH,caddisfly,aqbase,-132.72,5483,6
+WH-S18-AQU-3,WH-S18-AQU-3,Washington,WH,caddisfly,aqbase,-135.82,6144,6
+WH-S18-DET-1,WH-S18-DET-1,Washington,WH,detritus,det,-95.19,8237,5.2
+WH-S18-DET-2,WH-S18-DET-2,Washington,WH,detritus,det,-94.16,7252,4.9
+WH-S18-DET-3,WH-S18-DET-3,Washington,WH,detritus,det,-94.37,6113,4.5
+WH-S18-TER-1-1,WH-S18-TER-1-1,Washington,WH,european garden snail,terbase,-90.87,6483,6.4
+WH-S18-TER-1-2,WH-S18-TER-1-2,Washington,WH,european garden snail,terbase,-90.66,6869,6.4
+WH-S18-TER-2-1,WH-S18-TER-2-1,Washington,WH,caterpillar,terbase,-104.31,6617,6.7
+WH-S18-TER-2-1,WH-S18-TER-2-2,Washington,WH,caterpillar,terbase,-104.31,6617,6.7
+WW-S18-212-1,WW-S18-212-1,Wardsville Woods,WW,creek chub,cc,-102.65,4437,6.6
+WW-S18-212-2,WW-S18-212-2,Wardsville Woods,WW,creek chub,cc,-109.41,5490,6.5
+WW-S18-212-3,WW-S18-212-3,Wardsville Woods,WW,creek chub,cc,-108.21,6431,6.6
+WW-S18-212-MT1,WW-S18-212-MT1,Wardsville Woods,WW,creek chub,cc,-89.46,5655,6.6
+WW-S18-212-MT14,WW-S18-212-MT14,Wardsville Woods,WW,creek chub,cc,-88.31,5936,7
+WW-S18-212-MT4,WW-S18-212-MT4,Wardsville Woods,WW,creek chub,cc,-96.31,5409,6.5
+WW-S18-212-MT5,WW-S18-212-MT5,Wardsville Woods,WW,creek chub,cc,-113.34,6340,6.9
+WW-S18-212-MT6,WW-S18-212-MT6,Wardsville Woods,WW,creek chub,cc,-90.85,6601,6.8
+WW-S18-212-MT7,WW-S18-212-MT7,Wardsville Woods,WW,creek chub,cc,-106.09,4977,6.5
+WW-S18-212-MT8,WW-S18-212-MT8,Wardsville Woods,WW,creek chub,cc,-109.27,6654,6.6
+WW-S18-630-2,WW-S18-630-2,Wardsville Woods,WW,blacknose dace,invertivore,-110.63,5502,6.8
+WW-S18-ALGAE-1,WW-S18-ALG-1,Wardsville Woods,WW,algae,algae,-163.83,7777,1.9
+WW-S18-ALGAE-2,WW-S18-ALG-2,Wardsville Woods,WW,algae,algae,-162.21,7481,1.8
+WW-S18-CADDISFLY,WW-S18-CADDISFLY,Wardsville Woods,WW,caddisfly,aqbase,-94.41,6107,6.1
+WW-S18-DET-1,WW-S18-DET-1,Wardsville Woods,WW,detritus,det,-93.15,2356,1.8
+WW-S18-DET-2,WW-S18-DET-2,Wardsville Woods,WW,detritus,det,-93.75,2287,1.8
+WW-S18-DET-3,WW-S18-DET-3,Wardsville Woods,WW,detritus,det,-103.1,6312,4.9
+WW-S18-GOL-1,WW-S18-GOL-1,Wardsville Woods,WW,goldenrod,terpp,-148.68,4974,6
+WW-S18-GOL-2,WW-S18-GOL-2,Wardsville Woods,WW,goldenrod,terpp,-155.14,5385,5.9
+WW-S18-GOL-3,WW-S18-GOL-3,Wardsville Woods,WW,goldenrod,terpp,-154.98,5178,6
+WW-S18-SNAILS-1,WW-S18-SNAILS-1,Wardsville Woods,WW,european garden snail,terbase,-80.19,6287,6
+WW-S18-SNAILS-2,WW-S18-SNAILS-2,Wardsville Woods,WW,european garden snail,terbase,-87.09,6893,6.3
+WW-S18-SNAILS-3,WW-S18-SNAILS-3,Wardsville Woods,WW,european garden snail,terbase,-86.95,6202,6.4

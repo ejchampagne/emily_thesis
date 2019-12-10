@@ -1,0 +1,363 @@
+,old.sampleid,sampleid,season,delta13c,delta15n,c_n_ratio,delta34s,species.x,role.x,sitename,sitecode,species.y,role.y,delta2h,ampl,p_h
+1,SC-S17-198-1,SC-S17-198-1,summer,-25.33,12.64,3.67,NA,common shiner,invertivore,Caughell 17,17SC,common shiner,invertivore,-121.03,5467,7
+2,SC-S17-198-2,SC-S17-198-2,summer,-25.12,11.69,3.25,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+3,SC-S17-198-3,SC-S17-198-3,summer,-25.75,11.7,3.73,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+4,SC-S17-198-4,SC-S17-198-4,summer,-25.65,12.26,3.62,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+5,SC-S17-198-5,SC-S17-198-5,summer,-25.04,12.24,3.58,NA,common shiner,invertivore,Caughell 17,17SC,common shiner,invertivore,-118.82,5579,7
+6,SC-S17-198-6,SC-S17-198-6,summer,-25.09,11.93,3.62,NA,common shiner,invertivore,Caughell 17,17SC,common shiner,invertivore,-107.96,5297,6.9
+7,SC-S17-198-7,SC-S17-198-7,summer,-25.02,12.3,3.72,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+8,SC-S17-198-8,SC-S17-198-8,summer,-25.27,11.63,3.67,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+9,SC-S17-198-9,SC-S17-198-9,summer,-24.98,11.74,3.63,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+10,SC-S17-198-10,SC-S17-198-10,summer,-24.96,12.52,3.74,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+11,SC-F17-198-1,SC-F17-198-1,fall,-24.92,11.53,3.48,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+12,SC-F17-198-2,SC-F17-198-2,fall,-25.03,11.86,3.4,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+13,SC-F17-198-3 AVG,SC-F17-198-3,fall,-25.23,12.06,3.39,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+14,SC-F17-198-4,SC-F17-198-4,fall,-25.1,12.55,3.41,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+15,SC-F17-198-5,SC-F17-198-5,fall,-25.03,11.24,3.34,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+16,SC-F17-198-6,SC-F17-198-6,fall,-25.15,10.22,3.33,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+17,SC-F17-198-7,SC-F17-198-7,fall,-24.84,11.5,3.32,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+18,SC-F17-198-8,SC-F17-198-8,fall,-25.43,12.62,3.38,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+19,SC-F17-198-9,SC-F17-198-9,fall,-24.6,11.87,3.4,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+20,SC-F17-198-10,SC-F17-198-10,fall,-24.82,11.91,3.32,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+21,SC-S17-212-1,SC-S17-212-1,summer,-24.73,10.07,3.59,0.01,creek chub,cc,Caughell 17,17SC,creek chub,cc,-104.27,5573,7
+22,SC-S17-212-2,SC-S17-212-2,summer,-24.33,11.14,3.32,-0.1,creek chub,cc,Caughell 17,17SC,creek chub,cc,-94.4,5093,6.8
+23,SC-S17-212-4,SC-S17-212-4,summer,-24.62,9.77,3.18,0.04,creek chub,cc,Caughell 17,17SC,creek chub,cc,-91.52,4921,6.6
+24,SC-S17-212-5,SC-S17-212-5,summer,-24.51,10.63,3.24,-0.08,creek chub,cc,Caughell 17,17SC,creek chub,cc,-87.82,5975,6.7
+25,SC-S17-212-7,SC-S17-212-7,summer,-25.01,10.21,3.62,-0.14,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+26,SC-S17-212-8 AVG,SC-S17-212-8,summer,-25,10.78,3.46,-0.26,creek chub,cc,Caughell 17,17SC,creek chub,cc,-98.99,5034,6.7
+27,SC-S17-212-12,SC-S17-212-12,summer,-24.76,10.59,3.47,-0.16,creek chub,cc,Caughell 17,17SC,creek chub,cc,-94.07,6415,6.8
+28,SC-S17-212-14,SC-S17-212-14,summer,-24.47,11.26,3.26,0.12,creek chub,cc,Caughell 17,17SC,creek chub,cc,-106.69,6164,6.7
+29,SC-S17-212-15,SC-S17-212-15,summer,-24.47,9.73,3.38,0.25,creek chub,cc,Caughell 17,17SC,creek chub,cc,-95.22,5109,6.8
+30,SC-S17-212-16,SC-S17-212-16,summer,-24.96,10.11,3.65,0.15,creek chub,cc,Caughell 17,17SC,creek chub,cc,-92.31,5199,6.8
+31,SC-S17-201-1,SC-S17-201-1,summer,-26.18,11.06,3.4,NA,spottail shiner,herbivore,Caughell 17,17SC,spottail shiner,planktivore,-135.36,5749,7
+32,SC-S17-201-2,SC-S17-201-2,summer,-25.67,10.93,3.38,NA,spottail shiner,herbivore,Caughell 17,17SC,spottail shiner,planktivore,-125.85,5309,6.7
+33,SC-S17-TER-1,SC-S17-TER-1,summer,-26.09,-0.38,3.92,1.15,european garden snail,terbase,Caughell 17,17SC,european garden snail,terbase,-87.06,6221,6.5
+34,SC-S17-TER-2,SC-S17-TER-2,summer,-31.04,6.04,6.74,-1.47,caterpillar,terbase,Caughell 17,17SC,caterpillar,terbase,-113.61,6421,7.5
+35,SC-S17-AQB-1,SC-S17-AQB-1,summer,-28.43,9.47,4.48,-1.28,mayfly,aqbase,Caughell 17,17SC,mayfly,aqbase,-127,5475,5.6
+36,SC-F17-212-1,SC-F17-212-1,fall,-25.21,9.97,3.26,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+37,SC-F17-212-2,SC-F17-212-2,fall,-24.96,8.71,3.53,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+38,SC-F17-212-3,SC-F17-212-3,fall,-24.85,9.37,3.32,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+39,SC-F17-212-6 AVG,SC-F17-212-6,fall,-25.7,10.54,3.46,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+40,SC-F17-212-4,SC-F17-212-4,fall,-24.7,9.27,3.32,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+41,SC-F17-212-5,SC-F17-212-5,fall,-25.18,10.76,3.31,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+42,SC-F17-212-11,SC-F17-212-11,fall,-25.12,11.19,3.46,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+43,SC-F17-212-12,SC-F17-212-12,fall,-25.3,10.95,3.42,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+44,SC-F17-212-13,SC-F17-212-13,fall,-24.93,10.38,3.4,NA,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+45,SC-F17-341-1,SC-F17-341-1,fall,-25.03,13.65,3.21,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+46,SC-F17-341-2,SC-F17-341-2,fall,-25.52,13.01,3.21,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+47,SC-F17-341-4,SC-F17-341-4,fall,-25.29,12.19,3.29,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+48,SC-F17-341-6,SC-F17-341-6,fall,-25.38,13.08,3.24,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+49,SC-F17-341-8,SC-F17-341-8,fall,-24.87,12.36,3.26,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+50,SC-F17-341-9,SC-F17-341-9,fall,-24.99,13.11,3.23,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+51,SC-F17-341-10,SC-F17-341-10,fall,-24.81,12.41,3.26,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+52,SC-F17-208-1 AVG,SC-F17-208-1,fall,-26.5,12.41,3.32,-1.84,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+53,SC-F17-341-16,SC-F17-341-16,fall,-25.9,12.81,3.25,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+54,SC-F17-341-19,SC-F17-341-19,fall,-25.36,13.83,3.22,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+55,SC-F17-341-20,SC-F17-341-20,fall,-26.81,14.83,3.24,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+56,SC-F17-208-2,SC-F17-208-2,fall,-26.32,12.54,3.47,-2.22,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+57,SC-F17-208-3,SC-F17-208-3,fall,-27.27,13.15,3.49,-2.14,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+58,SC-F17-208-4,SC-F17-208-4,fall,-26.53,13.06,3.38,-2.18,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+59,SC-F17-208-5,SC-F17-208-5,fall,-26.5,12.69,3.39,-2.05,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+60,SC-F17-208-6,SC-F17-208-6,fall,-26.43,12.63,3.35,-2.37,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+61,SC-F17-208-7,SC-F17-208-7,fall,-27.14,12.99,3.39,-2.27,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+62,SC-F17-208-8,SC-F17-208-8,fall,-26.87,13.61,3.56,-2.21,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+63,SC-F17-208-9,SC-F17-208-9,fall,-27.04,13.45,3.53,-2.03,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+64,SC-F17-TER-1,SC-F17-TER-1,fall,-25.57,-1.93,4.42,1.64,european garden snail,terbase,NA,NA,NA,NA,NA,NA,NA
+65,SC-F17-AQB-1 AVG,SC-F17-AQB-1,fall,-28.8,8.66,4.66,0.35,mayfly,aqbase,NA,NA,NA,NA,NA,NA,NA
+66,SC-F17-163-1,SC-F17-163-1,fall,-26.1,12.3,3.26,-2.23,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+67,SC-F17-163-2,SC-F17-163-2,fall,-25.73,11.11,3.2,-2.35,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+68,SC-F17-163-3,SC-F17-163-3,fall,-25.65,12.35,3.3,-2.34,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+69,SC-F17-163-4,SC-F17-163-4,fall,-25.84,11.72,3.27,-2.27,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+70,SC-F17-163-5,SC-F17-163-5,fall,-25.94,12.16,3.29,-2.08,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+71,SC-F17-163-6,SC-F17-163-6,fall,-25.75,12.04,3.26,-2.03,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+72,SC-F17-163-7,SC-F17-163-7,fall,-28.79,13.57,3.43,-1.32,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+73,SC-F17-163-8,SC-F17-163-8,fall,-26.01,12.71,3.28,-2.22,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+74,SC-F17-163-9,SC-F17-163-9,fall,-24.75,11.83,3.14,-2.51,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+75,SC-F17-163-10,SC-F17-163-10,fall,-25.23,11.01,3.16,-2.37,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+76,KC-S17-198-1,KC-S17-198-1,summer,-27.28,12.37,3.15,NA,common shiner,invertivore,Kettle Creek 17,17KC,common shiner,invertivore,-123.1,6146,6.4
+77,KC-S17-198-2,KC-S17-198-2,summer,-26.26,11.39,3.23,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+78,KC-S17-198-3 AVG,KC-S17-198-3,summer,-25.95,11.63,3.19,NA,common shiner,invertivore,Kettle Creek 17,17KC,common shiner,invertivore,-119.26,6017,6.7
+79,KC-S17-198-4,KC-S17-198-4,summer,-27.49,11.78,3.51,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+80,KC-S17-198-5,KC-S17-198-5,summer,-26.4,13.45,3.32,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+81,KC-S17-198-6,KC-S17-198-6,summer,-27.04,11.67,3.22,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+82,KC-S17-198-7,KC-S17-198-7,summer,-25.97,10.71,3.31,NA,common shiner,invertivore,Kettle Creek 17,17KC,common shiner,invertivore,-112.2,5584,6.6
+83,KC-S17-198-8,KC-S17-198-8,summer,-27.68,12.49,3.67,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+84,KC-S17-212-1,KC-S17-212-1,summer,-25.75,11.08,3.29,0.69,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-107.06,5515,6.7
+85,KC-S17-212-2,KC-S17-212-2,summer,-26.18,11.76,3.24,1.6,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-106.33,6368,6.6
+86,KC-S17-212-3,KC-S17-212-3,summer,-25.75,11.91,3.16,2.17,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-106.18,6606,6.7
+87,KC-S17-212-4,KC-S17-212-4,summer,-25.7,11.51,3.21,1.89,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-108.38,4958,6.6
+88,KC-S17-212-5,KC-S17-212-5,summer,-25.52,10.06,3.2,0.83,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-101.8,5091,6.8
+89,KC-S17-212-7,KC-S17-212-7,summer,-25.4,9.82,3.17,1.23,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-100.47,5695,6.6
+90,KC-S17-212-8,KC-S17-212-8,summer,-25.68,11.37,3.17,1.1,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-109.43,5834,6.6
+91,KC-S17-212-9 AVG,KC-S17-212-9,summer,-26.47,11.71,3.24,1.67,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-105.92,5279,6.9
+92,KC-S17-212-10,KC-S17-212-10,summer,-25.07,9.84,3.2,1.47,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-100.25,5907,6.8
+93,KC-S17-208-1,KC-S17-208-1,summer,-26.14,12.4,3.45,1.57,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+94,KC-S17-208-2,KC-S17-208-2,summer,-26.26,13.08,3.48,1.13,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+95,KC-S17-208-3,KC-S17-208-3,summer,-26.49,11.57,3.78,0.69,bluntnose minnow,detritivore,Kettle Creek 17,17KC,bluntnose minnow,detritivore,-136.75,4798,6.9
+96,KC-S17-208-4,KC-S17-208-4,summer,-25.69,12.63,3.69,0.97,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+97,KC-S17-208-5,KC-S17-208-5,summer,-26.17,12.71,3.53,1.37,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+98,KC-S17-208-6,KC-S17-208-6,summer,-25.49,13.08,3.5,0.26,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+99,KC-S17-208-7,KC-S17-208-7,summer,-25.41,13.29,3.46,0.89,bluntnose minnow,detritivore,Kettle Creek 17,17KC,bluntnose minnow,detritivore,-136.37,5468,6.9
+100,KC-S17-208-8,KC-S17-208-8,summer,-26.85,12.96,3.47,0.05,bluntnose minnow,detritivore,NA,NA,NA,NA,NA,NA,NA
+101,KC-S17-208-9,KC-S17-208-9,summer,-25.88,13.26,3.46,0.99,bluntnose minnow,detritivore,Kettle Creek 17,17KC,bluntnose minnow,detritivore,-140.23,5156,6.9
+102,KC-S17-201-1,KC-S17-201-1,summer,-26.36,12.65,3.52,NA,spottail shiner,herbivore,Kettle Creek 17,17KC,spottail shiner,planktivore,-128.59,4206,6.9
+103,KC-S17-344-1,KC-S17-344-1,summer,-27.77,14.14,3.76,NA,blackside darter,invertivore,Kettle Creek 17,17KC,blackside darter,invertivore,-143.79,5582,7.1
+104,KC-S17-344-2 AVG,KC-S17-344-2,summer,-27.32,13.87,3.7,NA,blackside darter,invertivore,Kettle Creek 17,17KC,blackside darter,invertivore,-157.95,5485,7.4
+105,KC-S17-344-3,KC-S17-344-3,summer,-27.97,13.58,3.69,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+106,KC-S17-344-4,KC-S17-344-4,summer,-28.09,14.23,4.1,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+107,KC-S17-344-5,KC-S17-344-5,summer,-28.18,13.75,3.5,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+108,KC-S17-344-6,KC-S17-344-6,summer,-27.21,13.75,3.88,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+109,KC-S17-344-7,KC-S17-344-7,summer,-27.98,13.55,3.98,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+110,KC-S17-344-8,KC-S17-344-8,summer,-28.45,14.14,3.97,NA,blackside darter,invertivore,Kettle Creek 17,17KC,blackside darter,invertivore,-138.85,4607,7
+111,KC-S17-165-1,KC-S17-165-1,summer,-25.92,12.8,3.33,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+112,KC-S17-165-2,KC-S17-165-2,summer,-25.76,12.84,3.28,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+113,KC-S17-165-3,KC-S17-165-3,summer,-25.7,13.45,3.28,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+114,KC-S17-165-4,KC-S17-165-4,summer,-26.09,13.34,3.37,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+115,KC-S17-165-5,KC-S17-165-5,summer,-26,13.18,3.29,NA,northern hog sucker,herbivore,Kettle Creek 17,17KC,northern hog sucker,herbivore,-122.78,5208,6.8
+116,KC-S17-165-6,KC-S17-165-6,summer,-26.25,13.28,3.22,NA,northern hog sucker,herbivore,Kettle Creek 17,17KC,northern hog sucker,herbivore,-130.05,4070,5.5
+117,KC-S17-165-7 AVG,KC-S17-165-7,summer,-25.79,13.21,3.28,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+118,KC-S17-165-8,KC-S17-165-8,summer,-25.51,13.61,3.34,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+119,KC-S17-165-9,KC-S17-165-9,summer,-25.66,13.5,3.29,NA,northern hog sucker,herbivore,Kettle Creek 17,17KC,northern hog sucker,herbivore,-119.81,5082,6.8
+120,KC-S17-165-10,KC-S17-165-10,summer,-26.5,12.93,3.29,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+121,KC-S17-TER-1,KC-S17-TER-1,summer,-26.48,0.83,4.55,2.38,european garden snail,terbase,Kettle Creek 17,17KC,european garden snail,terbase,-80.58,6058,6.7
+122,KC-S17-AQB-1,KC-S17-AQB-1,summer,-26.4,11.81,5.15,2.53,mayfly,aqbase,Kettle Creek 17,17KC,mayfly,aqbase,-144.65,5297,6
+123,KC-F17-163-1,KC-F17-163-1,fall,-26.47,13.29,3.23,2.29,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+124,KC-F17-163-2,KC-F17-163-2,fall,-27.5,14.26,3.35,2.84,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+125,KC-F17-163-3,KC-F17-163-3,fall,-25.97,12.42,3.33,1.5,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+126,KC-F17-163-4,KC-F17-163-4,fall,-26.1,12.93,3.29,1.22,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+127,KC-F17-163-5,KC-F17-163-5,fall,-25.9,15.29,3.24,2.13,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+128,KC-F17-198-1,KC-F17-198-1,fall,-25.03,9.96,3.37,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+129,KC-F17-198-2,KC-F17-198-2,fall,-24.71,10.07,3.25,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+130,KC-F17-198-3 AVG,KC-F17-198-3,fall,-26.08,12.15,3.33,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+131,KC-F17-212-1,KC-F17-212-1,fall,-24.77,9.88,3.38,1.95,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+132,KC-F17-212-2,KC-F17-212-2,fall,-25.05,10.66,3.27,2.2,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+133,KC-F17-212-3,KC-F17-212-3,fall,-25.36,13.86,3.46,2.62,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+134,KC-F17-212-4,KC-F17-212-4,fall,-24.81,10.12,3.46,2.07,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+135,KC-F17-212-5,KC-F17-212-5,fall,-24.42,9.54,3.28,2.16,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+136,KC-F17-341-1,KC-F17-341-1,fall,-26.85,17.19,3.28,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+137,KC-F17-344-1,KC-F17-344-1,fall,-27.17,15.3,3.3,NA,blackside darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+138,KC-F17-165-1,KC-F17-165-1,fall,-25.49,14.84,3.29,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+139,KC-F17-165-2,KC-F17-165-2,fall,-25.27,14.21,3.24,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+140,KC-F17-165-3,KC-F17-165-3,fall,-26.13,14.68,3.32,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+141,KC-F17-165-4,KC-F17-165-4,fall,-25.68,14.53,3.31,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+142,KC-F17-165-5,KC-F17-165-5,fall,-25.84,14.54,3.35,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+143,KC-F17-165-6 AVG,KC-F17-165-6,fall,-24.66,15.91,3.27,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+144,KC-F17-165-7,KC-F17-165-7,fall,-26.7,14.95,3.24,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+145,KC-F17-165-8,KC-F17-165-8,fall,-25.69,14.86,3.31,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+146,KC-F17-165-9,KC-F17-165-9,fall,-25.33,14.53,3.2,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+147,KC-F17-165-10,KC-F17-165-10,fall,-26.32,15.33,3.3,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+148,KC-F17-TER-1,KC-F17-TER-1,fall,-26.97,0.64,4.29,3.08,european garden snail,terbase,NA,NA,NA,NA,NA,NA,NA
+149,KC-F17-AQB-1,KC-F17-AQB-1,fall,-28.28,10.96,4.62,5.1,mayfly,aqbase,NA,NA,NA,NA,NA,NA,NA
+150,WH-S17-163-1,WH-S17-163-1,summer,-27.36,12.76,3.2,11.5,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+151,WH-S17-163-2,WH-S17-163-2,summer,-27.31,12.98,3.2,12.13,white sucker,detritivore,Washington 17,17WH,white sucker,detritivore,-133.25,4308,6.6
+152,WH-S17-163-3,WH-S17-163-3,summer,-26.49,12.45,3.17,12.13,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+153,WH-S17-163-4,WH-S17-163-4,summer,-26.19,12.54,3.2,11.88,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+154,WH-S17-163-5,WH-S17-163-5,summer,-26.77,12.82,3.22,12.02,white sucker,detritivore,Washington 17,17WH,white sucker,detritivore,-132.94,5712,6.8
+155,WH-S17-163-6,WH-S17-163-6,summer,-26.44,12.47,3.16,10.75,white sucker,detritivore,Washington 17,17WH,white sucker,detritivore,-125.04,5936,6.8
+156,WH-S17-163-7 AVG,WH-S17-163-7,summer,-26.65,12.76,3.21,11.48,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+157,WH-S17-163-8,WH-S17-163-8,summer,-26.57,12.66,3.2,11.84,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+158,WH-S17-212-1,WH-S17-212-1,summer,-25.16,11.07,3.22,3.5,creek chub,cc,Washington 17,17WH,creek chub,cc,-93.61,5276,6.8
+159,WH-S17-212-2,WH-S17-212-2,summer,-25.34,11.77,3.21,5.27,creek chub,cc,Washington 17,17WH,creek chub,cc,-100.72,4316,6.8
+160,WH-S17-212-3,WH-S17-212-3,summer,-25.24,11.24,3.29,3.63,creek chub,cc,Washington 17,17WH,creek chub,cc,-98.65,5636,6.8
+161,WH-S17-212-4,WH-S17-212-4,summer,-25.41,11.19,3.18,6.44,creek chub,cc,Washington 17,17WH,creek chub,cc,-99.53,4902,6.9
+162,WH-S17-212-5,WH-S17-212-5,summer,-25.33,11.23,3.15,4.3,creek chub,cc,Washington 17,17WH,creek chub,cc,-94.07,5043,6.7
+163,WH-S17-212-6,WH-S17-212-6,summer,-25.42,11.15,3.17,4.9,creek chub,cc,Washington 17,17WH,creek chub,cc,-97.45,4437,6.6
+164,WH-S17-212-7,WH-S17-212-7,summer,-25.18,11.2,3.2,3.26,creek chub,cc,Washington 17,17WH,creek chub,cc,-95.91,4890,6.8
+165,WH-S17-212-8,WH-S17-212-8,summer,-24.9,11.16,3.17,4.36,creek chub,cc,Washington 17,17WH,creek chub,cc,-90.9,4662,6.8
+166,WH-S17-212-9,WH-S17-212-9,summer,-25.29,10.47,3.2,2.18,creek chub,cc,Washington 17,17WH,creek chub,cc,-92.1,5780,6.8
+167,WH-S17-212-10,WH-S17-212-10,summer,-25.44,10.93,3.26,5.92,creek chub,cc,Washington 17,17WH,creek chub,cc,-97.46,5078,6.5
+168,WH-S17-341-1,WH-S17-341-1,summer,-26.34,13.78,3.3,NA,johnny darter,invertivore,Washington 17,17WH,johnny darter,invertivore,-122.47,4736,6.9
+169,WH-S17-341-2 AVG,WH-S17-341-2,summer,-26.26,14.21,3.27,NA,johnny darter,invertivore,Washington 17,17WH,johnny darter,invertivore,-122.72,6777,6.6
+170,WH-S17-341-3,WH-S17-341-3,summer,-26.96,15.4,3.41,NA,johnny darter,invertivore,Washington 17,17WH,johnny darter,invertivore,-131.72,6126,6.9
+171,WH-S17-210-1,WH-S17-210-1,summer,-26.8,12.64,3.39,NA,blacknose dace,invertivore,Washington 17,17WH,blacknose dace,invertivore,-133.97,4825,6.8
+172,WH-S17-210-2,WH-S17-210-2,summer,-26.66,12.33,3.44,NA,blacknose dace,invertivore,Washington 17,17WH,blacknose dace,invertivore,-125.39,5707,6.8
+173,WH-S17-210-3,WH-S17-210-3,summer,-27.07,12.67,3.53,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+174,WH-S17-210-4,WH-S17-210-4,summer,-26.58,12.5,3.37,NA,blacknose dace,invertivore,Washington 17,17WH,blacknose dace,invertivore,-125.34,5418,6.9
+175,WH-S17-211-1,WH-S17-211-1,summer,-26.61,13.36,3.3,NA,longnose dace,invertivore,Washington 17,17WH,longnose dace,invertivore,-126.9,5415,7
+176,WH-S17-211-2,WH-S17-211-2,summer,-27.16,12.93,3.44,NA,longnose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+177,WH-S17-211-3,WH-S17-211-3,summer,-26.77,13.12,3.29,NA,longnose dace,invertivore,Washington 17,17WH,longnose dace,invertivore,-137.49,5901,6.8
+178,WH-S17-211-4,WH-S17-211-4,summer,-26.62,13.29,3.54,NA,longnose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+179,WH-S17-211-5,WH-S17-211-5,summer,-27.04,13.73,3.38,NA,longnose dace,invertivore,Washington 17,17WH,longnose dace,invertivore,-126.86,5883,6.8
+180,WH-S17-AQB-1,WH-S17-AQB-1,summer,-28.19,7.56,5.66,8.08,caddisfly,aqbase,Washington 17,17WH,caddisfly,aqbase,-132.22,6464,7.1
+181,WH-S17-TER-1,WH-S17-TER-1,summer,-28.64,-0.79,4.66,NA,aphids,terbase,Washington 17,17WH,aphids,terbase,-92.41,3310,6.5
+182,WH-S17-AQB-2 AVG,WH-S17-AQB-2,summer,-29.01,10.48,4.84,10.76,mayfly,aqbase,Washington 17,17WH,mayfly,aqbase,-131.91,5895,6.6
+183,WH-F17-163-1,WH-F17-163-1,fall,-26.56,13.72,3.4,11.92,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+184,WH-F17-163-2,WH-F17-163-2,fall,-26.58,13.5,3.35,11.51,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+185,WH-F17-163-3,WH-F17-163-3,fall,-27.1,14.49,3.36,15.24,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+186,WH-F17-163-4,WH-F17-163-4,fall,-25.82,13.28,3.37,12,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+187,WH-F17-163-5,WH-F17-163-5,fall,-26.94,13.69,3.35,11.7,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+188,WH-F17-163-6,WH-F17-163-6,fall,-26.6,13.02,3.32,10.89,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+189,WH-F17-163-7,WH-F17-163-7,fall,-26.48,12.66,3.28,11.37,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+190,WH-F17-163-8,WH-F17-163-8,fall,-26.31,13.1,3.29,11.63,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+191,WH-F17-163-9,WH-F17-163-9,fall,-26.64,12.7,3.33,11.1,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+192,WH-F17-163-10,WH-F17-163-10,fall,-26.17,11.91,3.28,10.84,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+193,WH-F17-198-1,WH-F17-198-1,fall,-27.62,15.12,3.44,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+194,WH-F17-198-2,WH-F17-198-2,fall,-26.96,15.31,3.47,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+195,WH-F17-198-3 AVG,WH-F17-198-3,fall,-28.48,15.2,3.32,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+196,WH-F17-212-1,WH-F17-212-1,fall,-25.22,11.22,3.41,4.16,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+197,WH-F17-212-2,WH-F17-212-2,fall,-25.18,10.44,3.36,3.4,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+198,WH-F17-212-3,WH-F17-212-3,fall,-25.07,11.05,3.37,4.02,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+199,WH-F17-212-4,WH-F17-212-4,fall,-25.07,13.95,3.32,10.3,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+200,WH-F17-212-5,WH-F17-212-5,fall,-25.03,11.67,3.37,2.91,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+201,WH-F17-212-6,WH-F17-212-6,fall,-25.46,10.73,3.35,3.91,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+202,WH-F17-212-7,WH-F17-212-7,fall,-25.48,12.01,3.44,4.63,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+203,WH-F17-212-8,WH-F17-212-8,fall,-25.15,11.87,3.4,4.83,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+204,WH-F17-212-9,WH-F17-212-9,fall,-25.2,11.38,3.43,5.3,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+205,WH-F17-212-10,WH-F17-212-10,fall,-24.7,11.42,3.22,3.41,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+206,WH-F17-341-1,WH-F17-341-1,fall,-27.69,14.92,3.31,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+207,WH-F17-210-1,WH-F17-210-1,fall,-26.19,13.31,3.45,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+208,WH-F17-210-2 AVG,WH-F17-210-2,fall,-26.86,12.89,3.49,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+209,WH-F17-210-3,WH-F17-210-3,fall,-26.12,13.85,3.36,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+210,WH-F17-210-4,WH-F17-210-4,fall,-26.85,13.47,3.71,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+211,WH-F17-210-5,WH-F17-210-5,fall,-26.65,13.34,3.51,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+212,WH-F17-210-6,WH-F17-210-6,fall,-26.42,13.56,3.6,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+213,WH-F17-210-7,WH-F17-210-7,fall,-26.64,13.56,3.78,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+214,WH-F17-210-8,WH-F17-210-8,fall,-26.17,13.56,3.62,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+215,WH-F17-210-9,WH-F17-210-9,fall,-26.46,13.77,3.53,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+216,WH-F17-210-10,WH-F17-210-10,fall,-26.42,13.05,3.48,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+217,WH-F17-076-1,WH-F17-076-1,fall,-25.3,11.54,3.29,NA,rainbow trout,trout,NA,NA,NA,NA,NA,NA,NA
+218,WH-F17-076-2,WH-F17-076-2,fall,-25.85,9.75,3.37,NA,rainbow trout,trout,NA,NA,NA,NA,NA,NA,NA
+219,WH-F17-076-3,WH-F17-076-3,fall,-27.32,13.63,3.23,NA,rainbow trout,trout,NA,NA,NA,NA,NA,NA,NA
+220,WH-F17-TER-1,WH-F17-TER-1,fall,-29.15,8.61,6.65,3.61,hemiptera,terbase,NA,NA,NA,NA,NA,NA,NA
+221,WH-F17-076-4 AVG,WH-F17-076-4,fall,-23.66,15.42,3.87,NA,rainbow trout,trout,NA,NA,NA,NA,NA,NA,NA
+222,WH-F17-AQB-1,WH-F17-AQB-1,fall,-29.69,5.78,5.8,1.74,cranefly larvae,aqbase,NA,NA,NA,NA,NA,NA,NA
+223,BG-S17-163-1,BG-S17-163-1,summer,-29.02,10.58,3.32,-1.71,white sucker,detritivore,Gilvesy 17,17BG,white sucker,detritivore,-106.05,5467,7
+224,BG-S17-210-2,BG-S17-210-2,summer,-28.6,10.07,3.44,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+225,BG-S17-210-3,BG-S17-210-3,summer,-28.55,10.08,4.07,NA,blacknose dace,invertivore,Gilvesy 17,17BG,blacknose dace,invertivore,-98.97,4483,6.7
+226,BG-S17-210-8,BG-S17-210-8,summer,-27.37,9.04,3.4,NA,blacknose dace,invertivore,Gilvesy 17,17BG,blacknose dace,invertivore,-96.98,5142,6.7
+227,BG-S17-210-9,BG-S17-210-9,summer,-28.71,10.19,3.45,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+228,BG-S17-210-10,BG-S17-210-10,summer,-27.57,8.44,3.74,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+229,BG-S17-210-12,BG-S17-210-12,summer,-29.52,10.23,3.58,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+230,BG-S17-210-13,BG-S17-210-13,summer,-29.07,8.34,4.44,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+231,BG-S17-210-14,BG-S17-210-14,summer,-29.09,10.33,3.54,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+232,BG-S17-210-15,BG-S17-210-15,summer,-28.15,9.63,3.36,NA,blacknose dace,invertivore,Gilvesy 17,17BG,blacknose dace,invertivore,-102.1,5869,6.7
+233,BG-S17-210-16,BG-S17-210-16,summer,-27.48,8.88,3.58,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+234,BG-F17-163-1,BG-F17-163-1,fall,-29.24,11.4,3.42,-1.7,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+235,BG-F17-163-2,BG-F17-163-2,fall,-29.07,11.58,3.46,-1.82,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+236,BG-F17-163-3,BG-F17-163-3,fall,-29.85,11.04,3.36,-2.59,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+237,BG-F17-210-1,BG-F17-210-1,fall,-29.2,10.71,3.78,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+238,BG-F17-210-2,BG-F17-210-2,fall,-29.24,10.82,3.59,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+239,BG-F17-210-3,BG-F17-210-3,fall,-28.44,9.48,3.64,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+240,BG-F17-210-4,BG-F17-210-4,fall,-29.16,8.85,4.28,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+241,BG-F17-210-5,BG-F17-210-5,fall,-27.99,8.69,3.57,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+242,BG-F17-210-6,BG-F17-210-6,fall,-29.89,10.23,3.8,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+243,BG-F17-210-7,BG-F17-210-7,fall,-28.31,8.77,3.86,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+244,BG-F17-210-8,BG-F17-210-8,fall,-28.13,9,3.64,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+245,BG-F17-210-9,BG-F17-210-9,fall,-27.19,8.2,3.59,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+246,BG-F17-210-10 AVG,BG-F17-210-10,fall,-27.9,9.15,3.6,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+247,BG-F17-TER-1,BG-F17-TER-1,fall,-33.57,0.79,5.78,25.87,caterpillar,terbase,NA,NA,NA,NA,NA,NA,NA
+248,BG-F17-AQB-1,BG-F17-AQB-1,fall,-28.85,8.27,4.4,-0.67,mayfly/caddisfly,aqbase,NA,NA,NA,NA,NA,NA,NA
+249,DE-S17-TER-1,DE-S17-TER-1,summer,-28.88,1.82,4.35,-4.02,caterpillar,terbase,NA,NA,NA,NA,NA,NA,NA
+250,DE-S17-AQB-1,DE-S17-AQB-1,summer,-28.3,6.5,5.15,-1.06,mayfly/caddisfly,aqbase,NA,NA,NA,NA,NA,NA,NA
+251,LEF-S17-TER-1,LEF-S17-TER-1,summer,-28.19,-0.7,4.41,-2.99,caterpillar,terbase,NA,NA,NA,NA,NA,NA,NA
+252,LEF-S17-AQB-1,LEF-S17-AQB-1,summer,-38.42,9.49,10.43,2.59,algae,algae,NA,NA,NA,NA,NA,NA,NA
+253,BS-S17-TER-1,BS-S17-TER-1,summer,-33.54,-1.89,6.75,2.67,white tree hopper,terbase,NA,NA,NA,NA,NA,NA,NA
+254,KC-S17-212-6,KC-S17-212-6,summer,-25.85,11.07,3.27,NA,creek chub,cc,Kettle Creek 17,17KC,creek chub,cc,-108.96,5482,6.8
+255,WA-S17-198-1,WA-S17-198-1,summer,-25.87,10.58,3.45,NA,common shiner,invertivore,Watson 17,17WA,common shiner,invertivore,-107.36,4421,6.9
+256,WA-S17-198-2,WA-S17-198-2,summer,-26.78,10.86,3.74,NA,common shiner,invertivore,Watson 17,17WA,common shiner,invertivore,-115.36,5522,7
+257,WA-S17-198-3,WA-S17-198-3,summer,-26.53,10.22,3.92,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+258,WA-S17-198-4 AVG,WA-S17-198-4,summer,-26.48,12.85,3.47,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+259,WA-S17-198-5,WA-S17-198-5,summer,-25.82,10.13,3.45,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+260,WA-S17-198-6,WA-S17-198-6,summer,-26.5,10.58,3.54,NA,common shiner,invertivore,NA,NA,NA,NA,NA,NA,NA
+261,WA-S17-198-7,WA-S17-198-7,summer,-27.14,12.24,3.61,NA,common shiner,invertivore,Watson 17,17WA,common shiner,invertivore,-120.1,4832,7
+262,WA-S17-212-2,WA-S17-212-2,summer,-25.56,11.02,3.34,0.02,creek chub,cc,Watson 17,17WA,creek chub,cc,-94.17,4542,6.6
+263,WA-S17-212-3,WA-S17-212-3,summer,-25.02,9.67,3.36,0.2,creek chub,cc,Watson 17,17WA,creek chub,cc,-90.59,5386,6.6
+264,WA-S17-212-4,WA-S17-212-4,summer,-25.59,10.03,3.28,-0.52,creek chub,cc,Watson 17,17WA,creek chub,cc,-89.11,4075,6.7
+265,WA-S17-212-5,WA-S17-212-5,summer,-25.35,9.26,3.3,0.18,creek chub,cc,Watson 17,17WA,creek chub,cc,-91.97,5379,6.8
+266,WA-S17-212-6,WA-S17-212-6,summer,-25.79,9.98,3.34,-0.46,creek chub,cc,Watson 17,17WA,creek chub,cc,-91.35,4448,6.7
+267,WA-S17-212-7,WA-S17-212-7,summer,-25.78,9.94,3.64,0.18,creek chub,cc,Watson 17,17WA,creek chub,cc,-103.57,5716,7
+268,WA-S17-212-8,WA-S17-212-8,summer,-25.76,10.33,3.35,-0.55,creek chub,cc,Watson 17,17WA,creek chub,cc,-91.79,4543,6.6
+269,WA-S17-212-9,WA-S17-212-9,summer,-25.34,10.54,3.36,-0.27,creek chub,cc,Watson 17,17WA,creek chub,cc,-88.96,4576,6.7
+270,WA-S17-212-10,WA-S17-212-10,summer,-25.34,9.5,3.47,-0.09,creek chub,cc,Watson 17,17WA,creek chub,cc,-92.23,5917,6.8
+271,WA-S17-201-1 AVG,WA-S17-201-1,summer,-26.62,11.48,3.57,NA,spottail shiner,herbivore,Watson 17,17WA,spottail shiner,planktivore,-113.83,4928,7
+272,WA-S17-200-1,WA-S17-200-1,summer,-28.22,12.72,3.41,NA,blacknose shiner,herbivore,Watson 17,17WA,blacknose shiner,planktivore,-114.5,4897,6.7
+273,WA-S17-210-1,WA-S17-210-1,summer,-26.92,12.58,3.43,NA,blacknose dace,invertivore,Watson 17,17WA,blacknose dace,invertivore,-106.16,5432,6.7
+274,WA-S17-210-2,WA-S17-210-2,summer,-26.85,12.42,3.54,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+275,WA-S17-210-3,WA-S17-210-3,summer,-26.19,12.33,3.28,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+276,WA-S17-210-4,WA-S17-210-4,summer,-26.59,12.2,3.5,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+277,WA-S17-210-6,WA-S17-210-6,summer,-26.42,11.49,3.46,NA,blacknose dace,invertivore,Watson 17,17WA,blacknose dace,invertivore,-111.33,5411,6.8
+278,WA-S17-210-8,WA-S17-210-8,summer,-26.74,12.51,3.26,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+279,WA-S17-210-10,WA-S17-210-10,summer,-27.54,13.62,3.35,NA,blacknose dace,invertivore,Watson 17,17WA,blacknose dace,invertivore,-110.05,5853,6.7
+280,WA-S17-210-11,WA-S17-210-11,summer,-26.86,12.56,3.37,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+281,WA-S17-210-13,WA-S17-210-13,summer,-26.67,12.18,3.43,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+282,WA-S17-210-14,WA-S17-210-14,summer,-25.78,9.28,3.58,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+283,WA-S17-TER-2,WA-S17-TER-2,summer,-24.87,3.69,4.14,5.18,japanese beetle,terbase,Watson 17,17WA,japanese beetle,terbase,-80.75,4460,6
+284,WA-S17-AQB-1 AVG,WA-S17-AQB-1,summer,-29.48,7.39,5.35,-1.53,caddisfly,aqbase,Watson 17,17WA,caddisfly,aqbase,-120.87,6407,7.1
+285,WA-S17-AQB-2,WA-S17-AQB-2,summer,-30,11.23,4.4,-1.62,mayfly,aqbase,Watson 17,17WA,mayfly,aqbase,-118.66,5883,6
+286,WA-F17-163-1,WA-F17-163-1,fall,-25.44,7.81,3.44,-2.05,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+287,WA-F17-163-2,WA-F17-163-2,fall,-28.63,13.61,3.28,-2.54,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+288,WA-F17-163-3,WA-F17-163-3,fall,-27.23,12.32,3.38,-1.1,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+289,WA-F17-163-4,WA-F17-163-4,fall,-30.07,13.81,3.43,-2.08,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+290,WA-F17-163-5,WA-F17-163-5,fall,-28.28,13.3,3.33,-2.23,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+291,WA-F17-212-1,WA-F17-212-1,fall,-25.58,7.9,3.32,1.25,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+292,WA-F17-212-2,WA-F17-212-2,fall,-25.92,8.47,3.43,1.02,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+293,WA-F17-212-3,WA-F17-212-3,fall,-25.84,10.21,3.32,0.95,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+294,WA-F17-212-9,WA-F17-212-9,fall,-25.8,9.13,3.3,0.69,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+295,WA-F17-212-10,WA-F17-212-10,fall,-26.31,8.58,3.37,-0.25,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+296,WA-F17-212-11,WA-F17-212-11,fall,-25.59,8.44,3.37,0.63,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+297,WA-F17-212-12 ,WA-F17-212-12 ,fall,-25.53,7.96,3.43,1.02,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+298,WA-F17-212-13,WA-F17-212-13,fall,-24.9,8.33,3.44,1.64,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+299,WA-F17-212-14,WA-F17-212-14,fall,-25.5,7.91,3.41,0.23,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+300,WA-F17-212-15,WA-F17-212-15,fall,-25.88,8.67,3.45,1.6,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+301,WA-F17-341-2,WA-F17-341-2,fall,-28.14,14.96,3.3,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+302,WA-F17-341-3,WA-F17-341-3,fall,-27.92,14.84,3.36,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+303,WA-F17-341-4,WA-F17-341-4,fall,-28.6,14.07,3.38,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+304,WA-F17-341-5,WA-F17-341-5,fall,-27.69,14.42,3.3,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+305,WA-F17-341-6,WA-F17-341-6,fall,-28.64,14.01,3.31,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+306,WA-F17-341-7,WA-F17-341-7,fall,-27.73,14.61,3.3,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+307,WA-F17-341-8,WA-F17-341-8,fall,-28.5,13.55,3.3,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+308,WA-F17-341-9,WA-F17-341-9,fall,-28.3,14.39,3.32,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+309,WA-F17-341-10,WA-F17-341-10,fall,-27.77,14.48,3.3,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+310,WA-F17-210-1 AVG,WA-F17-210-1,fall,-26.39,9.95,3.42,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+311,WA-F17-341-11,WA-F17-341-11,fall,-28.84,14.44,3.26,NA,johnny darter,invertivore,NA,NA,NA,NA,NA,NA,NA
+312,WA-F17-210-2,WA-F17-210-2,fall,-27.89,13.79,3.47,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+313,WA-F17-210-3,WA-F17-210-3,fall,-27.55,11.58,3.57,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+314,WA-F17-210-4,WA-F17-210-4,fall,-27.81,13.89,3.41,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+315,WA-F17-210-5,WA-F17-210-5,fall,-27.78,14.04,3.49,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+316,WA-F17-210-6,WA-F17-210-6,fall,-27.32,13.55,3.39,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+317,WA-F17-210-7,WA-F17-210-7,fall,-27.7,14.15,3.48,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+318,WA-F17-210-8,WA-F17-210-8,fall,-27.04,14.07,3.37,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+319,WA-F17-210-9,WA-F17-210-9,fall,-27.68,12.99,3.41,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+320,WA-F17-210-10,WA-F17-210-10,fall,-27.21,12.86,3.49,NA,blacknose dace,invertivore,NA,NA,NA,NA,NA,NA,NA
+321,WA-F17-165-1,WA-F17-165-1,fall,-28.02,13.85,3.31,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+322,WA-F17-TER-1,WA-F17-TER-1,fall,-31.03,3.16,4.76,-1.51,caterpillar,terbase,NA,NA,NA,NA,NA,NA,NA
+323,WA-F17-165-2 AVG,WA-F17-165-2,fall,-28.05,14.33,3.32,NA,northern hog sucker,herbivore,NA,NA,NA,NA,NA,NA,NA
+324,WA-F17-TER-2,WA-F17-TER-2,fall,-18.39,4.37,4.56,5.21,japanese beetle,terbase,NA,NA,NA,NA,NA,NA,NA
+325,WA-F17-AQB-1,WA-F17-AQB-1,fall,-31.04,4.38,4.85,-2.91,cranefly larvae,aqbase,NA,NA,NA,NA,NA,NA,NA
+326,WA-F17-AQB-2,WA-F17-AQB-2,fall,-29.34,8,4.43,-1.22,amphipod,aqbase,NA,NA,NA,NA,NA,NA,NA
+327,JC-F17-163-1,JC-F17-163-1,fall,-31.42,16.28,3.38,-2.43,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+328,JC-F17-163-2,JC-F17-163-2,fall,-29.16,15.31,3.32,-2.47,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+329,JC-F17-163-3,JC-F17-163-3,fall,-28.97,14.58,3.18,-4.7,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+330,JC-F17-163-4,JC-F17-163-4,fall,-30.22,15.68,3.24,-3.18,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+331,JC-F17-163-5,JC-F17-163-5,fall,-29.68,15.56,3.24,-4.11,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+332,JC-F17-163-6,JC-F17-163-6,fall,-29.41,15.51,3.26,-3.79,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+333,JC-F17-163-7,JC-F17-163-7,fall,-29.45,15.28,3.23,-3.86,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+334,JC-F17-163-8,JC-F17-163-8,fall,-28.64,15.16,3.19,-4.03,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+335,JC-F17-163-9,JC-F17-163-9,fall,-28.86,15.06,3.19,-3.18,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+336,JC-F17-163-10 AVG,JC-F17-163-10,fall,-28.52,14.75,3.2,-4.14,white sucker,detritivore,NA,NA,NA,NA,NA,NA,NA
+337,JC-F17-212-1,JC-F17-212-1,fall,-24.89,11.96,3.39,4.8,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+338,JC-F17-212-2,JC-F17-212-2,fall,-25.49,8.33,3.41,1.42,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+339,JC-F17-212-3,JC-F17-212-3,fall,-26.65,11.42,3.39,0.58,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+340,JC-F17-212-4,JC-F17-212-4,fall,-27.82,14.25,3.65,-1.74,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+341,JC-F17-212-5,JC-F17-212-5,fall,-26.48,10.14,3.47,0.3,creek chub,cc,NA,NA,NA,NA,NA,NA,NA
+342,JC-F17-AQB-1,JC-F17-AQB-1,fall,-30.08,12.62,4.37,-0.34,mayfly,aqbase,NA,NA,NA,NA,NA,NA,NA
+343,JC-F17-AQB-3,JC-F17-AQB-3,fall,-29.78,9.04,5.38,1.08,cranefly larvae,aqbase,NA,NA,NA,NA,NA,NA,NA
+344,JC-S17-163-1,JC-S17-163-1,summer,-28.45,14.46,3.21,-4.44,white sucker,detritivore,Csoff 17,17JC,white sucker,detritivore,-100.18,5262,6.2
+345,JC-S17-163-2,JC-S17-163-2,summer,-28.89,15.07,3.25,-3.94,white sucker,detritivore,Csoff 17,17JC,white sucker,detritivore,-111.36,5247,6.8
+346,JC-S17-163-3,JC-S17-163-3,summer,-29.55,14.78,3.22,-2.8,white sucker,detritivore,Csoff 17,17JC,white sucker,detritivore,-104.97,4615,6.7
+347,JC-S17-212-1,JC-S17-212-1,summer,-25.51,10.59,3.17,-0.57,creek chub,cc,Csoff 17,17JC,creek chub,cc,-87.6,6148,6.8
+348,JC-S17-212-2 AVG,JC-S17-212-2,summer,-26.49,11.65,3.2,-2.38,creek chub,cc,Csoff 17,17JC,creek chub,cc,-95.17,5652,6.7
+349,JC-S17-212-3,JC-S17-212-3,summer,-25.62,11.12,3.22,-0.72,creek chub,cc,Csoff 17,17JC,creek chub,cc,-84.53,4874,6.7
+350,JC-S17-212-4,JC-S17-212-4,summer,-25.59,10.43,3.21,0.49,creek chub,cc,Csoff 17,17JC,creek chub,cc,-87.96,6208,6.8
+351,JC-S17-TER-1,JC-S17-TER-1,summer,-31.19,0.28,8.13,1.87,aphids,terbase,Csoff 17,17JC,aphids,terbase,-176.12,6190,8
+352,JC-S17-AQB-1,JC-S17-AQB-1,summer,-31.57,13.28,4.87,-2.58,mayfly,aqbase,Csoff 17,17JC,mayfly,aqbase,-112.94,6517,6.9
+353,JC-S17-AQB-3,JC-S17-AQB-3,summer,-31.77,9.46,5.54,-4.15,caddisfly,aqbase,Csoff 17,17JC,caddisfly,aqbase,-126.37,6216,7.1
+354,WA-S17-212-1,WA-S17-212-1,summer,-25.86,11.58,3.24,NA,creek chub,cc,Watson 17,17WA,creek chub,cc,-95.99,5888,6.9
+355,BS-S17-AQB-1,BS-S17-AQB-1,summer,-38.18,9.04,10.24,NA,orange bacterial colony,aqbase,NA,NA,NA,NA,NA,NA,NA
+356,JC-F17-TER-1,JC-F17-TER-1,fall,-32.26,-2.22,16.42,4.14,fuzzy aphids,terbase,NA,NA,NA,NA,NA,NA,NA
+357,JC-S17-AQB-2,JC-S17-AQB-2,summer,-36.4,11.99,10.74,-4.02,algae,algae,Csoff 17,17JC,algae,algae,-121.25,10064,2.9
+358,BG-S17-AQB-1,BG-S17-AQB-1,summer,-31.47,6.3,12.33,1.07,algae,algae,Gilvesy 17,17BG,algae,algae,-158.2,8795,2.4
+359,NA,BG-S17-TER-1,NA,NA,NA,NA,NA,NA,NA,Gilvesy 17,17BG,aphids,null,-220.62,5995,8.1
+360,NA,SC-F17-212-7,NA,NA,NA,NA,NA,NA,NA,Caughell 17,17SC,creek chub,cc,-95.85,6392,7.1
+361,NA,WA-S17-165-1,NA,NA,NA,NA,NA,NA,NA,Watson 17,17WA,northern hog sucker,herbivore,-122.3,5841,6.9
+362,NA,WA-S17-341-1,NA,NA,NA,NA,NA,NA,NA,Watson 17,17WA,johnny darter,invertivore,-117.7,5468,6.6
