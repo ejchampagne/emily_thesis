@@ -11,6 +11,16 @@ library(Hmisc)
 envdata <- read.csv("data/2018PCAaggrad.csv")
 hist(log10(envdata$turbidity))
 
+# read in % ag data from radial buffers
+buf <- readRDS("data/land_use_simplified.rds")
+buf <- bind_rows(buf, .id = "buffer")
+buf_250 <- buf %>% filter(buffer == "bdist_250") %>%
+  select(sitecode, agricultural) %>%
+  rename(p_ag_250 = agricultural)
+min(buf_250$p_ag_250)
+
+# join radial buffer to env data
+envdata <- right_join(envdata, buf_250)
 
 # log transform variables to be used in pca
 envdata = envdata %>% mutate(
@@ -24,7 +34,8 @@ envdata = envdata %>% mutate(
   log_buf_width = log10(buf_width),
   log_velocity = log10(velocity+1), 
   log_p = log10(july.phosphorus),
-  log_n = log10(july.nitrogen)
+  log_n = log10(july.nitrogen),
+  log_ag_250 = log10(p_ag_250+1)
 )
 
 # keep only all sites for pca but not EP1 because no phos data
@@ -40,10 +51,8 @@ rcorr(envdata$log_p_ag, envdata$log_D)#no
 rcorr(envdata$log_p_ag, envdata$log_sin)
 rcorr(envdata$log_p_ag, envdata$log_sal)#no
 
-hist(log10(envdata$velocity))
-
 # create a dataframe with data for pca
-pcadata <- envdata %>% select(log_p_ag, log_turbidity, log_buf_width, log_sin, log_p, log_n)
+pcadata <- envdata %>% select(log_p_ag, log_turbidity, log_buf_width, log_sin, log_p, log_n, log_ag_250)
 rownames(pcadata) <- envdata$sitecode  
 
 # run pca

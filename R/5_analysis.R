@@ -62,7 +62,7 @@ avPlots(mod_tp,"forkmm", xlab="Partial Forklength (mm)", ylab="trophic position"
         grid = F, id = F, pch = 19, col.lines = "grey", bty ="l")
 
 avPlots(mod_tp,"PC1", xlab="Partial PC1", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "grey", bty ="l")
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l")
 
 avPlots(mod_tp,"PC2", xlab="Partial PC2", ylab="trophic position", 
         grid = F, id = F, pch = 19, col.lines = "black", bty ="l")
