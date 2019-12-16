@@ -1,4 +1,4 @@
-source("4_run_pca")
+source("R/5_coupling_tp_regressions.R")
 
 # calculate diversity and eveness metrics
 
@@ -30,8 +30,9 @@ aqinv$aq_even <- aqinv$aq_div/log(specnumber(div_aqinv))
 aqinv$aq_even
 
 # calculate abundance of edible aquatic inverts
-aqinv$edibles <- aqinv$trichoptera + aqinv$amphipoda + aqinv$diptera + aqinv$ephemeroptera + aqinv$hemiptera + aqinv$plecoptera + aqinv$hirudinia + 
-  aqinv$lepidoptera + aqinv$coleoptera + aqinv$isopoda + aqinv$hymenoptera + aqinv$megaloptera + aqinv$odonata
+aqinv$edibles <- aqinv$trichoptera + aqinv$amphipoda + aqinv$diptera + aqinv$ephemeroptera + 
+  aqinv$hemiptera + aqinv$plecoptera + aqinv$hirudinia + aqinv$lepidoptera + aqinv$coleoptera + 
+  aqinv$isopoda + aqinv$hymenoptera + aqinv$megaloptera + aqinv$odonata
 
 #aquatic predatory inverts
 aqinv$aqpred <- aqinv$oligochaeta + aqinv$hydrachnidia + aqinv$hirudinia + aqinv$megaloptera + aqinv$odonata

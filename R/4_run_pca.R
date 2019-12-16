@@ -11,13 +11,19 @@ library(Hmisc)
 envdata <- read.csv("data/2018PCAaggrad.csv")
 hist(log10(envdata$turbidity))
 
-# read in % ag data from radial buffers
+# read in % ag data from radial buffers and convert to single df
 buf <- readRDS("data/land_use_simplified.rds")
 buf <- bind_rows(buf, .id = "buffer")
-buf_250 <- buf %>% filter(buffer == "bdist_250") %>%
+
+# look at mean ag at each buffer
+buf %>% group_by(buffer) %>% 
+  summarise(p_ag = mean(agricultural)) 
+
+# subset out the xx m radial buffer data 
+buf_250 <- buf %>% filter(buffer == "bdist_200") %>%
   select(sitecode, agricultural) %>%
   rename(p_ag_250 = agricultural)
-min(buf_250$p_ag_250)
+hist(buf_250$p_ag_250)
 
 # join radial buffer to env data
 envdata <- right_join(envdata, buf_250)
@@ -42,14 +48,6 @@ envdata = envdata %>% mutate(
 keep_pca <- c("AC", "AT", "BG", "BS", "BW", "DE", "EP2", "EP3", "EP4", "FP", "HC", "HT", "JC", "JW", "KC", "LEF", "LEST", "MT", "PF", "PVTF", "SC", "UH", "VN", "WA", "WH", "WW")
 
 envdata = envdata %>% filter(sitecode %in% keep_pca)
-
-rcorr(envdata$log_p_ag, envdata$log_buf_width)
-rcorr(envdata$log_p_ag, envdata$log_turbidity)
-rcorr(envdata$log_p_ag, envdata$log_drainarea)#no
-rcorr(envdata$log_p_ag, envdata$log_grain)#no
-rcorr(envdata$log_p_ag, envdata$log_D)#no
-rcorr(envdata$log_p_ag, envdata$log_sin)
-rcorr(envdata$log_p_ag, envdata$log_sal)#no
 
 # create a dataframe with data for pca
 pcadata <- envdata %>% select(log_p_ag, log_turbidity, log_buf_width, log_sin, log_p, log_n, log_ag_250)

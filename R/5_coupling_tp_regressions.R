@@ -13,15 +13,16 @@ si <- si %>% filter(sitecode %in% keep_pp)
 fish <- read.csv("data/2018fishwbulk.csv")
 fish <- fish %>% mutate(sitecode = as.character(sitecode), species = as.character(species), sampleid = as.character(sampleid))
 
+# replace 0 and 1s with 
 si <- si %>% right_join(fish, by = "sampleid", "sidecode") %>%
         filter(role == "cc") %>%
         mutate(ter_energy_pp = case_when(
                 ter_energy_pp >= 1 ~ 0.99,
-                ter_energy_pp <= 0 ~ 0,
+                ter_energy_pp <= 0 ~ 0.01,
                 ter_energy_pp > 0 & ter_energy_pp < 1 ~ ter_energy_pp)) %>%
         mutate(ter_energy_sc = case_when(
                 ter_energy_sc >= 1 ~ 0.99,
-                ter_energy_sc <= 0 ~ 0,
+                ter_energy_sc <= 0 ~ 0.01,
                 ter_energy_sc > 0 & ter_energy_sc < 1 ~ ter_energy_sc)) %>%
         rename(sitename = sitename.x, sitecode = sitecode.x, species = species.x) %>%
         select(-sitecode.y, -species.y, -sitename.y) %>%
@@ -62,7 +63,7 @@ avPlots(mod_tp,"forkmm", xlab="Partial Forklength (mm)", ylab="trophic position"
         grid = F, id = F, pch = 19, col.lines = "grey", bty ="l")
 
 avPlots(mod_tp,"PC1", xlab="Partial PC1", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l")
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-2.5, 2))
 
 avPlots(mod_tp,"PC2", xlab="Partial PC2", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l")
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l",  ylim = c(-2.5, 2))

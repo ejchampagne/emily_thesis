@@ -1,5 +1,3 @@
-library(tidyverse)
-
 source("R/4_run_pca.R")
 
 dat <- read.csv("data/2018mastersanalysis.csv", stringsAsFactors = F)

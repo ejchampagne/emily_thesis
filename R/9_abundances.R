@@ -1,12 +1,11 @@
 #9_abundances
-setwd("~/Desktop/Masters Analysis/analysis")
-source("EmilyThesis/7_invertdiversity.R")
+
 
 library(tidyverse)
 library(car)
 library(Hmisc)
 library(corrgram)
-library ( vegan )
+library (vegan)
 
 plot(sitedata$creek.chub~sitedata$agimpact)
 plot(sitedata$creek.chub~sitedata$PC1)
