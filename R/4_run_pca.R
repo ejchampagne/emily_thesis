@@ -28,6 +28,10 @@ hist(buf_250$p_ag_250)
 # join radial buffer to env data
 envdata <- right_join(envdata, buf_250)
 
+
+# lat, lon, streamorder, wet width, max depth, summer velocity, summer water temp, summer discharge, conductivity, ph, 
+# salinity, do, fdom, buffer width, sinucity, valley slope, grain size, drain area, % ag
+
 # log transform variables to be used in pca
 envdata = envdata %>% mutate(
   log_p_ag = log10(p_ag_watershed),
@@ -38,11 +42,14 @@ envdata = envdata %>% mutate(
   log_drainarea = log10(drainage_area),
   log_turbidity = log10(turbidity),
   log_buf_width = log10(buf_width),
-  log_velocity = log10(velocity+1), 
   log_p = log10(july.phosphorus),
   log_n = log10(july.nitrogen),
-  log_ag_250 = log10(p_ag_250+1)
+  log_ag_250 = log10(p_ag_250+1),
+  log_cond = log10(conductivity),
+  log_order = log10(order),
+  log_water_t = log10(temp)
 )
+
 
 # keep only all sites for pca but not EP1 because no phos data
 keep_pca <- c("AC", "AT", "BG", "BS", "BW", "DE", "EP2", "EP3", "EP4", "FP", "HC", "HT", "JC", "JW", "KC", "LEF", "LEST", "MT", "PF", "PVTF", "SC", "UH", "VN", "WA", "WH", "WW")
@@ -50,7 +57,7 @@ keep_pca <- c("AC", "AT", "BG", "BS", "BW", "DE", "EP2", "EP3", "EP4", "FP", "HC
 envdata = envdata %>% filter(sitecode %in% keep_pca)
 
 # create a dataframe with data for pca
-pcadata <- envdata %>% select(log_p_ag, log_turbidity, log_buf_width, log_sin, log_p, log_n, log_ag_250)
+pcadata <- envdata %>% select(log_p_ag, log_buf_width, log_ag_250, log_p, log_n, log_sin, log_order)
 rownames(pcadata) <- envdata$sitecode  
 
 # run pca
@@ -70,9 +77,3 @@ pcascores <- pcascores %>% select(sitecode, PC1, PC2)
 corrgram(pcadata, order=NULL, lower.panel=panel.conf, 
          upper.panel=panel.shade, text.panel=panel.txt, 
          diag.panel=NULL)
-
-# flip this score to make more sense with respect to increasing ag demand with larger score
-#pcascores$PC1 <- pcascores$PC1 * (-1)
-# add 5 to make all numbers positive to be a 'score'
-#pcascores$PC1 <- pcascores$PC1 + 5
-

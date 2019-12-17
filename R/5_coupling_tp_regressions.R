@@ -36,11 +36,12 @@ pcadata$sitecode <- row.names(pcadata)
 row.names(pcadata) <- NULL
 si <- right_join(si, pcadata)
 
+
 # model for terrestrial energy
 hist(plogis(si$ter_energy_pp))
-mod_prop_ter <- lm(plogis(ter_energy_pp) ~ PC1 + PC2 + forkmm, data = si)
+mod_prop_ter <- lm(plogis(ter_energy_pp) ~ log_ag_250 + log_p_ag + forkmm, data = si)
 summary(mod_prop_ter)
-mod_prop_ter <- update(mod_prop_ter, .~. -PC1)
+mod_prop_ter <- update(mod_prop_ter, .~. -log_p_ag)
 summary(mod_prop_ter)
 
 # model for trophic position
@@ -54,7 +55,7 @@ summary(mod_tp)
 avPlots(mod_prop_ter,"forkmm", xlab="Partial Forklength (mm)", ylab="logit proportion terrestrial energy", 
         grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.2, 0.1))
 
-avPlots(mod_prop_ter,"PC2", xlab="Partial PC2", ylab="logit proportion terrestrial energy", 
+avPlots(mod_prop_ter,"log_ag_250", xlab="log local percent agriculture (250 m radial buffer)", ylab="logit proportion terrestrial energy", 
         grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.25, 0.15))
 
 
