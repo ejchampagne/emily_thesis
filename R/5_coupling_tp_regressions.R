@@ -20,10 +20,6 @@ si <- si %>% right_join(fish, by = "sampleid", "sidecode") %>%
                 ter_energy_pp >= 1 ~ 0.99,
                 ter_energy_pp <= 0 ~ 0.01,
                 ter_energy_pp > 0 & ter_energy_pp < 1 ~ ter_energy_pp)) %>%
-        mutate(ter_energy_sc = case_when(
-                ter_energy_sc >= 1 ~ 0.99,
-                ter_energy_sc <= 0 ~ 0.01,
-                ter_energy_sc > 0 & ter_energy_sc < 1 ~ ter_energy_sc)) %>%
         rename(sitename = sitename.x, sitecode = sitecode.x, species = species.x) %>%
         select(-sitecode.y, -species.y, -sitename.y) %>%
         filter(!is.na(role))
@@ -46,25 +42,23 @@ summary(mod_prop_ter)
 
 # model for trophic position
 hist(si$tp_2_pp)
-mod_tp <- lm(tp_2_pp ~ PC1 + PC2 + forkmm, data = si)
+mod_tp <- lm(tp_2_pp ~ log_ag_250 + log_p_ag + forkmm, data = si)
+summary(mod_tp)
+mod_tp <- update(mod_tp, .~. -forkmm)
+summary(mod_tp)
+mod_tp <- update(mod_tp, .~. -log_p_ag)
 summary(mod_tp)
 
+
 # plots
-
 # terrestrial energy
-avPlots(mod_prop_ter,"forkmm", xlab="Partial Forklength (mm)", ylab="logit proportion terrestrial energy", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.2, 0.1))
+avPlots(mod_prop_ter,"forkmm", xlab="partial forklength (mm)", ylab="logit proportion terrestrial energy", 
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.18, 0.18))
 
-avPlots(mod_prop_ter,"log_ag_250", xlab="log local percent agriculture (250 m radial buffer)", ylab="logit proportion terrestrial energy", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.25, 0.15))
+avPlots(mod_prop_ter,"log_ag_250", xlab="log10 partial local % agriculture (250 m buffer)", ylab="logit proportion terrestrial energy", 
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-0.18, 0.18))
 
 
 # trophic position
-avPlots(mod_tp,"forkmm", xlab="Partial Forklength (mm)", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "grey", bty ="l")
-
-avPlots(mod_tp,"PC1", xlab="Partial PC1", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-2.5, 2))
-
-avPlots(mod_tp,"PC2", xlab="Partial PC2", ylab="trophic position", 
-        grid = F, id = F, pch = 19, col.lines = "black", bty ="l",  ylim = c(-2.5, 2))
+avPlots(mod_tp,"log_ag_250",  ylab="trophic position", xlab="log10 partial local % agriculture (250 m buffer)",
+        grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-5.5, 2))

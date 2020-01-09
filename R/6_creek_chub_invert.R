@@ -22,11 +22,23 @@ abun <- right_join(cc_count, aqinv)
 abun <- right_join(abun, pcascores)
 abun <- right_join(abun, pcadata)
 
+
+abun %>% filter(totalcount < 100) %>%
+
+plot(((abun$edibles+1)/abun$totalcount) ~ abun$log_ag_250)
+
+plot(log10(abun$cc_n+1) ~ abun$log_ag_250)
+
+summary(lm(log10(abun$cc_n+1) ~ abun$log_ag_250))
+
 # calculate ratio of cc to edible inverts
-abun$ratio_cc_edible <- abun$cc_n/abun$prop_edible
+abun$ratio_cc_edible <- abun$cc_n/abun$edibles
+
+plot(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250)
+summary(lm(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250))
 
 # make some plots
-mod_ag <- lm(log10(ratio_cc_edible) ~ log_ag_250, data = abun)
+mod_ag <- lm(ratio_cc_edible ~ log_ag_250, data = abun)
 summary(mod_ag)
 
 plot(log10(ratio_cc_edible) ~ log_ag_250, data = abun, pch = 19)

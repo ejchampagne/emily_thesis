@@ -20,7 +20,7 @@ buf %>% group_by(buffer) %>%
   summarise(p_ag = mean(agricultural)) 
 
 # subset out the xx m radial buffer data 
-buf_250 <- buf %>% filter(buffer == "bdist_200") %>%
+buf_250 <- buf %>% filter(buffer == "bdist_250") %>%
   select(sitecode, agricultural) %>%
   rename(p_ag_250 = agricultural)
 hist(buf_250$p_ag_250)
@@ -57,7 +57,7 @@ keep_pca <- c("AC", "AT", "BG", "BS", "BW", "DE", "EP2", "EP3", "EP4", "FP", "HC
 envdata = envdata %>% filter(sitecode %in% keep_pca)
 
 # create a dataframe with data for pca
-pcadata <- envdata %>% select(log_p_ag, log_buf_width, log_ag_250, log_p, log_n, log_sin, log_order)
+pcadata <- envdata %>% select(log_p_ag, log_buf_width, log_ag_250, log_p, log_n, log_sin, log_order, log_D, log_turbidity)
 rownames(pcadata) <- envdata$sitecode  
 
 # run pca

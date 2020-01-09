@@ -1,0 +1,82 @@
+sci_name,tsn,order,family,genus,LongevityWild,Vulnerability,CommonLength,BodyShapeI,Herbivory2,FoodTroph
+Alosa_pseudoharengus,161706,Clupeiformes,Clupeidae,Alosa,9,29.18,30,fusiform / normal,mainly animals (troph. 2.8 and up),3.29
+Dorosoma_cepedianum,161737,Clupeiformes,Clupeidae,Dorosoma,10,30.28,35,fusiform / normal,mainly plants/detritus (troph. 2-2.19),2.4
+Fundulus_diaphanus,165646,Cyprinodontiformes,Fundulidae,Fundulus,NA,17.89,6.25,fusiform / normal,mainly animals (troph. 2.8 and up),3.18
+Ameiurus_melas,164039,Siluriformes,Ictaluridae,Ameiurus,10,49.6,26.6,fusiform / normal,mainly animals (troph. 2.8 and up),3.49
+Pomoxis_nigromaculatus,168167,Perciformes,Centrarchidae,Pomoxis,15,52.67,27.5,short and / or deep,mainly animals (troph. 2.8 and up),3.81
+Notropis_heterodon,163445,Cypriniformes,Cyprinidae,Notropis,3,13.79,5.6,elongated,mainly animals (troph. 2.8 and up),3.33
+Rhinichthys_atratulus,163382,Cypriniformes,Cyprinidae,Rhinichthys,3,23.16,5.7,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),3.05
+Notropis_heterolepis,163446,Cypriniformes,Cyprinidae,Notropis,1,19.33,7.35,elongated,NA,2.8
+Percina_maculata,168488,Perciformes,Percidae,Percina,4,22.69,5.85,elongated,mainly animals (troph. 2.8 and up),3.95
+Fundulus_notatus,165663,Cyprinodontiformes,Fundulidae,Fundulus,NA,11.53,5.8,NA,mainly animals (troph. 2.8 and up),3.08
+Lepomis_macrochirus,168141,Perciformes,Centrarchidae,Lepomis,10,33.46,19.05,short and / or deep,mainly animals (troph. 2.8 and up),3.53
+Pimephales_notatus,163516,Cypriniformes,Cyprinidae,Pimephales,5,21.46,6.5,elongated,plants/detritus+animals (troph. 2.2-2.79),2.41
+Amia_calva,161104,Amiiformes,Amiidae,Amia,30,50.17,53.35,elongated,mainly animals (troph. 2.8 and up),3.81
+Hybognathus_hankinsoni,163363,Cypriniformes,Cyprinidae,Hybognathus,NA,27.72,7.6,NA,plants/detritus+animals (troph. 2.2-2.79),3.09
+Labidesthes_sicculus,166016,Atheriniformes,Atherinopsidae,Labidesthes,2,10,8.35,elongated,mainly animals (troph. 2.8 and up),3.35
+Culaea_inconstans,166399,Gasterosteiformes,Gasterosteidae,Culaea,2,14.86,5,fusiform / normal,mainly animals (troph. 2.8 and up),3.29
+Ameiurus_nebulosus,164043,Siluriformes,Ictaluridae,Ameiurus,9,29.5,25,fusiform / normal,mainly animals (troph. 2.8 and up),3.279999971
+Umbra_limi,162153,Esociformes,Umbridae,Umbra,4,12.52,8.15,NA,mainly animals (troph. 2.8 and up),3.53
+Campostoma_anomalum,163508,Cypriniformes,Cyprinidae,Campostoma,NA,31.06,18.7,fusiform / normal,mainly plants/detritus (troph. 2-2.19),2
+Ictalurus_punctatus,163998,Siluriformes,Ictaluridae,Ictalurus,24,71.88,57,fusiform / normal,mainly animals (troph. 2.8 and up),3.400000095
+Percina_copelandi,168480,Perciformes,Percidae,Percina,NA,14.62,5,elongated,mainly animals (troph. 2.8 and up),3.34
+Oncorhynchus_tshawytscha,161980,Salmoniformes,Salmonidae,Oncorhynchus,9,68.24,70,fusiform / normal,mainly animals (troph. 2.8 and up),3.83
+Cyprinus_carpio,163344,Cypriniformes,Cyprinidae,Cyprinus,38,60.89,31,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),3.05
+Luxilus_cornutus,163836,Cypriniformes,Cyprinidae,Luxilus,6,16.38,8.3,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.87
+Semotilus_atromaculatus,163376,Cypriniformes,Cyprinidae,Semotilus,8,38.24,19.1,elongated,mainly animals (troph. 2.8 and up),3.21
+Ammocrypta_pellucida,168517,Perciformes,Percidae,Ammocrypta,NA,16.89,4.95,elongated,mainly animals (troph. 2.8 and up),3.57
+Notropis_atherinoides,163412,Cypriniformes,Cyprinidae,Notropis,4,15.41,8.55,elongated,plants/detritus+animals (troph. 2.2-2.79),2.8
+Pimephales_promelas,163517,Cypriniformes,Cyprinidae,Pimephales,5,16.57,7.25,fusiform / normal,mainly plants/detritus (troph. 2-2.19),3.13
+Aplodinotus_grunniens,169364,Perciformes,Sciaenidae,Aplodinotus,13,37.12,45,fusiform / normal,mainly animals (troph. 2.8 and up),3.36
+Notropis_buchanani,163414,Cypriniformes,Cyprinidae,Notropis,2,12.47,4.6,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.9
+Moxostoma_erythrurum,163941,Cypriniformes,Catostomidae,Moxostoma,11,65.39,28.75,fusiform / normal,mainly animals (troph. 2.8 and up),3.04
+Notemigonus_crysoleucas,163368,Cypriniformes,Cyprinidae,Notemigonus,9,31.25,14.35,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.62
+Carassius_auratus,163350,Cypriniformes,Cyprinidae,Carassius,41,24.37,10,fusiform / normal,mainly plants/detritus (troph. 2-2.19),2.86
+Esox_americanus_vermiculatus,162142,Esociformes,Esocidae,Esox,NA,40.66,23.5,elongated,mainly animals (troph. 2.8 and up),3.67
+Moxostoma_valenciennesi,163947,Cypriniformes,Catostomidae,Moxostoma,NA,68,52.5,elongated,mainly animals (troph. 2.8 and up),3.32
+Lepomis_cyanellus,168132,Perciformes,Centrarchidae,Lepomis,9,31.43,20,short and / or deep,mainly animals (troph. 2.8 and up),3.49
+Etheostoma_blennioides,168375,Perciformes,Percidae,Etheostoma,5,28.25,5.5,elongated,mainly animals (troph. 2.8 and up),3.36
+Nocomis_biguttatus,163395,Cypriniformes,Cyprinidae,Nocomis,4,36.69,11,NA,mainly animals (troph. 2.8 and up),3.03
+Etheostoma_nigrum,168369,Perciformes,Percidae,Etheostoma,4,14.36,3.9,elongated,mainly animals (troph. 2.8 and up),3.19
+Micropterus_salmoides,168160,Perciformes,Centrarchidae,Micropterus,23,45.43,40,fusiform / normal,mainly animals (troph. 2.8 and up),4.42
+Percina_caprodes,168472,Perciformes,Percidae,Percina,3,29.01,12.5,elongated,mainly animals (troph. 2.8 and up),3.43
+Lepomis_megalotis,168153,Perciformes,Centrarchidae,Lepomis,6,49.96,11.5,short and / or deep,mainly animals (troph. 2.8 and up),3.64
+Rhinichthys_cataractae,163384,Cypriniformes,Cyprinidae,Rhinichthys,5,35.82,9.45,elongated,mainly animals (troph. 2.8 and up),3.2
+Lepisosteus_osseus,161094,Lepisosteiformes,Lepisosteidae,Lepisosteus,36,79.69,17.5,elongated,mainly animals (troph. 2.8 and up),4.19
+Notropis_volucellus,163421,Cypriniformes,Cyprinidae,Notropis,2,14.62,5.7,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.43
+Cottus_bairdii,167237,Scorpaeniformes,Cottidae,Cottus,2,32.76,8.4,elongated,mainly animals (troph. 2.8 and up),3.29
+Esox_masquinongy,162144,Esociformes,Esocidae,Esox,30,64.9,95,elongated,mainly animals (troph. 2.8 and up),4.2
+Hypentelium_nigricans,163949,Cypriniformes,Catostomidae,Hypentelium,NA,61.77,29.75,Elongated,mainly animals (troph. 2.8 and up),3.3
+Noturus_stigmosus,164025,Siluriformes,Ictaluridae,Noturus,NA,23.16,6.85,NA,mainly animals (troph. 2.8 and up),3.71
+Esox_lucius,162139,Esociformes,Esocidae,Esox,30,69.23,40,elongated,mainly animals (troph. 2.8 and up),4.400000095
+_,913993,Cypriniformes,Cyprinidae,Chrosomus,3,12.18,4.75,NA,plants/detritus+animals (troph. 2.2-2.79),3.05
+Notropis_anogenus,163424,Cypriniformes,Cyprinidae,Notropis,3,11.53,4.7,elongated,plants/detritus+animals (troph. 2.2-2.79),2.71
+Lepomis_gibbosus,168144,Perciformes,Centrarchidae,Lepomis,12,39.02,9.9,short and / or deep,mainly animals (troph. 2.8 and up),3.27
+Carpiodes_cyprinus,163917,Cypriniformes,Catostomidae,Carpiodes,11,45.62,52.05,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.59
+Etheostoma_caeruleum,168378,Perciformes,Percidae,Etheostoma,3,16.67,5.25,fusiform / normal,mainly animals (troph. 2.8 and up),3.3
+Osmerus_mordax,162041,Osmeriformes,Osmeridae,Osmerus,7,38.09,19.3,elongated,mainly animals (troph. 2.8 and up),3.44
+Oncorhynchus_mykiss,161989,Salmoniformes,Salmonidae,Oncorhynchus,11,36.29,60,fusiform / normal,mainly animals (troph. 2.8 and up),3.53
+Lythrurus_umbratilis,163861,Cypriniformes,Cyprinidae,Lythrurus,3,15.14,5.35,NA,mainly animals (troph. 2.8 and up),3.03
+Nocomis_micropogon,163392,Cypriniformes,Cyprinidae,Nocomis,5,39.59,13.5,fusiform / normal,mainly animals (troph. 2.8 and up),3.17
+Ambloplites_rupestris,168097,Perciformes,Centrarchidae,Ambloplites,18,32.78,15.4,short and / or deep,mainly animals (troph. 2.8 and up),3.33
+Notropis_rubellus,163409,Cypriniformes,Cyprinidae,Notropis,3,16.55,6.65,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),3.08
+Neogobius_melanostomus,172072,Perciformes,Gobiidae,Neogobius,4,31.45,11.9,fusiform / normal,mainly animals (troph. 2.8 and up),3.3
+Moxostoma_macrolepidotum,163928,Cypriniformes,Catostomidae,Moxostoma,9,56.07,40.75,fusiform / normal,mainly animals (troph. 2.8 and up),3.13
+Moxostoma_anisurum,163933,Cypriniformes,Catostomidae,Moxostoma,10,65.66,32.5,fusiform / normal,NA,3.01
+Notropis_photogenis,163461,Cypriniformes,Cyprinidae,Notropis,NA,24.31,8.9,elongated,mainly animals (troph. 2.8 and up),3.27
+Micropterus_dolomieu,550562,Perciformes,Centrarchidae,Micropterus,26,49.86,8,fusiform / normal,mainly animals (troph. 2.8 and up),4.09
+Cyprinella_spiloptera,163803,Cypriniformes,Cyprinidae,Cyprinella,5,28.07,7.65,fusiform / normal,mainly animals (troph. 2.8 and up),3.24
+Notropis_hudsonius,163404,Cypriniformes,Cyprinidae,Notropis,5,25.07,9,elongated,plants/detritus+animals (troph. 2.2-2.79),2.74
+Minytrema_melanops,163959,Cypriniformes,Catostomidae,Minytrema,6,56.94,32.25,fusiform / normal,mainly animals (troph. 2.8 and up),3.43
+Noturus_flavus,164013,Siluriformes,Ictaluridae,Noturus,7,37.01,13.2,elongated,mainly animals (troph. 2.8 and up),3.24
+Luxilus_chrysocephalus,163832,Cypriniformes,Cyprinidae,Luxilus,4,24.87,8.25,fusiform / normal,mainly animals (troph. 2.8 and up),3.27
+Noturus_gyrinus,164003,Siluriformes,Ictaluridae,Noturus,3,23.16,4.75,fusiform / normal,mainly animals (troph. 2.8 and up),3.34
+Percopsis_omiscomaycus,164409,Percopsiformes,Percopsidae,Percopsis,4,24.72,8.75,elongated,mainly animals (troph. 2.8 and up),3.38
+Sander_vitreus,650173,Perciformes,Percidae,Sander,29,40.35,54,elongated,mainly animals (troph. 2.8 and up),4.16
+Proterorhinus_semilunaris,172080,Perciformes,Gobiidae,Proterorhinus,NA,15.47,6.1,fusiform / normal,mainly animals (troph. 2.8 and up),3.35
+Morone_chrysops,167682,Perciformes,Moronidae,Morone,9,42.22,31.75,fusiform / normal,mainly animals (troph. 2.8 and up),4.04
+Pomoxis_annularis,168166,Perciformes,Centrarchidae,Pomoxis,10,28.72,25,short and / or deep,mainly animals (troph. 2.8 and up),3.81
+Morone_americana,167678,Perciformes,Moronidae,Morone,16,67.91,13.5,Elongated,mainly animals (troph. 2.8 and up),3.14
+Catostomus_commersonii,553273,Cypriniformes,Catostomidae,Catostomus,12,57.34,40.65,fusiform / normal,plants/detritus+animals (troph. 2.2-2.79),2.46
+Ameiurus_natalis,164041,Siluriformes,Ictaluridae,Ameiurus,4,45.89,22.5,elongated,mainly animals (troph. 2.8 and up),3.33
+Perca_flavescens,168469,Perciformes,Percidae,Perca,11,30.89,19.1,fusiform / normal,mainly animals (troph. 2.8 and up),3.36
