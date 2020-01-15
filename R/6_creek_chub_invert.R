@@ -22,43 +22,19 @@ abun <- right_join(cc_count, aqinv)
 abun <- right_join(abun, pcascores)
 abun <- right_join(abun, pcadata)
 
+si <- right_join(si, cc_count)
+si <- right_join(si, aqinv, by = "sitecode")
 
-abun %>% filter(totalcount < 100) %>%
+mod <- lm(log10(abun$cc_n/abun$edibles) ~ abun$log_ag_250)
+summary(mod)
 
-plot(((abun$edibles+1)/abun$totalcount) ~ abun$log_ag_250)
+plot(log10(abun$cc_n/abun$edibles) ~ abun$log_ag_250, ylab="log10 creek chub:edible invertebrate abundance", xlab = "log10 250 m radial buffer % ag", pch = 19)
+abline(mod)
 
-plot(log10(abun$cc_n+1) ~ abun$log_ag_250)
+abun1 <- abun %>% filter(!sitename == "Hawkcliff")
 
-summary(lm(log10(abun$cc_n+1) ~ abun$log_ag_250))
+mod <- lm(log10(abun1$cc_n/abun1$edibles) ~ abun1$log_ag_250)
+summary(mod)
 
-# calculate ratio of cc to edible inverts
-abun$ratio_cc_edible <- abun$cc_n/abun$edibles
-
-plot(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250)
-summary(lm(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250))
-
-# make some plots
-mod_ag <- lm(ratio_cc_edible ~ log_ag_250, data = abun)
-summary(mod_ag)
-
-plot(log10(ratio_cc_edible) ~ log_ag_250, data = abun, pch = 19)
-abline(mod_ag)
-
-mod_buf <- lm(log10(ratio_cc_edible) ~ log_buf_width, data = abun)
-summary(mod_buf)
-
-plot(log10(ratio_cc_edible) ~ log_buf_width, data = abun, pch = 19)
-abline(mod_buf)
-
-cc %>% filter(species == "creek chub") %>% 
-  group_by(sitecode) %>%
-  summarise(count = n()) %>%
-  right_join(pcadata) %>%
-  ggplot(aes(x = log_ag_250, y = log10(count))) + geom_point() + geom_smooth(se = F, method = "lm")
-
-cc %>% filter(species == "creek chub") %>% 
-  group_by(sitecode) %>%
-  summarise(mean_w = mean(weight, na.rm = T)) %>%
-  right_join(pcadata) %>%
-  ggplot(aes(x = log_ag_250, y = mean_w)) + geom_point() 
-
+plot(log10(abun1$cc_n/abun1$edibles) ~ abun1$log_ag_250)
+abline(mod)
