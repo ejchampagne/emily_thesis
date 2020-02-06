@@ -110,95 +110,95 @@ DE-S18-DET-3,DE-S18-DET-3,Dedrick's Creek,DE,detritus,det,-108.08,27348,4
 DE-S18-GOL-1,DE-S18-GOL-1,Dedrick's Creek,DE,goldenrod,terpp,-143.13,21131,5.7
 DE-S18-GOL-2,DE-S18-GOL-2,Dedrick's Creek,DE,goldenrod,terpp,-144.1,23295,5.7
 DE-S18-GOL-3,DE-S18-GOL-3,Dedrick's Creek,DE,goldenrod,terpp,-146.56,22542,6
-EP1-S18-163-4,EP1-S18-163-4,Perl 1,EP1,white sucker,detritivore,-119.27,16270,6.6
-EP1-S18-165-3,EP1-S18-165-3,Perl 1,EP1,northern hog sucker,herbivore,-115.43,17341,6.8
-EP1-S18-212-13,EP1-S18-212-13,Perl 1,EP1,creek chub,cc,-96.42,16374,6.8
-EP1-S18-212-14,EP1-S18-212-14,Perl 1,EP1,creek chub,cc,-90.69,16366,6.6
-EP1-S18-212-19,EP1-S18-212-19,Perl 1,EP1,creek chub,cc,-96.73,13556,6.7
-EP1-S18-212-20,EP1-S18-212-20,Perl 1,EP1,creek chub,cc,-96.97,16180,6.7
-EP1-S18-212-22,EP1-S18-212-22,Perl 1,EP1,creek chub,cc,-95.65,17164,7
-EP1-S18-212-25,EP1-S18-212-25,Perl 1,EP1,creek chub,cc,-103.05,14127,6.7
-EP1-S18-212-27,EP1-S18-212-27,Perl 1,EP1,creek chub,cc,-91.77,14426,6.5
-EP1-S18-212-29,EP1-S18-212-29,Perl 1,EP1,creek chub,cc,-104.89,15496,7
-EP1-S18-212-31,EP1-S18-212-31,Perl 1,EP1,creek chub,cc,-98.12,17286,6.7
-EP1-S18-212-32,EP1-S18-212-32,Perl 1,EP1,creek chub,cc,-106.34,15580,6.5
-EP1-S18-341-11,EP1-S18-341-11,Perl 1,EP1,johnny darter,invertivore,-108.73,16122,6.7
-EP1-S18-ALG-1,EP1-S18-ALG-1,Perl 1,EP1,algae,algae,-107,9546,2.4
-EP1-S18-ALG-2,EP1-S18-ALG-2,Perl 1,EP1,algae,algae,-107.4,8939,2.2
-EP1-S18-ALG-3,EP1-S18-ALG-3,Perl 1,EP1,algae,algae,-106.2,9937,2.2
-EP1-S18-CADDISFLY-1,EP1-S18-CADDISFLY-1,Perl 1,EP1,caddisfly,aqbase,-177.39,24210,7.2
-EP1-S18-CADDISFLY-2,EP1-S18-CADDISFLY-2,Perl 1,EP1,caddisfly,aqbase,-176.37,23608,7.1
-EP1-S18-DET-1,EP1-S18-DET-1,Perl 1,EP1,detritus,det,-99.99,26292,5.1
-EP1-S18-DET-2,EP1-S18-DET-2,Perl 1,EP1,detritus,det,-97.66,27820,5.2
-EP1-S18-DET-3,EP1-S18-DET-3,Perl 1,EP1,detritus,det,-100.34,21825,4.9
-EP1-S18-GOL-1,EP1-S18-GOL-1,Perl 1,EP1,goldenrod,terpp,-108.26,16273,6
-EP1-S18-GOL-2,EP1-S18-GOL-2,Perl 1,EP1,goldenrod,terpp,-99.74,16286,6
-EP1-S18-GOL-3,EP1-S18-GOL-3,Perl 1,EP1,goldenrod,terpp,-107.22,15395,5.9
-EP1-S18-MAYFLY,EP1-S18-MAYFLY,Perl 1,EP1,mayfly,aqbase,-111.11,14826,5.6
-EP1-S18-snail-1,EP1-S18-SNAIL-1,Perl 1,EP1,european garden snail,terbase,-84.85,6585,6.6
-EP1-S18-snail-2,EP1-S18-SNAIL-2,Perl 1,EP1,european garden snail,terbase,-80.44,5193,6.1
-EP1-S18-snail-3,EP1-S18-SNAIL-3,Perl 1,EP1,european garden snail,terbase,-83.86,5714,6.5
-EP2-S18-163-10,EP2-S18-163-10,Perl 2,EP2,white sucker,detritivore,-127.99,15700,6.7
-EP2-S18-212-10,EP2-S18-212-10,Perl 2,EP2,creek chub,cc,-92.9,15925,6.7
-EP2-S18-212-12,EP2-S18-212-12,Perl 2,EP2,creek chub,cc,-112.56,15025,6.9
-EP2-S18-212-13,EP2-S18-212-13,Perl 2,EP2,creek chub,cc,-99.21,15072,6.7
-EP2-S18-212-15,EP2-S18-212-15,Perl 2,EP2,creek chub,cc,-98.9,16983,6.6
-EP2-S18-212-16,EP2-S18-212-16,Perl 2,EP2,creek chub,cc,-106.74,14878,6.8
-EP2-S18-212-2,EP2-S18-212-2,Perl 2,EP2,creek chub,cc,-109.6,14973,6.6
-EP2-S18-212-3,EP2-S18-212-3,Perl 2,EP2,creek chub,cc,-108.45,15553,6.7
-EP2-S18-212-4,EP2-S18-212-4,Perl 2,EP2,creek chub,cc,-109.54,15233,6.8
-EP2-S18-212-6,EP2-S18-212-6,Perl 2,EP2,creek chub,cc,-94.63,15468,6.6
-EP2-S18-212-7,EP2-S18-212-7,Perl 2,EP2,creek chub,cc,-105.8,14659,6.6
-EP2-S18-281-1,EP2-S18-281-1,Perl 2,EP2,brook stickleback,planktivore,-127.54,15576,7
-EP2-S18-630-3,EP2-S18-630-3,Perl 2,EP2,blacknose dace,invertivore,-125.27,14734,6.9
-EP2-S18-ALGAE-1,EP2-S18-ALGAE-1,Perl 2,EP2,algae,algae,-113.22,6106,1.9
-EP2-S18-ALGAE-2,EP2-S18-ALGAE-2,Perl 2,EP2,algae,algae,-115.54,8156,2.3
-EP2-S18-ALGAE-3,EP2-S18-ALGAE-3,Perl 2,EP2,algae,algae,-111.64,7821,2
-EP2-S18-DET-1,EP2-S18-DET-1,Perl 2,EP2,detritus,terbase,-91.71,23871,4.5
-EP2-S18-DET-2,EP2-S18-DET-2,Perl 2,EP2,detritus,terbase,-106.25,20682,4.5
-EP2-S18-DET-3,EP2-S18-DET-3,Perl 2,EP2,detritus,terbase,-107.28,19671,4.1
-EP2-S18-GOL-1,EP2-S18-GOL-1,Perl 2,EP2,goldenrod,terpp,-127.64,17155,5.9
-EP2-S18-GOL-2,EP2-S18-GOL-2,Perl 2,EP2,goldenrod,terpp,-128.72,14143,5.9
-EP2-S18-GOL-3,EP2-S18-GOL-3,Perl 2,EP2,goldenrod,terpp,-131.3,17049,6
-EP3-S18-212-1,EP3-S18-212-1,Perl 3,EP3,creek chub,cc,-96.88,16886,6.7
-EP3-S18-212-10,EP3-S18-212-10,Perl 3,EP3,creek chub,cc,-106,15261,6.7
-EP3-S18-212-12,EP3-S18-212-12,Perl 3,EP3,creek chub,cc,-107.28,13504,6.4
-EP3-S18-212-16,EP3-S18-212-16,Perl 3,EP3,creek chub,cc,-103.17,16000,6.7
-EP3-S18-212-2,EP3-S18-212-2,Perl 3,EP3,creek chub,cc,-101.63,15097,7
-EP3-S18-212-26,EP3-S18-212-26,Perl 3,EP3,creek chub,cc,-111.3,11682,5.8
-EP3-S18-212-3,EP3-S18-212-3,Perl 3,EP3,creek chub,cc,-107.71,14157,6.5
-EP3-S18-212-4,EP3-S18-212-4,Perl 3,EP3,creek chub,cc,-104.04,16119,6.5
-EP3-S18-212-6,EP3-S18-212-6,Perl 3,EP3,creek chub,cc,-115.06,13087,6.4
-EP3-S18-212-7,EP3-S18-212-7,Perl 3,EP3,creek chub,cc,-107.42,13378,6.3
-EP3-S18-281-1,EP3-S18-281-1,Perl 3,EP3,brook stickleback,planktivore,-114.35,14704,6.5
-EP3-S18-630-7,EP3-S18-630-7,Perl 3,EP3,blacknose dace,invertivore,-128.96,16728,7
-EP3-S18-ALG-1,EP3-S18-ALG-1,Perl 3,EP3,algae,algae,-142.16,17058,4
-EP3-S18-ALG-2,EP3-S18-ALG-2,Perl 3,EP3,algae,algae,-125.47,834,4.2
-EP3-S18-ALG-3,EP3-S18-ALG-3,Perl 3,EP3,algae,algae,-100.26,12561,2.7
-EP3-S18-DET-1,EP3-S18-DET-1,Perl 3,EP3,detritus,terbase,-103.16,12249,2.6
-EP3-S18-DET-2,EP3-S18-DET-2,Perl 3,EP3,detritus,terbase,-99.56,8333,2.2
-EP3-S18-DET-3,EP3-S18-DET-3,Perl 3,EP3,detritus,terbase,-105.25,16266,6.6
-EP42-18-AL-02,EP42-18-AL-2,Perl 4,EP4,algae,algae,-131.3,,
-EP42-18-AL-03,EP42-18-AL-3,Perl 4,EP4,algae,algae,-126.03,,
-EP42-18-ALGAE-01,EP42-18-AL-1,Perl 4,EP4,algae,algae,-147.78,,
-EP42-18-CC-01,EP42-18-CC-1,Perl 4,EP4,creek chub,cc,-101.15,,
-EP42-18-CC-03,EP42-18-CC-3,Perl 4,EP4,creek chub,cc,-100.83,,
-EP42-18-CC-07,EP42-18-CC-7,Perl 4,EP4,creek chub,cc,-98.38,,
-EP42-18-CC-08,EP42-18-CC-8,Perl 4,EP4,creek chub,cc,-94.6,,
-EP42-18-CC-09,EP42-18-CC-9,Perl 4,EP4,creek chub,cc,-107.18,,
-EP42-18-CC-10,EP42-18-CC-10,Perl 4,EP4,creek chub,cc,-105.43,,
-EP42-18-CC-11,EP42-18-CC-11,Perl 4,EP4,creek chub,cc,-96.11,,
-EP42-18-CC-12,EP42-18-CC-12,Perl 4,EP4,creek chub,cc,-104.19,,
-EP42-18-CC-13,EP42-18-CC-13,Perl 4,EP4,creek chub,cc,-100.72,,
-EP42-18-DET-01,EP42-18-DET-1,Perl 4,EP4,detritus,det,-108.57,,
-EP42-18-DT-02,EP42-18-DT-2,Perl 4,EP4,detritus,det,-107.58,,
-EP42-18-DT-03,EP42-18-DT-3,Perl 4,EP4,detritus,det,-106.92,,
-EP42-18-SC-01,EP42-18-SC-1,Perl 4,EP4,goldenrod,terpp,-161.41,,
-EP42-18-SC-02,EP42-18-SC-2,Perl 4,EP4,goldenrod,terpp,-157.76,,
-EP42-18-SC-03,EP42-18-SC-3,Perl 4,EP4,goldenrod,terpp,-158.48,,
-EP42-18-SNAILS-01,EP42-18-SNAILS-1,Perl 4,EP4,european garden snail,terbase,-93.05,,
-EP42-18-SNAILS-02,EP42-18-SNAILS-2,Perl 4,EP4,european garden snail,terbase,89.98,,
-EP42-18-SNAILS-03,EP42-18-SNAILS-3,Perl 4,EP4,european garden snail,terbase,-83.7,,
+EP1-S18-163-4,EP1-S18-163-4,Perl 1,P1,white sucker,detritivore,-119.27,16270,6.6
+EP1-S18-165-3,EP1-S18-165-3,Perl 1,P1,northern hog sucker,herbivore,-115.43,17341,6.8
+EP1-S18-212-13,EP1-S18-212-13,Perl 1,P1,creek chub,cc,-96.42,16374,6.8
+EP1-S18-212-14,EP1-S18-212-14,Perl 1,P1,creek chub,cc,-90.69,16366,6.6
+EP1-S18-212-19,EP1-S18-212-19,Perl 1,P1,creek chub,cc,-96.73,13556,6.7
+EP1-S18-212-20,EP1-S18-212-20,Perl 1,P1,creek chub,cc,-96.97,16180,6.7
+EP1-S18-212-22,EP1-S18-212-22,Perl 1,P1,creek chub,cc,-95.65,17164,7
+EP1-S18-212-25,EP1-S18-212-25,Perl 1,P1,creek chub,cc,-103.05,14127,6.7
+EP1-S18-212-27,EP1-S18-212-27,Perl 1,P1,creek chub,cc,-91.77,14426,6.5
+EP1-S18-212-29,EP1-S18-212-29,Perl 1,P1,creek chub,cc,-104.89,15496,7
+EP1-S18-212-31,EP1-S18-212-31,Perl 1,P1,creek chub,cc,-98.12,17286,6.7
+EP1-S18-212-32,EP1-S18-212-32,Perl 1,P1,creek chub,cc,-106.34,15580,6.5
+EP1-S18-341-11,EP1-S18-341-11,Perl 1,P1,johnny darter,invertivore,-108.73,16122,6.7
+EP1-S18-ALG-1,EP1-S18-ALG-1,Perl 1,P1,algae,algae,-107,9546,2.4
+EP1-S18-ALG-2,EP1-S18-ALG-2,Perl 1,P1,algae,algae,-107.4,8939,2.2
+EP1-S18-ALG-3,EP1-S18-ALG-3,Perl 1,P1,algae,algae,-106.2,9937,2.2
+EP1-S18-CADDISFLY-1,EP1-S18-CADDISFLY-1,Perl 1,P1,caddisfly,aqbase,-177.39,24210,7.2
+EP1-S18-CADDISFLY-2,EP1-S18-CADDISFLY-2,Perl 1,P1,caddisfly,aqbase,-176.37,23608,7.1
+EP1-S18-DET-1,EP1-S18-DET-1,Perl 1,P1,detritus,det,-99.99,26292,5.1
+EP1-S18-DET-2,EP1-S18-DET-2,Perl 1,P1,detritus,det,-97.66,27820,5.2
+EP1-S18-DET-3,EP1-S18-DET-3,Perl 1,P1,detritus,det,-100.34,21825,4.9
+EP1-S18-GOL-1,EP1-S18-GOL-1,Perl 1,P1,goldenrod,terpp,-108.26,16273,6
+EP1-S18-GOL-2,EP1-S18-GOL-2,Perl 1,P1,goldenrod,terpp,-99.74,16286,6
+EP1-S18-GOL-3,EP1-S18-GOL-3,Perl 1,P1,goldenrod,terpp,-107.22,15395,5.9
+EP1-S18-MAYFLY,EP1-S18-MAYFLY,Perl 1,P1,mayfly,aqbase,-111.11,14826,5.6
+EP1-S18-snail-1,EP1-S18-SNAIL-1,Perl 1,P1,european garden snail,terbase,-84.85,6585,6.6
+EP1-S18-snail-2,EP1-S18-SNAIL-2,Perl 1,P1,european garden snail,terbase,-80.44,5193,6.1
+EP1-S18-snail-3,EP1-S18-SNAIL-3,Perl 1,P1,european garden snail,terbase,-83.86,5714,6.5
+EP2-S18-163-10,EP2-S18-163-10,Perl 2,P2,white sucker,detritivore,-127.99,15700,6.7
+EP2-S18-212-10,EP2-S18-212-10,Perl 2,P2,creek chub,cc,-92.9,15925,6.7
+EP2-S18-212-12,EP2-S18-212-12,Perl 2,P2,creek chub,cc,-112.56,15025,6.9
+EP2-S18-212-13,EP2-S18-212-13,Perl 2,P2,creek chub,cc,-99.21,15072,6.7
+EP2-S18-212-15,EP2-S18-212-15,Perl 2,P2,creek chub,cc,-98.9,16983,6.6
+EP2-S18-212-16,EP2-S18-212-16,Perl 2,P2,creek chub,cc,-106.74,14878,6.8
+EP2-S18-212-2,EP2-S18-212-2,Perl 2,P2,creek chub,cc,-109.6,14973,6.6
+EP2-S18-212-3,EP2-S18-212-3,Perl 2,P2,creek chub,cc,-108.45,15553,6.7
+EP2-S18-212-4,EP2-S18-212-4,Perl 2,P2,creek chub,cc,-109.54,15233,6.8
+EP2-S18-212-6,EP2-S18-212-6,Perl 2,P2,creek chub,cc,-94.63,15468,6.6
+EP2-S18-212-7,EP2-S18-212-7,Perl 2,P2,creek chub,cc,-105.8,14659,6.6
+EP2-S18-281-1,EP2-S18-281-1,Perl 2,P2,brook stickleback,planktivore,-127.54,15576,7
+EP2-S18-630-3,EP2-S18-630-3,Perl 2,P2,blacknose dace,invertivore,-125.27,14734,6.9
+EP2-S18-ALGAE-1,EP2-S18-ALGAE-1,Perl 2,P2,algae,algae,-113.22,6106,1.9
+EP2-S18-ALGAE-2,EP2-S18-ALGAE-2,Perl 2,P2,algae,algae,-115.54,8156,2.3
+EP2-S18-ALGAE-3,EP2-S18-ALGAE-3,Perl 2,P2,algae,algae,-111.64,7821,2
+EP2-S18-DET-1,EP2-S18-DET-1,Perl 2,P2,detritus,terbase,-91.71,23871,4.5
+EP2-S18-DET-2,EP2-S18-DET-2,Perl 2,P2,detritus,terbase,-106.25,20682,4.5
+EP2-S18-DET-3,EP2-S18-DET-3,Perl 2,P2,detritus,terbase,-107.28,19671,4.1
+EP2-S18-GOL-1,EP2-S18-GOL-1,Perl 2,P2,goldenrod,terpp,-127.64,17155,5.9
+EP2-S18-GOL-2,EP2-S18-GOL-2,Perl 2,P2,goldenrod,terpp,-128.72,14143,5.9
+EP2-S18-GOL-3,EP2-S18-GOL-3,Perl 2,P2,goldenrod,terpp,-131.3,17049,6
+EP3-S18-212-1,EP3-S18-212-1,Perl 3,P3,creek chub,cc,-96.88,16886,6.7
+EP3-S18-212-10,EP3-S18-212-10,Perl 3,P3,creek chub,cc,-106,15261,6.7
+EP3-S18-212-12,EP3-S18-212-12,Perl 3,P3,creek chub,cc,-107.28,13504,6.4
+EP3-S18-212-16,EP3-S18-212-16,Perl 3,P3,creek chub,cc,-103.17,16000,6.7
+EP3-S18-212-2,EP3-S18-212-2,Perl 3,P3,creek chub,cc,-101.63,15097,7
+EP3-S18-212-26,EP3-S18-212-26,Perl 3,P3,creek chub,cc,-111.3,11682,5.8
+EP3-S18-212-3,EP3-S18-212-3,Perl 3,P3,creek chub,cc,-107.71,14157,6.5
+EP3-S18-212-4,EP3-S18-212-4,Perl 3,P3,creek chub,cc,-104.04,16119,6.5
+EP3-S18-212-6,EP3-S18-212-6,Perl 3,P3,creek chub,cc,-115.06,13087,6.4
+EP3-S18-212-7,EP3-S18-212-7,Perl 3,P3,creek chub,cc,-107.42,13378,6.3
+EP3-S18-281-1,EP3-S18-281-1,Perl 3,P3,brook stickleback,planktivore,-114.35,14704,6.5
+EP3-S18-630-7,EP3-S18-630-7,Perl 3,P3,blacknose dace,invertivore,-128.96,16728,7
+EP3-S18-ALG-1,EP3-S18-ALG-1,Perl 3,P3,algae,algae,-142.16,17058,4
+EP3-S18-ALG-2,EP3-S18-ALG-2,Perl 3,P3,algae,algae,-125.47,834,4.2
+EP3-S18-ALG-3,EP3-S18-ALG-3,Perl 3,P3,algae,algae,-100.26,12561,2.7
+EP3-S18-DET-1,EP3-S18-DET-1,Perl 3,P3,detritus,terbase,-103.16,12249,2.6
+EP3-S18-DET-2,EP3-S18-DET-2,Perl 3,P3,detritus,terbase,-99.56,8333,2.2
+EP3-S18-DET-3,EP3-S18-DET-3,Perl 3,P3,detritus,terbase,-105.25,16266,6.6
+EP42-18-AL-02,EP42-18-AL-2,Perl 4,P4,algae,algae,-131.3,,
+EP42-18-AL-03,EP42-18-AL-3,Perl 4,P4,algae,algae,-126.03,,
+EP42-18-ALGAE-01,EP42-18-AL-1,Perl 4,P4,algae,algae,-147.78,,
+EP42-18-CC-01,EP42-18-CC-1,Perl 4,P4,creek chub,cc,-101.15,,
+EP42-18-CC-03,EP42-18-CC-3,Perl 4,P4,creek chub,cc,-100.83,,
+EP42-18-CC-07,EP42-18-CC-7,Perl 4,P4,creek chub,cc,-98.38,,
+EP42-18-CC-08,EP42-18-CC-8,Perl 4,P4,creek chub,cc,-94.6,,
+EP42-18-CC-09,EP42-18-CC-9,Perl 4,P4,creek chub,cc,-107.18,,
+EP42-18-CC-10,EP42-18-CC-10,Perl 4,P4,creek chub,cc,-105.43,,
+EP42-18-CC-11,EP42-18-CC-11,Perl 4,P4,creek chub,cc,-96.11,,
+EP42-18-CC-12,EP42-18-CC-12,Perl 4,P4,creek chub,cc,-104.19,,
+EP42-18-CC-13,EP42-18-CC-13,Perl 4,P4,creek chub,cc,-100.72,,
+EP42-18-DET-01,EP42-18-DET-1,Perl 4,P4,detritus,det,-108.57,,
+EP42-18-DT-02,EP42-18-DT-2,Perl 4,P4,detritus,det,-107.58,,
+EP42-18-DT-03,EP42-18-DT-3,Perl 4,P4,detritus,det,-106.92,,
+EP42-18-SC-01,EP42-18-SC-1,Perl 4,P4,goldenrod,terpp,-161.41,,
+EP42-18-SC-02,EP42-18-SC-2,Perl 4,P4,goldenrod,terpp,-157.76,,
+EP42-18-SC-03,EP42-18-SC-3,Perl 4,P4,goldenrod,terpp,-158.48,,
+EP42-18-SNAILS-01,EP42-18-SNAILS-1,Perl 4,P4,european garden snail,terbase,-93.05,,
+EP42-18-SNAILS-02,EP42-18-SNAILS-2,Perl 4,P4,european garden snail,terbase,89.98,,
+EP42-18-SNAILS-03,EP42-18-SNAILS-3,Perl 4,P4,european garden snail,terbase,-83.7,,
 FP-S18-163-1,FP-S18-163-1,Five Points,FP,white sucker,detritivore,-120.71,20912,6.2
 FP-S18-281-2,FP-S18-281-2,Five Points,FP,brook stickleback,planktivore,-102.63,20082,6.2
 FP-S18-281-5,FP-S18-281-5,Five Points,FP,brook stickleback,planktivore,-115.61,20061,6.2
@@ -359,46 +359,46 @@ KC-S18-TER-3-1,KC-S18-TER-3-1,Kettle Creek,KC,european garden snail,terbase,-85.
 KC-S18-TER-3-1,KC-S18-TER-3-2,Kettle Creek,KC,european garden snail,terbase,-85.73,16013,6.4
 KC-S18-TER-4-1,KC-S18-TER-4-1,Kettle Creek,KC,caterpillar,terbase,-100.31,11830,6.4
 KC-S18-TER-4-2,KC-S18-TER-4-2,Kettle Creek,KC,caterpillar,terbase,-100.03,13908,6.5
-LE-S18-331-1,LE-S18-331-1,Lake Erie Farms,LEF,yellow perch,invertivore,-89.43,15802,6.7
-LE-S18-630-4,LE-S18-630-4,Lake Erie Farms,LEF,blacknose dace,invertivore,-113,15485,6.8
-LE-S18-630-6,LE-S18-630-6,Lake Erie Farms,LEF,blacknose dace,invertivore,-115.06,15061,6.6
-LE-S18-630-7,LE-S18-630-7,Lake Erie Farms,LEF,blacknose dace,invertivore,-114.5,14109,6.7
-LE-S18-AQU-1,LE-S18-AQU-1,Lake Erie Farms,LEF,algae,algae,-167.05,3430,3.6
-LE-S18-AQU-2,LE-S18-AQU-2,Lake Erie Farms,LEF,algae,algae,-171.65,3097,3.6
-LE-S18-AQU-3,LE-S18-AQU-3,Lake Erie Farms,LEF,algae,algae,-168.75,3375,3.6
-LE-S18-GOL-1,LE-S18-GOL-1,Lake Erie Farms,LEF,goldenrod,terpp,-148.19,15230,6.2
-LE-S18-GOL-2,LE-S18-GOL-2,Lake Erie Farms,LEF,goldenrod,terpp,-147.82,13580,6.1
-LE-S18-GOL-3,LE-S18-GOL-3,Lake Erie Farms,LEF,goldenrod,terpp,-147.66,15374,6.2
-LE-S18-TER-1,LE-S18-TER-1,Lake Erie Farms,LEF,caterpillar,terbase,-127.04,14031,7
-LE-S18-TER-2,LE-S18-TER-2,Lake Erie Farms,LEF,caterpillar,terbase,-119.42,16332,7
-LE-S18-TER-3,LE-S18-TER-3,Lake Erie Farms,LEF,caterpillar,terbase,-119.72,16660,7
-LEST-S18-212-10-MT,LEST-S18-212-MT10,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-96.56,16800,6.9
-LEST-S18-212-12,LEST-S18-212-12,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-99.18,13664,6.5
-LEST-S18-212-12-MT,LEST-S18-212-MT12,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-92.23,14583,6.7
-LEST-S18-212-15-MT,LEST-S18-212-MT15,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-102.74,15909,6.8
-LEST-S18-212-17,LEST-S18-212-17,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-101.2,12886,6.4
-LEST-S18-212-6-MT,LEST-S18-212-MT6,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-94.77,16013,6.8
-LEST-S18-212-7-MT,LEST-S18-212-MT7,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-94.97,14938,6.8
-LEST-S18-212-8-MT,LEST-S18-212-MT8,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-96.43,14875,6.7
-LEST-S18-212-9-MT,LEST-S18-212-MT9,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-90.66,5676,6.7
-LEST-S18-212-MT-17,LEST-S18-212-MT17,Lake Erie Salmon Trout Club,LEST,creek chub,cc,-88.27,5281,6.6
-LEST-S18-630-16,LEST-S18-630-16,Lake Erie Salmon Trout Club,LEST,blacknose dace,invertivore,-117.57,14290,7
-LEST-S18-ALG-1,LEST-S18-ALG-1,Lake Erie Salmon Trout Club,LEST,algae,algae,-105.06,5289,1.3
-LEST-S18-ALG-2,LEST-S18-ALG-2,Lake Erie Salmon Trout Club,LEST,algae,algae,-104.66,3621,1.3
-LEST-S18-ALG-3,LEST-S18-ALG-3,Lake Erie Salmon Trout Club,LEST,algae,algae,-102.5,3672,1.1
-LEST-S18-CADDIS-1,LEST-S18-CADDIS-1,Lake Erie Salmon Trout Club,LEST,caddisfly,aqbase,-101.68,13513,5
-LEST-S18-CADDIS-2,LEST-S18-CADDIS-2,Lake Erie Salmon Trout Club,LEST,caddisfly,aqbase,-105.19,14056,5
-LEST-S18-CAT-1,LEST-S18-CAT-1,Lake Erie Salmon Trout Club,LEST,caterpillar,terbase,-86.32,14953,6.5
-LEST-S18-CAT-2,LEST-S18-CAT-2,Lake Erie Salmon Trout Club,LEST,caterpillar,terbase,-85.73,15759,6.5
-LEST-S18-DET-1,LEST-S18-DET-1,Lake Erie Salmon Trout Club,LEST,detritus,det,-100.2,10436,2.5
-LEST-S18-DET-2,LEST-S18-DET-2,Lake Erie Salmon Trout Club,LEST,detritus,det,-97.93,12233,3
-LEST-S18-DET-3,LEST-S18-DET-3,Lake Erie Salmon Trout Club,LEST,detritus,det,-95.39,9384,2.3
-LEST-S18-GOL-1,LEST-S18-GOL-1,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-134.43,15639,6.1
-LEST-S18-GOL-2,LEST-S18-GOL-2,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-135.25,15784,6.1
-LEST-S18-GOL-3,LEST-S18-GOL-3,Lake Erie Salmon Trout Club,LEST,goldenrod,terpp,-128.34,15064,6
-LEST-S18-SNAIL-1,LEST-S18-SNAIL-1,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-83.04,19472,6.3
-LEST-S18-SNAIL-2,LEST-S18-SNAIL-2,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-82.2,17133,6.3
-LEST-S18-SNAIL-3,LEST-S18-SNAIL-3,Lake Erie Salmon Trout Club,LEST,european garden snail,terbase,-81.97,17837,6.4
+LE-S18-331-1,LE-S18-331-1,Lake Erie Farms,EF,yellow perch,invertivore,-89.43,15802,6.7
+LE-S18-630-4,LE-S18-630-4,Lake Erie Farms,EF,blacknose dace,invertivore,-113,15485,6.8
+LE-S18-630-6,LE-S18-630-6,Lake Erie Farms,EF,blacknose dace,invertivore,-115.06,15061,6.6
+LE-S18-630-7,LE-S18-630-7,Lake Erie Farms,EF,blacknose dace,invertivore,-114.5,14109,6.7
+LE-S18-AQU-1,LE-S18-AQU-1,Lake Erie Farms,EF,algae,algae,-167.05,3430,3.6
+LE-S18-AQU-2,LE-S18-AQU-2,Lake Erie Farms,EF,algae,algae,-171.65,3097,3.6
+LE-S18-AQU-3,LE-S18-AQU-3,Lake Erie Farms,EF,algae,algae,-168.75,3375,3.6
+LE-S18-GOL-1,LE-S18-GOL-1,Lake Erie Farms,EF,goldenrod,terpp,-148.19,15230,6.2
+LE-S18-GOL-2,LE-S18-GOL-2,Lake Erie Farms,EF,goldenrod,terpp,-147.82,13580,6.1
+LE-S18-GOL-3,LE-S18-GOL-3,Lake Erie Farms,EF,goldenrod,terpp,-147.66,15374,6.2
+LE-S18-TER-1,LE-S18-TER-1,Lake Erie Farms,EF,caterpillar,terbase,-127.04,14031,7
+LE-S18-TER-2,LE-S18-TER-2,Lake Erie Farms,EF,caterpillar,terbase,-119.42,16332,7
+LE-S18-TER-3,LE-S18-TER-3,Lake Erie Farms,EF,caterpillar,terbase,-119.72,16660,7
+LEST-S18-212-10-MT,LEST-S18-212-MT10,Lake Erie Salmon Trout Club,ST,creek chub,cc,-96.56,16800,6.9
+LEST-S18-212-12,LEST-S18-212-12,Lake Erie Salmon Trout Club,ST,creek chub,cc,-99.18,13664,6.5
+LEST-S18-212-12-MT,LEST-S18-212-MT12,Lake Erie Salmon Trout Club,ST,creek chub,cc,-92.23,14583,6.7
+LEST-S18-212-15-MT,LEST-S18-212-MT15,Lake Erie Salmon Trout Club,ST,creek chub,cc,-102.74,15909,6.8
+LEST-S18-212-17,LEST-S18-212-17,Lake Erie Salmon Trout Club,ST,creek chub,cc,-101.2,12886,6.4
+LEST-S18-212-6-MT,LEST-S18-212-MT6,Lake Erie Salmon Trout Club,ST,creek chub,cc,-94.77,16013,6.8
+LEST-S18-212-7-MT,LEST-S18-212-MT7,Lake Erie Salmon Trout Club,ST,creek chub,cc,-94.97,14938,6.8
+LEST-S18-212-8-MT,LEST-S18-212-MT8,Lake Erie Salmon Trout Club,ST,creek chub,cc,-96.43,14875,6.7
+LEST-S18-212-9-MT,LEST-S18-212-MT9,Lake Erie Salmon Trout Club,ST,creek chub,cc,-90.66,5676,6.7
+LEST-S18-212-MT-17,LEST-S18-212-MT17,Lake Erie Salmon Trout Club,ST,creek chub,cc,-88.27,5281,6.6
+LEST-S18-630-16,LEST-S18-630-16,Lake Erie Salmon Trout Club,ST,blacknose dace,invertivore,-117.57,14290,7
+LEST-S18-ALG-1,LEST-S18-ALG-1,Lake Erie Salmon Trout Club,ST,algae,algae,-105.06,5289,1.3
+LEST-S18-ALG-2,LEST-S18-ALG-2,Lake Erie Salmon Trout Club,ST,algae,algae,-104.66,3621,1.3
+LEST-S18-ALG-3,LEST-S18-ALG-3,Lake Erie Salmon Trout Club,ST,algae,algae,-102.5,3672,1.1
+LEST-S18-CADDIS-1,LEST-S18-CADDIS-1,Lake Erie Salmon Trout Club,ST,caddisfly,aqbase,-101.68,13513,5
+LEST-S18-CADDIS-2,LEST-S18-CADDIS-2,Lake Erie Salmon Trout Club,ST,caddisfly,aqbase,-105.19,14056,5
+LEST-S18-CAT-1,LEST-S18-CAT-1,Lake Erie Salmon Trout Club,ST,caterpillar,terbase,-86.32,14953,6.5
+LEST-S18-CAT-2,LEST-S18-CAT-2,Lake Erie Salmon Trout Club,ST,caterpillar,terbase,-85.73,15759,6.5
+LEST-S18-DET-1,LEST-S18-DET-1,Lake Erie Salmon Trout Club,ST,detritus,det,-100.2,10436,2.5
+LEST-S18-DET-2,LEST-S18-DET-2,Lake Erie Salmon Trout Club,ST,detritus,det,-97.93,12233,3
+LEST-S18-DET-3,LEST-S18-DET-3,Lake Erie Salmon Trout Club,ST,detritus,det,-95.39,9384,2.3
+LEST-S18-GOL-1,LEST-S18-GOL-1,Lake Erie Salmon Trout Club,ST,goldenrod,terpp,-134.43,15639,6.1
+LEST-S18-GOL-2,LEST-S18-GOL-2,Lake Erie Salmon Trout Club,ST,goldenrod,terpp,-135.25,15784,6.1
+LEST-S18-GOL-3,LEST-S18-GOL-3,Lake Erie Salmon Trout Club,ST,goldenrod,terpp,-128.34,15064,6
+LEST-S18-SNAIL-1,LEST-S18-SNAIL-1,Lake Erie Salmon Trout Club,ST,european garden snail,terbase,-83.04,19472,6.3
+LEST-S18-SNAIL-2,LEST-S18-SNAIL-2,Lake Erie Salmon Trout Club,ST,european garden snail,terbase,-82.2,17133,6.3
+LEST-S18-SNAIL-3,LEST-S18-SNAIL-3,Lake Erie Salmon Trout Club,ST,european garden snail,terbase,-81.97,17837,6.4
 MT-S18-281-10,MT-S18-281-10,McTavish Tract,MT,brook Stickleback,planktivore,-117.34,13866,6.5
 MT-S18-281-12,MT-S18-281-12,McTavish Tract,MT,brook Stickleback,planktivore,-127.54,15150,6.6
 MT-S18-281-2,MT-S18-281-2,McTavish Tract,MT,brook Stickleback,planktivore,-117.22,14591,6
@@ -442,30 +442,30 @@ PF-S18-MAYFLY-2,PF-S18-MAYFLY-2,Parrish Farm,PF,mayfly,aqbase,-143.74,18400,6.4
 PF-S18-SNAIL-1,PF-S18-SNAIL-1,Parrish Farm,PF,european garden snail,terbase,-80.26,19085,6.5
 PF-S18-SNAIL-2,PF-S18-SNAIL-2,Parrish Farm,PF,european garden snail,terbase,-81.27,18688,6.5
 PF-S18-SNAIL-3,PF-S18-SNAIL-3,Parrish Farm,PF,european garden snail,terbase,-78.67,17722,6.4
-PVTF-S18-163-1,PVTF-S18-163-1,Pleasant Valley Trout Farm,PVTF,white sucker,detritivore,-126.66,5530,6.6
-PVTF-S18-212-12,PVTF-S18-212-12,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-115.56,6533,6.7
-PVTF-S18-212-14,PVTF-S18-212-14,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-113.26,5794,6.5
-PVTF-S18-212-15,PVTF-S18-212-15,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-123.33,6402,6.5
-PVTF-S18-212-16,PVTF-S18-212-16,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-114.41,6732,6.7
-PVTF-S18-212-17,PVTF-S18-212-17,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-126.48,5760,6.8
-PVTF-S18-212-18,PVTF-S18-212-18,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-132.36,5368,6.6
-PVTF-S18-212-19,PVTF-S18-212-19,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-103.53,5453,6.6
-PVTF-S18-212-20,PVTF-S18-212-20,Pleasant Valley Trout Farm,PVTF,creek chub,cc,-128.65,6519,6.7
-PVTF-S18-341-4,PVTF-S18-341-4,Pleasant Valley Trout Farm,PVTF,johnny darter,invertivore,-124.35,5829,7.1
-PVTF-S18-ALG-1,PVTF-S18-ALG-1,Pleasant Valley Trout Farm,PVTF,algae,algae,-124.92,15772,3.4
-PVTF-S18-ALG-2,PVTF-S18-ALG-2,Pleasant Valley Trout Farm,PVTF,algae,algae,-125.75,17532,3.8
-PVTF-S18-ALG-3,PVTF-S18-ALG-3,Pleasant Valley Trout Farm,PVTF,algae,algae,-123.04,16006,4.2
-PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-1,Pleasant Valley Trout Farm,PVTF,caddisfly,aqbase,-136.59,5552,5.8
-PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-2,Pleasant Valley Trout Farm,PVTF,caddisfly,aqbase,-136.59,5552,5.8
-PVTF-S18-CATERPILLAR,PVTF-S18-CATERPILLAR,Pleasant Valley Trout Farm,PVTF,caterpillar,terbase,-116.78,6310,6.9
-PVTF-S18-DET-1,PVTF-S18-DET-1,Pleasant Valley Trout Farm,PVTF,detritus,det,-94.33,3216,2.5
-PVTF-S18-DET-2,PVTF-S18-DET-2,Pleasant Valley Trout Farm,PVTF,detritus,det,-102.3,2952,2.4
-PVTF-S18-DET-3,PVTF-S18-DET-3,Pleasant Valley Trout Farm,PVTF,detritus,det,-104.03,2984,2.5
-PVTF-S18-Gol-1,PVTF-S18-GOL-1,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-162.5,6279,6.4
-PVTF-S18-Gol-2,PVTF-S18-GOL-2,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-155.4,5568,6.6
-PVTF-S18-Gol-3,PVTF-S18-GOL-3,Pleasant Valley Trout Farm,PVTF,goldenrod,terpp,-155.86,5144,6.5
-PVTF-S18-SNAILS-1,PVTF-S18-SNAIL-1,Pleasant Valley Trout Farm,PVTF,european garden snail,terbase,-81.9,6148,6.6
-PVTF-S18-SNAILS-2,PVTF-S18-SNAIL-2,Pleasant Valley Trout Farm,PVTF,european garden snail,terbase,-79.94,6500,7
+PVTF-S18-163-1,PVTF-S18-163-1,Pleasant Valley Trout Farm,PV,white sucker,detritivore,-126.66,5530,6.6
+PVTF-S18-212-12,PVTF-S18-212-12,Pleasant Valley Trout Farm,PV,creek chub,cc,-115.56,6533,6.7
+PVTF-S18-212-14,PVTF-S18-212-14,Pleasant Valley Trout Farm,PV,creek chub,cc,-113.26,5794,6.5
+PVTF-S18-212-15,PVTF-S18-212-15,Pleasant Valley Trout Farm,PV,creek chub,cc,-123.33,6402,6.5
+PVTF-S18-212-16,PVTF-S18-212-16,Pleasant Valley Trout Farm,PV,creek chub,cc,-114.41,6732,6.7
+PVTF-S18-212-17,PVTF-S18-212-17,Pleasant Valley Trout Farm,PV,creek chub,cc,-126.48,5760,6.8
+PVTF-S18-212-18,PVTF-S18-212-18,Pleasant Valley Trout Farm,PV,creek chub,cc,-132.36,5368,6.6
+PVTF-S18-212-19,PVTF-S18-212-19,Pleasant Valley Trout Farm,PV,creek chub,cc,-103.53,5453,6.6
+PVTF-S18-212-20,PVTF-S18-212-20,Pleasant Valley Trout Farm,PV,creek chub,cc,-128.65,6519,6.7
+PVTF-S18-341-4,PVTF-S18-341-4,Pleasant Valley Trout Farm,PV,johnny darter,invertivore,-124.35,5829,7.1
+PVTF-S18-ALG-1,PVTF-S18-ALG-1,Pleasant Valley Trout Farm,PV,algae,algae,-124.92,15772,3.4
+PVTF-S18-ALG-2,PVTF-S18-ALG-2,Pleasant Valley Trout Farm,PV,algae,algae,-125.75,17532,3.8
+PVTF-S18-ALG-3,PVTF-S18-ALG-3,Pleasant Valley Trout Farm,PV,algae,algae,-123.04,16006,4.2
+PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-1,Pleasant Valley Trout Farm,PV,caddisfly,aqbase,-136.59,5552,5.8
+PVTF-S18-CADDISFLY-1,PVTF-S18-CADDISFLY-2,Pleasant Valley Trout Farm,PV,caddisfly,aqbase,-136.59,5552,5.8
+PVTF-S18-CATERPILLAR,PVTF-S18-CATERPILLAR,Pleasant Valley Trout Farm,PV,caterpillar,terbase,-116.78,6310,6.9
+PVTF-S18-DET-1,PVTF-S18-DET-1,Pleasant Valley Trout Farm,PV,detritus,det,-94.33,3216,2.5
+PVTF-S18-DET-2,PVTF-S18-DET-2,Pleasant Valley Trout Farm,PV,detritus,det,-102.3,2952,2.4
+PVTF-S18-DET-3,PVTF-S18-DET-3,Pleasant Valley Trout Farm,PV,detritus,det,-104.03,2984,2.5
+PVTF-S18-Gol-1,PVTF-S18-GOL-1,Pleasant Valley Trout Farm,PV,goldenrod,terpp,-162.5,6279,6.4
+PVTF-S18-Gol-2,PVTF-S18-GOL-2,Pleasant Valley Trout Farm,PV,goldenrod,terpp,-155.4,5568,6.6
+PVTF-S18-Gol-3,PVTF-S18-GOL-3,Pleasant Valley Trout Farm,PV,goldenrod,terpp,-155.86,5144,6.5
+PVTF-S18-SNAILS-1,PVTF-S18-SNAIL-1,Pleasant Valley Trout Farm,PV,european garden snail,terbase,-81.9,6148,6.6
+PVTF-S18-SNAILS-2,PVTF-S18-SNAIL-2,Pleasant Valley Trout Farm,PV,european garden snail,terbase,-79.94,6500,7
 SC-S18-163-4,SC-S18-163-4,Caughell,SC,white sucker,detritivore,-122.35,14857,7
 SC-S18-212-1,SC-S18-212-1,Caughell,SC,creek chub,cc,-104.68,16756,6.7
 SC-S18-212-10,SC-S18-212-10,Caughell,SC,creek chub,cc,-117.51,14703,6.4

@@ -7,4 +7,3 @@ dat = dat %>% pivot_longer(
   values_to = "count"
 )
 
-dat <-

@@ -1,5 +1,19 @@
 source("R/5_coupling_tp_regressions.R")
 
+dat <- read.csv("data/2018mastersanalysis.csv", header = T)
+
+dat = dat %>% pivot_longer(
+  cols = blacknose.dace:bluegill,
+  values_to = "count"
+) 
+
+richness = dat %>% mutate(presence = case_when(count > 0 ~ 1,
+                                    count == 0 ~ 0)) %>%
+  group_by(sitecode) %>%
+  summarise(richness = sum(presence))
+
+
+
 # creek chub abundance data
 cc <- read.csv("data/2018fishwbulk.csv")
 cc_count = cc %>% filter(species == "creek chub") %>%
@@ -22,21 +36,23 @@ abun <- right_join(cc_count, aqinv)
 abun <- right_join(abun, pcascores)
 abun <- right_join(abun, pcadata)
 abun <- right_join(abun, terinv, by = "sitecode")
+abun <- right_join(abun, richness)
 
 abun %>% filter(totalcount.x < 100)
 
 plot(((abun$edibles+1)/abun$totalcount.x) ~ abun$log_ag_250)
 
-plot(log10(abun$cc_n+1) ~ abun$log_ag_250)
+richmod = lm(log10(abun$cc_n) ~ abun$log_ag_250 + abun$richness)
 
-summary(lm(log10(abun$cc_n+1) ~ abun$log_ag_250))
+
+summary(richmod)
 
 # calculate ratio of cc to edible inverts
 abun$ratio_cc_edible <- abun$cc_n/abun$edibles
 abun$ratio_cc_totalaq <- abun$cc_n/abun$totalcount.x
 
-plot(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250)
-summary(lm(log10(abun$ratio_cc_edible+1) ~ abun$log_ag_250))
+mod = lm(log10(abun$edibles+1) ~ abun$richness)
+summary(mod)
 
 # make some plots
 mod_ag <- lm(ratio_cc_edible ~ log_ag_250, data = abun)
@@ -51,7 +67,19 @@ summary(mod_buf)
 plot(log10(ratio_cc_edible) ~ log_buf_width, data = abun, pch = 19)
 abline(mod_buf)
 
-cc %>% filter(species == "creek chub") %>% 
+mod_n <- lm(log_n ~ log_p_ag, data = abun)
+summary(mod_n)
+
+plot(log_n ~ log_p_ag, data = abun)
+abline(mod_n)
+
+mod_p <- lm(log_p ~ log_p_ag, data = abun)
+summary(mod_p)
+
+plot(log_p ~ log_p_ag, data = abun)
+abline(mod_p)
+
+cc %>% fnlter(species == "creek chub") %>% 
   group_by(sitecode) %>%
   summarise(count = n()) %>%
   right_join(pcadata) %>%
@@ -63,7 +91,8 @@ cc %>% filter(species == "creek chub") %>%
   right_join(pcadata) %>%
   ggplot(aes(x = log_ag_250, y = mean_w)) + geom_point() 
 
-abun <- right_join(abun, si, by = "sitecode")
+#coupling and TP vs invery densities
+abun1 <- right_join(abun, si, by = "sitecode")
 
 # model for terrestrial energy
 hist(plogis(abun$ter_energy_pp))
@@ -99,3 +128,18 @@ avPlots(mod_tp,"log_ag_250.x",  ylab="trophic position", xlab="log10 partial loc
 avPlots(mod_tp,"predatory",  ylab="trophic position", xlab="partial proportion terrestrial predatory insects",
         grid = F, id = F, pch = 19, col.lines = "black", bty ="l", ylim = c(-5.5, 2))
 
+richmod = lm(log10(cc_n) ~ richness, data = abun)
+summary(richmod)
+xx=as.data.frame(avPlot(richmod, "richness"))
+xx$sitecode = abun$sitecode
+
+ediblemod = lm(log10(edibles) ~  richness, data = abun)
+summary(ediblemod)
+yy=as.data.frame(avPlot(ediblemod, "richness"))
+
+zz = merge(xx, yy, by = "log_ag_250.x")
+zz$ratio = zz$`log10(cc_n)`/zz$`log10(edibles)`
+zz = zz %>% filter(! ratio < -50)
+mod = lm(zz$ratio ~ zz$log_ag_250.x)
+
+plot(zz$ratio ~ zz$log_ag_250.x)
